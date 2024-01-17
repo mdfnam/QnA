@@ -43,6 +43,6 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 - As languages evolve over time, the usage of words undergoes a significant transformation, resulting in shifts in their contextual meaning. This evolution is characterized by repurposing of old words, as they are applied in different contexts compared to their original usage.
 - Being proficient in a MSA doesn't ensure a perfect understanding of ancient texts, as the meaning one attribute to word might differ from their historical usage. Therefore, knowing the contemporary meaning of a word doesn't necessarily lead to an accurate interpretation of how that word was used in the past.
 
-<br><img src="https://github.com/mdfnam/QnA/assets/156814846/ee4793a7-a20f-4096-8146-5c12bec0cdb5" width="700"><br>
+<img src="https://github.com/mdfnam/QnA/assets/156814846/ee4793a7-a20f-4096-8146-5c12bec0cdb5" width="700"><br>
 
 **Note:** Classical Arabic has been preserved through written texts and religious scriptures like the Quran and Hadith. While Arabic has been influenced by other cultures and languages over time, these influences did not significantly impact Classical Arabic.
