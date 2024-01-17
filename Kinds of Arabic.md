@@ -1,9 +1,11 @@
 # Kinds of Arabic
+
 ## Classification of Arabic
 Arabic can be classified into three primary kinds:
 - Colloquial Arabic 
 - Modern Standard Arabic
 - Classical Arabic
+
 ### Colloquial Arabic
 - **Definition:** Colloquial Arabic, aka Spoken or Daily Arabic, is the informal spoken form of Arabic that Arabs use to communicate in their daily lives. It differs from region to region, which is referred to as dialects. All the Arabic dialects have their unique pronunciation, vocabulary, and grammar, reflecting the historical, geographical, and cultural influences on the region.
 - **Examples:** Five unique dialects originating from different regions across the Arab world: the Egyptian dialect, Moroccan dialect, Syrian (Levantine) dialect, Gulf dialect, and Hijazi dialect.
@@ -38,23 +40,9 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 - When diverse cultures embraced Islam and adopted the Arabic language, they infused their own words and speaking styles into the Arabic language, reflecting the cultures of their respective regions. Over time, due to the influence of non-native speakers, the overall sophistication of the Arabic language began to decline.
 
 ### Contextual Evolution of Words
-- As languages evolve over time, the usage of words undergoes a significant transformation, resulting in shifts in their contextual meaning. This evolution is characterized by the repurpos- ing of old words, as they are applied in different contexts compared to their original usage.
+- As languages evolve over time, the usage of words undergoes a significant transformation, resulting in shifts in their contextual meaning. This evolution is characterized by repurposing of old words, as they are applied in different contexts compared to their original usage.
+- Being proficient in a modern language doesn't ensure a perfect understanding of ancient texts, as the meaning one attribute to word might differ from their historical usage. Therefore, knowing the contemporary meaning of a word doesn't necessarily lead to an accurate interpretation of how that word was used in the past.
 
+<br><img src="https://github.com/mdfnam/QnA/assets/156814846/ee4793a7-a20f-4096-8146-5c12bec0cdb5" width="700"><br>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+**Note:** Classical Arabic has been preserved through written texts and religious scriptures like the Quran and Hadith. While Arabic has been influenced by other cultures and languages over time, these influences did not significantly impact Classical Arabic.
