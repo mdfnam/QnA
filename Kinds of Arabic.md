@@ -41,7 +41,7 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 
 ### Contextual Evolution of Words
 - As languages evolve over time, the usage of words undergoes a significant transformation, resulting in shifts in their contextual meaning. This evolution is characterized by repurposing of old words, as they are applied in different contexts compared to their original usage.
-- Being proficient in a modern language doesn't ensure a perfect understanding of ancient texts, as the meaning one attribute to word might differ from their historical usage. Therefore, knowing the contemporary meaning of a word doesn't necessarily lead to an accurate interpretation of how that word was used in the past.
+- Being proficient in a MSA doesn't ensure a perfect understanding of ancient texts, as the meaning one attribute to word might differ from their historical usage. Therefore, knowing the contemporary meaning of a word doesn't necessarily lead to an accurate interpretation of how that word was used in the past.
 
 <br><img src="https://github.com/mdfnam/QnA/assets/156814846/ee4793a7-a20f-4096-8146-5c12bec0cdb5" width="700"><br>
 
