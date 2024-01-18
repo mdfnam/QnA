@@ -1,4 +1,4 @@
-# Kinds of Arabic [6 min]
+# Kinds of Arabic [7 min]
 
 ## Classification of Arabic
 Arabic can be classified into three primary kinds:
@@ -46,3 +46,6 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 <img src="https://github.com/mdfnam/QnA/assets/156814846/ee4793a7-a20f-4096-8146-5c12bec0cdb5" width="700"><br>
 
 **Note:** Classical Arabic has been preserved through written texts and religious scriptures like the Quran and Hadith. While Arabic has been influenced by other cultures and languages over time, these influences did not significantly impact Classical Arabic.
+
+## Summary
+Arabic, a diverse language, is classified into Colloquial, Modern Standard (MSA), and Classical forms. Colloquial, informal and region-specific, poses challenges in comprehension due to varying dialects. MSA, a standardized version, promotes mutual understanding among Arabic speakers globally, used in education, media, and formal contexts. Classical Arabic, from the Quran, is vital for understanding Islamic scriptures, distinct for its richness and complexity. Languages, including Arabic, evolve over time, simplifying grammar, adopting new words, and changing contextual meanings. MSA proficiency doesn't guarantee understanding ancient texts, emphasizing the importance of learning Classical Arabic for accurate interpretation of it.
