@@ -49,3 +49,5 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 
 ## Summary
 Arabic, a diverse language, is classified into Colloquial, Modern Standard (MSA), and Classical forms. Colloquial, informal and region-specific, poses challenges in comprehension due to varying dialects. MSA, a standardized version, promotes mutual understanding among Arabic speakers globally, used in education, media, and formal contexts. Classical Arabic, from the Quran, is vital for understanding Islamic scriptures, distinct for its richness and complexity. Languages, including Arabic, evolve over time, simplifying grammar, adopting new words, and changing contextual meanings. MSA proficiency doesn't guarantee understanding ancient texts, emphasizing the importance of learning Classical Arabic for accurate interpretation of it.
+
+---
