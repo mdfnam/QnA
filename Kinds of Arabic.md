@@ -1,4 +1,4 @@
-# Kinds of Arabic [7 min]
+# Kinds of Arabic
 
 ## Classification of Arabic
 Arabic can be classified into three primary kinds:
