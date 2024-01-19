@@ -93,17 +93,38 @@ Possessive adjective are used to show ownership or possession of a noun, typical
 
 ## Cases of Nouns
 Nouns have three cases:
-- Nominative or Subjective Case: Subject of the Verb
-- Accusative or Objective Case: Object of the Verb
+- Nominative or Subjective Case: subject of the verb
+- Accusative or Objective Case: object of the verb
 - Genitive or Possessive Case: possessor of a thing
 
 ### Nominative Case
 - **Definition:** The nominative case is used for the subject of a sentence, which is typically a noun or a pronoun that performs the action of the verb or is the "doer" of the action in a sentence.
-- **Identification:** Identify the act (verb) and then the subject of the verb can be determined by answering the question 'who' or 'what' performed the action in the sentence.
-- **Position:** Nouns or pronouns which are in the nominative case generally appears before the verb.
+- **Identification:** Identify the act (verb) and then the subject of the verb can be determined by answering the question 'who' or 'what' performed the action in the sentence. If the action is performed by a person then we use 'who' to make the question otherwise in case of thing we use 'what'.
+- **Position:** Nouns or pronouns which are in the nominative case generally appears before the verb. (Subject + Verb)
+
+<img src="https://github.com/mdfnam/QnA/assets/156814846/fc73a303-5e7f-40fd-8351-5c84db891083" width="500"><br>
+
+### Accusative Case
+- **Definition:** The accusative case is used for the object of a sentence, which is typically a noun or a pronoun that receive the action of the verb or is the "receiver" of the action in a sentence.
+- **Identification:** Identify the act (verb) and the doer and then the direct object of the verb can be determined by answering the question ‘whom’ or ‘what’ receive the action by the doer in the sentence. If the action is received by a person then we use 'whom' to make the question otherwise in case of thing we use 'what'.
+- **Position:** Nouns or pronouns which are in the accusative case generally appears after the verb. (Subject + Verb + Object)
 
 
 
+
+
+### Genitive Case
+
+#### Understanding Terms
+- Possession: refers to the state of owning, having a relationship with, or belonging to something.
+- Possessor: refers to the individual who owns or possesses something (owner).
+- Possessed object: refers to the item being possessed (the thing that is owned).
+
+#### Expressing possession
+In English, possession can be expressed through:
+- **Possessive adjective:** The possession is expressed by the possessive adjective (which is possessor) followed by the possessed object. These adjectives directly modify the noun to show possession. Example: Our faith, His path, Her notebook, Its message etc.
+- **Apostrophe possession:** The possession is expressed by the apostrophe followed by an “s” on possessor & then the possessed object. This form is used when we want to emphasize the possessor. Example: Muslim’s faith, Messenger’s path, Fatima’s notebook, Quran’s message etc.
+- **"of " possession:** The possession is expressed by the possessor followed by "of " and then the possessed object. This form is used when we want to emphasize the possessed thing. Example: Faith of Muslim, Path of Messenger, Notebook of Fatima, Message of Quran etc.
 
 
 
