@@ -7,7 +7,7 @@
 - **Mufrad `مُفْرَد`:** Refers to a single meaningful word.
 - **Murakkab `مُرَكَّب`:** Refers to the combination of two or more individual words (mufrad).
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/1fb8709b-939f-498a-8d74-3b3abedfa070" width="400"><br>
+<img src="https://github.com/mdfnam/QnA/assets/156814846/1fb8709b-939f-498a-8d74-3b3abedfa070" width="380"><br>
 
 - **Kalimah `كَلِمَة`:** A single meaningful utterance is referred to as ‘kalimah’. It can be further divided into three types also called ‘parts of speech’.
 
