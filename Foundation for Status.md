@@ -109,9 +109,7 @@ Nouns have three cases:
 - **Identification:** Identify the act (verb) and the doer and then the direct object of the verb can be determined by answering the question ‘whom’ or ‘what’ receive the action by the doer in the sentence. If the action is received by a person then we use 'whom' to make the question otherwise in case of thing we use 'what'.
 - **Position:** Nouns or pronouns which are in the accusative case generally appears after the verb. (Subject + Verb + Object)
 
-
-
-
+<img src="https://github.com/mdfnam/QnA/assets/156814846/7e58422b-9885-4d29-a248-903d20182e8e" width="500"><br>
 
 ### Genitive Case
 
