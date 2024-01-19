@@ -15,4 +15,6 @@ There are four properties of an ism, they are:
 - **Gender:** You will learn how to identify the gender of an Ism whether it is Masculine (muzakkar) or Feminine (mu'annas) by mastering the signs of Feminine Isms and their identification.
 - **Type:** You'll learn how to differentiate between the types of isms by recognizing the signs that distinguish Definite Isms (marifah) and Indefinite Isms (nakirah).
 
+**Note:** We will start our study with Status and then move on to Number, Gender and Type.
+
 ---
