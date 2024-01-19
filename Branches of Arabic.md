@@ -1,4 +1,4 @@
-# Branches of Arabic
+# Branches of Arabic [3 min]
 
 ## Three Branches 
 There are three fundamental sciences in the study of the Arabic language, particularly within the context of classical Arabic studies. These sciences focus on different aspects of the language:
@@ -15,8 +15,12 @@ Sarf, also known as Arabic morphology, is the study of the internal structure of
 ### Balagha بَلاغَةُ 
 Balagha, also known as Arabic rhetoric or eloquence, is the study of how language can be used effectively to convey meaning and create beauty in speech. It explores various figures of speech and techniques, such as repetition, parallelism, and metaphor, to enhance the impact of communication.
 
-We will start our study with Nahu - Arabic Grammar. 
-#### But Why?
-- 
+**Note:** We will start our study with Nahu - Arabic Grammar and with time, as the need arises, we will learn vocabulary.
 
+## Importance of Arabic Grammar
+Grammar teaches us the way to put vocabulary in a proper and organized way so that it make sense. After learning it, we will not only be able to translate a sentence correctly but also understand:
+- How Allah (SWT) put these words together?
+- Why did Allah (SWT) put these words together in such an order?
+- What if we rearranged them?
 
+---
