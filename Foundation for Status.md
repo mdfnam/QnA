@@ -1,4 +1,4 @@
-# Foundation for Status
+![image](https://github.com/mdfnam/QnA/assets/156814846/9cf36ecc-585d-47cb-8b6e-d015275e4ecb)# Foundation for Status
 
 ## Defining Noun
 A noun is a word that represents a beings, place, thing or concept (idea).
@@ -18,7 +18,7 @@ Nouns can be classified into two main categories: Proper nouns and Common nouns.
 
 ### Examples of Nouns
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/ecab0af9-c8f0-41e9-9f8b-8abfd6f861ed" width="550"><br>
+<img src="https://github.com/mdfnam/QnA/assets/156814846/ecab0af9-c8f0-41e9-9f8b-8abfd6f861ed" width="500"><br>
 
 **Note:** When referencing the word 'Allah’, it is important to use 'The Word Allah' for being respectful as we are discussing the word 'Allah’, not addressing Allah (SWT) Himself.
 
@@ -58,16 +58,49 @@ A pronoun is a word that represents a noun which is used to replace nouns to pre
 
 #### Person
 Person indicates the perspective of the speaker in relation to the noun being referred to.
-- First-person pronouns: [ I, We, Me, Us ] are used to refer to the person speaking (speaker).
-- Second-person pronouns: [ You ] is used to refer to the person being directly addressed or spoken to (listener).
-- Third-person pronouns: [ He, Him, She, Her, It, They, Them ] are used to refer to anyone or anything else that is being talked about, apart from the speaker or the listener.
+- First-person pronouns are used to refer to the person speaking (speaker).
+- Second-person pronouns is used to refer to the person being directly addressed or spoken to (listener).
+- Third-person pronouns are used to refer to anyone or anything else that is being talked about, apart from the speaker or the listener.
 
 #### Number
 Number indicates whether the pronoun refers to an individual noun or to a group of two or more.
-- Singular pronouns: [ I, Me, You, He, Him, She, Her, It ] are used to refer to an individual noun.
-- Plural pronouns: [ We, Us, You, They, Them ] are used to refer to two or more individual nouns.
+- Singular pronouns are used to refer to an individual noun.
+- Plural pronouns are used to refer to two or more individual nouns.
 
+#### Gender
+Gender indicates the gender of the specific individual being referred to.
+- Masculine pronouns are used to refer to males (men and boys).
+- Feminine pronouns are used to refer to females (women and girls).
+- Genderless pronouns are used to refer non human objects that don’t have a specific gender (neither masculine nor feminine).
+- Gender-Neutral pronouns are used to refer to groups of two or more people (same or different gender) or things (genderless).
 
+**Note:**
+- First Person Pronouns like I, me and you are used to refer to individuals, regardless of gender.
+- Second Person Pronouns like we, us and you are used to refer to groups of people, without specifying the gender composition of the group.
+
+#### Case
+Case indicates the grammatical role that the pronoun plays in a sentence.
+- Subject pronouns are used to refer to the nouns that serve as the subject of a sentence.
+- Object pronouns are used to refer to the nouns that serve as the object of a sentence.
+
+## Defining Adjective 
+An adjective is a word that describes or modifies a noun or pronoun.
+
+### Possessive Adjective
+Possessive adjective are used to show ownership or possession of a noun, typically come before the noun and indicate to whom or to what something belongs.
+
+<img src="https://github.com/mdfnam/QnA/assets/156814846/8c6a70e2-1de0-40b7-b2db-06f8e0f10524" width="500"><br>
+
+## Cases of Nouns
+Nouns have three cases:
+- Nominative or Subjective Case: Subject of the Verb
+- Accusative or Objective Case: Object of the Verb
+- Genitive or Possessive Case: possessor of a thing
+
+### Nominative Case
+- **Definition:** The nominative case is used for the subject of a sentence, which is typically a noun or a pronoun that performs the action of the verb or is the "doer" of the action in a sentence.
+- **Identification:** Identify the act (verb) and then the subject of the verb can be determined by answering the question 'who' or 'what' performed the action in the sentence.
+- **Position:** Nouns or pronouns which are in the nominative case generally appears before the verb.
 
 
 
