@@ -120,10 +120,10 @@ Nouns have three cases:
 
 #### Expressing possession
 In English, possession can be expressed through:
-- **Possessive adjective:** The possession is expressed by the possessive adjective (which is possessor) followed by the possessed object. These adjectives directly modify the noun to show possession. Example: Our faith, His path, Her notebook, Its message etc.
-- **Apostrophe possession:** The possession is expressed by the apostrophe followed by an “s” on possessor & then the possessed object. This form is used when we want to emphasize the possessor. Example: Muslim’s faith, Messenger’s path, Fatima’s notebook, Quran’s message etc.
-- **"of " possession:** The possession is expressed by the possessor followed by "of " and then the possessed object. This form is used when we want to emphasize the possessed thing. Example: Faith of Muslim, Path of Messenger, Notebook of Fatima, Message of Quran etc.
+- **Apostrophe possession:** The possession is expressed by the apostrophe followed by an “s” on possessor & then the possessed object. This form is used when we want to emphasize the possessor.
+- **"of " possession:** The possession is expressed by the possessor followed by "of " and then the possessed object. This form is used when we want to emphasize the possessed thing.
+- **Possessive adjective:** The possession is expressed by the possessive adjective (which is possessor) followed by the possessed object. These adjectives directly modify the noun to show possession. 
 
+<img src="https://github.com/mdfnam/QnA/assets/156814846/560cff8d-2570-45df-8e78-257ff3e76643" width="500"><br>
 
-
-
+---
