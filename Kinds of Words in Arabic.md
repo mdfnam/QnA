@@ -31,12 +31,4 @@ While reading the Quran, we encounter numerous words (kalimah) on every page, wh
 - In Arabic grammar, the term "harf " is often referred to as a "particle“. These particles serve to connect words, convey relationships, and provide additional information in a sentence. Arabic particles in english are typically prepositions and conjunctions.
 - We have not treated ‘Article’ as a separate part of speech because an article is nothing but a word that modifies a noun by indicating whether it is specific or general. We'll address this topic after discussing noun.
 
-
-
-
-
-
-
-
-
-
+---
