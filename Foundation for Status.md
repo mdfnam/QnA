@@ -1,4 +1,4 @@
-# Foundation for Status
+![image](https://github.com/mdfnam/QnA/assets/156814846/19c7636f-67c3-4903-acb8-1ceb4fbca492)# Foundation for Status
 
 ## Defining Noun
 A noun is a word that represents a beings, place, thing or concept (idea).
@@ -58,7 +58,18 @@ A pronoun is a word that represents a noun which is used to replace nouns to pre
 
 #### Person
 Person indicates the perspective of the speaker in relation to the noun being referred to.
-- First-person pronouns: [ I, We, Me, Us ] are used to refer to the person speaking (speaker)
+- First-person pronouns: [ I, We, Me, Us ] are used to refer to the person speaking (speaker).
+- Second-person pronouns: [ You ] is used to refer to the person being directly addressed or spoken to (listener).
+- Third-person pronouns: [ He, Him, She, Her, It, They, Them ] are used to refer to anyone or anything else that is being talked about, apart from the speaker or the listener.
+
+#### Number
+Number indicates whether the pronoun refers to an individual noun or to a group of two or more.
+- Singular pronouns: [ I, Me, You, He, Him, She, Her, It ] are used to refer to an individual noun.
+- Plural pronouns: [ We, Us, You, They, Them ] are used to refer to two or more individual nouns.
+
+
+
+
 
 
 
