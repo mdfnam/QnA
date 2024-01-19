@@ -11,6 +11,7 @@ Table of Content:
 - [Intoduction to Ism](https://github.com/mdfnam/QnA/blob/main/Introduction%20to%20Ism.md)
 - [Foundation for Status](https://github.com/mdfnam/QnA/blob/main/Foundation%20for%20Status.md)
 - [Forms of Status](https://github.com/mdfnam/QnA/blob/main/Forms%20of%20Status.md)
+- [How to Tell Status](https://github.com/mdfnam/QnA/blob/main/How%20to%20Tell%20Status.md)
 
 
 
