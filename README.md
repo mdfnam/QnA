@@ -1,7 +1,7 @@
 # QnA [Quran AnD Arabic]
 Table of Content:
-[Arabic](#arabic)
-[Quran](#quran)
+- [Arabic](#arabic)
+- [Quran](#quran)
 
 ## Arabic
 Table of Content:
