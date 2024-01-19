@@ -1,4 +1,4 @@
-![image](https://github.com/mdfnam/QnA/assets/156814846/9cf36ecc-585d-47cb-8b6e-d015275e4ecb)# Foundation for Status
+# Foundation for Status
 
 ## Defining Noun
 A noun is a word that represents a beings, place, thing or concept (idea).
