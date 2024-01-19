@@ -10,7 +10,7 @@ Table of Content:
 - [Kinds of Words in Arabic](https://github.com/mdfnam/QnA/blob/main/Kinds%20of%20Words%20in%20Arabic.md)
 - [Intoduction to Ism](https://github.com/mdfnam/QnA/blob/main/Introduction%20to%20Ism.md)
 - [Foundation for Status](https://github.com/mdfnam/QnA/blob/main/Foundation%20for%20Status.md)
-
+- [Forms of Status](https://github.com/mdfnam/QnA/blob/main/Forms%20of%20Status.md)
 
 
 
