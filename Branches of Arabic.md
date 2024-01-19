@@ -1,4 +1,4 @@
-# Branches of Arabic [3 min]
+# Branches of Arabic
 
 ## Three Branches 
 There are three fundamental sciences in the study of the Arabic language, particularly within the context of classical Arabic studies. These sciences focus on different aspects of the language:
