@@ -7,7 +7,7 @@ Arabic can be classified into three primary kinds:
 - Classical Arabic
 
 ### Colloquial Arabic
-- **Definition:** Colloquial Arabic, aka Spoken or Daily Arabic, is the informal spoken form of Arabic that Arabs use to communicate in their daily lives. It differs from region to region, which is referred to as dialects. All the Arabic dialects have their unique pronunciation, vocabulary, and grammar, reflecting the historical, geographical, and cultural influences on the region.
+- **Definition:** Colloquial Arabic, aka Spoken Arabic, is the informal spoken form of Arabic that Arabs use to communicate in their daily lives. It differs from region to region, which is referred to as dialects. All the Arabic dialects have their unique pronunciation, vocabulary, and grammar, reflecting the historical, geographical, and cultural influences on the region.
 - **Examples:** Five unique dialects originating from different regions across the Arab world are: the Egyptian dialect, Moroccan dialect, Syrian (Levantine) dialect, Gulf dialect, Hijazi dialect and many more.
 - **Challenges:** Depending on their place of origin, individuals may exhibit variations in accent, expression, and idiom usage, contributing to potential comprehension challenges, despite sharing a common foundation in the language.
 
@@ -45,7 +45,8 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 
 <img src="https://github.com/mdfnam/QnA/assets/156814846/ee4793a7-a20f-4096-8146-5c12bec0cdb5" width="700"><br>
 
-**Note:** Classical Arabic has been preserved through written texts and religious scriptures like the Quran and Hadith. While Arabic has been influenced by other cultures and languages over time, these influences did not significantly impact Classical Arabic.
+**Note:** 
+- Classical Arabic is considered dead today because it is no longer spoken. However, religious scriptures such as the Quran and Hadith have played a crucial role in preserving it. Despite the influence of various cultures and languages on Arabic over time, these influences did not significantly impact Classical Arabic. Credit for this preservation goes to Islamic scholars, who not only documented the ancient grammar and vocabulary but also recorded the meanings of words and how they were used by Arabic Bedouins. Furthermore, they passed this knowledge down from generation to generation. As a result, individuals studying anywhere in the world today can seamlessly refer to these classical sources, ensuring a profound understanding of the original meanings and contextual usage of words as they existed in times long past.
 
 ## Summary
 Arabic, a diverse language, is classified into Colloquial, Modern Standard (MSA), and Classical forms. Colloquial, informal and region-specific, poses challenges in comprehension due to varying dialects. MSA, a standardized version, promotes mutual understanding among Arabic speakers globally, used in education, media, and formal contexts. Classical Arabic, from the Quran, is vital for understanding Islamic scriptures, distinct for its richness and complexity. Languages, including Arabic, evolve over time, simplifying grammar, adopting new words, and changing contextual meanings. MSA proficiency doesn't guarantee understanding ancient texts, emphasizing the importance of learning Classical Arabic for accurate interpretation of it.
