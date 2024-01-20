@@ -17,16 +17,22 @@ We will learn about :
 - Short Vowels (Haraka-حَرَكَة)
 - Double Vowels (Tanween-تَنوِين)
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/a21ac372-bce8-4e73-b4e5-60e8ee983bc6" width="550"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/27c84834-a22c-4398-a0e4-dfc8fbcbca1f" width="500">
+</p>
 
 - 6 Important Letters
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/9e23fb42-a0f2-4e49-bb9b-5c50138f95e4" width="550"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/e5f073e8-8807-4259-9436-11c562f96b12" width="500">
+</p>
 
 - Long Vowels (Madd)
 - ‘Yaa’ Diphthong
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/795a4000-7d8d-4c24-826f-2f6596b0b304" width="550"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/deb46343-6408-4e10-9391-9544df3cc225" width="500">
+</p>
 
 **Note:**
 - Here the dotted circle represents the last letter, but it can be any letter within the word. Since we are currently focusing on grammatical cases (status), our primary emphasis is on the last letter of the word.
@@ -47,7 +53,9 @@ There are three ending sounds:
 - an ` ً` - Nasb status
 - in ` ٍ` - Jarr status
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/a84e0812-e2af-4c57-a5f7-1b534b67ee11" width="250"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/455cdd32-94fd-4878-8bc8-cbd8d20b877e" width="230">
+</p>
 
 **Note:**
 - An ism ending with tanween is considered singular. However, it can also be used in the plural form, & we will explore this aspect later in the course.
@@ -55,7 +63,10 @@ There are three ending sounds:
 
 Example: The مُسْلِم (masculine) & the مُسْلِمَة (feminine) is the base word here and the status marker is the Double Vowels (Tanween-تَنوِين) that sits on the last letter & changes to show different status.
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/a032d7f5-1916-4565-b6b8-7b61821ea3f7" width="250"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/3feb4484-09f3-493d-baf6-0c1b85b663dc" width="500">
+</p>
+
 
 ## Pair Ending Combination & Its Status
 There are three ending combinations:
@@ -63,7 +74,9 @@ There are three ending combinations:
 - ayni `ينِ َ` - Nasb status
 - ayni `ينِ َ` - Jarr status
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/a79a3341-2584-4c8e-9a72-510843e087c1" width="250"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/ed5e25f6-2933-437a-a2a7-d7326775554d" width="230">
+</p>
 
 **Note:**
 - The nasb & jarr forms are identical. The distinction between them relies on context, which we will learn to recognize later in our study.
@@ -71,7 +84,9 @@ There are three ending combinations:
 
 Example: The مُسْلِم (mas.) & the مُسْلِمَة (fem.) is the base word here & everything beyond that is status marker (combination of haraka placed on last letter followed by two addidtional letter).
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/691caf0f-d867-4546-8c2a-512396a9b28b" width="250"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/e2a8648b-9fc3-4964-8409-1748b70ab1e1" width="500">
+</p>
 
 ## Plural Masculine Ending Combination & Its Status
 There are three masculine ending combinations:
@@ -79,7 +94,9 @@ There are three masculine ending combinations:
 - eena `ينَ ِ` - Nasb status
 - eena `ينِ َ` - Jarr status
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/18f64a99-50a9-4d34-b223-b6bfdd9c51e1" width="250"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/5d2e2ac5-4de9-4c6b-9885-d4cc382a4440" width="230">
+</p>
 
 **Note:**
 - The nasb & jarr forms are identical. The distinction between them relies on context, which we will learn to recognize later in our study.
@@ -87,7 +104,9 @@ There are three masculine ending combinations:
 
 Example: The مُسْلِم (mas.) is the base word here & everything beyond that is the status marker (combination comprises a haraka that sits on the last letter followed by two addidtional letter).
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/2ebf130f-5266-46b7-a36b-7cf55c574202" width="200"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/c8b1db0a-f6b0-4f3c-b1d6-2c9d76f062d9" width="200">
+</p>
 
 **Note:**
 - The plural masculine form is only used to indicate plural entities associated with humans & may be extended to jinns.
@@ -100,7 +119,9 @@ There are three masculine ending combinations:
 - eena `اتٍ َ` - Nasb status
 - eena `اتٍ َ` - Jarr status
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/860df680-0737-4923-b644-a3405b13f395" width="250"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/6bd0549c-f372-4457-8ad8-8ec942c79ef1" width="250">
+</p>
 
 **Note:** 
 - The nasb & jarr forms are identical. The distinction between them relies on context, which we will learn to recognize later in our study.
@@ -108,7 +129,9 @@ There are three masculine ending combinations:
 
 Example: The مُسْلِم (mas.) is the base word here also & everything beyond that is status marker (combination comprises a haraka that sits on the last letter followed by two addidtional letter).
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/f2471984-63ea-42ce-b313-31a1d1c29395" width="200"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/40942597-b6a2-4972-b351-bfac866f1130" width="200">
+</p>
 
 **Note:**
 - The plural feminine form can be used for people but is not only limited to them. Example: سَمَاوَاتٌ (Skies)
@@ -117,21 +140,28 @@ Example: The مُسْلِم (mas.) is the base word here also & everything beyon
 
 ## Table: Status Chart
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/d85637b3-d93e-4f5b-aa32-2d644939f516" width="500"><br>
-
-<img src="https://github.com/mdfnam/QnA/assets/156814846/96eb8f8e-cacc-4dd9-9e08-2b7d41aeeed9" width="500"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/d85637b3-d93e-4f5b-aa32-2d644939f516" width="500">
+</p>
 
 ### Status Chart: Muslim
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/5203c4fd-b169-4f24-ab7d-fb0a610d8e64" width="500"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/5203c4fd-b169-4f24-ab7d-fb0a610d8e64" width="500">
+</p>
 
 #### Status Chart: Muslim (masculine)
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/9c5234b6-8b3f-46f9-88d0-84224d7ac3f3" width="500"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/9c5234b6-8b3f-46f9-88d0-84224d7ac3f3" width="400">
+</p>
 
 #### Status Chart: Muslim (feminine)
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/16ba39d2-c613-4773-9934-3d672320c8b1" width="500"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/16ba39d2-c613-4773-9934-3d672320c8b1" width="400">
+</p>
 
 Remember to Learn Table: Status Chart (previous slide) in both directions: from top to bottom (by number: singular, pair and plural) and from left to right (by status: raf’, nasb and jarr).
 
+---
