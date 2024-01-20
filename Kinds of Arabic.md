@@ -44,7 +44,7 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 - Consequently, being proficient in MSA doesn't ensure a perfect understanding of ancient texts, as the meaning one attribute to word might differ from their historical usage. Therefore, knowing the contemporary meaning of a word doesn't necessarily lead to an accurate interpretation of how that word was used in the past.
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/c7c5f9b5-7f97-4a99-87b5-e9529bec9c51" width="550">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/608a3d6f-81ce-403a-9587-d09f82edd9a6" width="550">
 </p>
 
 ## Preservation of Classical Arabic
