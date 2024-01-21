@@ -7,14 +7,8 @@ Arabic can be classified into three primary kinds:
 - Classical Arabic
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/8dc9f410-9f81-4c4b-9e54-ae013ca01280" width="450">
-</p>
-
-<p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/009c7beb-b285-4afc-bf92-9995909f94bd" width="450">
 </p>
-
-
 
 ### Colloquial Arabic
 - **Definition:** Colloquial Arabic, aka Spoken Arabic, is the informal spoken form of Arabic that Arabs use to communicate in their daily lives. It differs from region to region, which is referred to as dialects. All the Arabic dialects have their unique pronunciation, vocabulary, and grammar, reflecting the historical, geographical, and cultural influences on the region.
@@ -42,7 +36,7 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 - Contextual Evolution of Words
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/4ceb4ce0-5198-4a55-9e0f-98319fce5776" width="550">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/01f4a17f-d693-4898-a342-509e7d1d199d" width="550">
 </p>
 
 ### Simplification of Words
@@ -58,7 +52,7 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 - Consequently, being proficient in MSA doesn't ensure a perfect understanding of ancient texts, as the meaning one attribute to word might differ from their historical usage. Therefore, knowing the contemporary meaning of a word doesn't necessarily lead to an accurate interpretation of how that word was used in the past.
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/4399c49d-b7a3-471c-9224-31cf433ba2e9" width="550">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/8c879ece-1190-4c30-bae3-74d8264eb765" width="550">
 </p>
 
 ## Preservation of Classical Arabic
