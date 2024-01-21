@@ -10,6 +10,10 @@ Arabic can be classified into three primary kinds:
   <img src="https://github.com/mdfnam/QnA/assets/156814846/d217bb44-c8ad-4c89-b704-a184230dc93f" width="450">
 </p>
 
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/7917b027-48bb-4ff4-b3d9-2f0c5e59fd88" width="450">
+</p>
+
 ### Colloquial Arabic
 - **Definition:** Colloquial Arabic, aka Spoken Arabic, is the informal spoken form of Arabic that Arabs use to communicate in their daily lives. It differs from region to region, which is referred to as dialects. All the Arabic dialects have their unique pronunciation, vocabulary, and grammar, reflecting the historical, geographical, and cultural influences on the region.
 - **Examples:** Five unique dialects originating from different regions across the Arab world are: the Egyptian dialect, Moroccan dialect, Syrian (Levantine) dialect, Gulf dialect, Hijazi dialect and many more.
