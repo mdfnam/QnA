@@ -29,7 +29,7 @@ Arabic can be classified into three primary kinds:
 > ### رَبِّی یَسِّرْ وَلَا تُعَسِّرْ وَ تَمِّمْ بِالْخَیْر
     My Lord, make it easy and do not make it difficult, and complete it with goodness
 
-## Evolution of a Language
+## Evolution of Language
 Over the course of time, languages undergo an evolutionary process, resulting in their classification into two distinct forms: Ancient and Modern variations; these two forms differ in several aspects. Below, we will explore three points related to the evolution of any language.
 - Simplification of Words
 - Adaptation of New Words
