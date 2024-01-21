@@ -7,11 +7,7 @@ Arabic can be classified into three primary kinds:
 - Classical Arabic
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/d217bb44-c8ad-4c89-b704-a184230dc93f" width="450">
-</p>
-
-<p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/7917b027-48bb-4ff4-b3d9-2f0c5e59fd88" width="450">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/b9f1d2c8-cb33-42d8-83d3-c66a87930a1a" width="450">
 </p>
 
 ### Colloquial Arabic
@@ -40,7 +36,7 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 - Contextual Evolution of Words
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/66e32059-ff37-4cd8-ade3-f9da217f9ade" width="550">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/4ceb4ce0-5198-4a55-9e0f-98319fce5776" width="550">
 </p>
 
 ### Simplification of Words
@@ -56,7 +52,7 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 - Consequently, being proficient in MSA doesn't ensure a perfect understanding of ancient texts, as the meaning one attribute to word might differ from their historical usage. Therefore, knowing the contemporary meaning of a word doesn't necessarily lead to an accurate interpretation of how that word was used in the past.
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/eabcd772-f7da-4745-99bc-a3e3acb857c0" width="550">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/4399c49d-b7a3-471c-9224-31cf433ba2e9" width="550">
 </p>
 
 ## Preservation of Classical Arabic
