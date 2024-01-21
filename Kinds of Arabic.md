@@ -7,7 +7,7 @@ Arabic can be classified into three primary kinds:
 - Classical Arabic
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/b9f1d2c8-cb33-42d8-83d3-c66a87930a1a" width="450">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/8dc9f410-9f81-4c4b-9e54-ae013ca01280" width="450">
 </p>
 
 ### Colloquial Arabic
