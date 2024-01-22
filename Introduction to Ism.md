@@ -2,12 +2,14 @@
 
 ## 04 Properties of an Ism
 There are four properties of an ism, they are:
-- Status `الإِعْرَابُ`
-- Number `العَدَدُ`
-- Gender `الجِنْسُ`
-- Type `القِسْمُ`
+- Status `إِعْرَاب`
+- Number `عَدَد`
+- Gender `جِنْس`
+- Type `قِسْم`
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/6fde1727-4943-4df8-889f-ad29b4d20355" width="480"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/6a15e2d0-c0a8-422c-8e10-84d7fe949b96" width="450">
+</p>
 
 ### What will you learn
 - **Status:** You will learn how the status of an Ism, whether in the nominative (raf'), accusative (nasb), or genitive (jarr) case, affects its role in a sentence and its relationship with other words.
