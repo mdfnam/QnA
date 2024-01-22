@@ -6,14 +6,18 @@ There are three fundamental sciences in the study of the Arabic language, partic
 - Sarf
 - Balagha
 
-### Nahw نَحْوُ
-Nahw, also known as Arabic grammar, is the study of the structure and syntax of sentences. It focuses on the rules and principles governing how words are arranged to form meaningful sentences.
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/619677d2-3278-47e6-8838-2c1a84d0635a" width="450">
+</p>
 
-### Sarf صَرْفُ 
-Sarf, also known as Arabic morphology, is the study of the internal structure of words and how they change to convey different meanings. It focuses on the pattern of how root letters are manipulated to create nouns, verbs and other word forms, while also indicating changes in factors such as tense, number, gender, and other grammatical aspects.
+### Nahw
+Nahw `نَحْوُ`, also known as Arabic grammar, is the study of the structure and syntax of sentences. It focuses on the rules and principles governing how words are arranged to form meaningful sentences.
 
-### Balagha بَلاغَةُ 
-Balagha, also known as Arabic rhetoric or eloquence, is the study of how language can be used effectively to convey meaning and create beauty in speech. It explores various figures of speech and techniques, such as repetition, parallelism, and metaphor, to enhance the impact of communication.
+### Sarf  
+Sarf `صَرْفُ`, also known as Arabic morphology, is the study of the internal structure of words and how they change to convey different meanings. It focuses on the pattern of how root letters are manipulated to create nouns, verbs and other word forms, while also indicating changes in factors such as tense, number, gender, and other grammatical aspects.
+
+### Balagha  
+Balagha `بَلاغَةُ`, also known as Arabic rhetoric or eloquence, is the study of how language can be used effectively to convey meaning and create beauty in speech. It explores various figures of speech and techniques, such as repetition, parallelism, and metaphor, to enhance the impact of communication.
 
 **Note:** We will start our study with Nahu - Arabic Grammar and with time, as the need arises, we will learn vocabulary.
 
