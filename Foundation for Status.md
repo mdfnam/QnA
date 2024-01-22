@@ -128,7 +128,7 @@ Nouns have three cases:
 
 ### Nominative Case
 - **Definition:** The nominative case is used for the subject of a sentence, which is typically a noun or a pronoun that performs the action of the verb or is the "doer" of the action in a sentence.
-- **Identification:** Identify the act (verb) and then the subject of the verb can be determined by answering the question 'who' or 'what' performed the action in the sentence. If the action is performed by a person then we use 'who' to make the question otherwise in case of thing we use 'what'.
+- **Identification:** Firstly, identify the verb (action) in the sentence, and then determine the subject of the verb by answering the question 'who' or 'what' performed the action. When the action is carried out by a person, 'who' is used to form the question; otherwise use 'what'.
 - **Position:** Nouns or pronouns which are in the nominative case generally appears before the verb. (Subject + Verb)
 
 <p align="center">
@@ -137,10 +137,12 @@ Nouns have three cases:
 
 ### Accusative Case
 - **Definition:** The accusative case is used for the object of a sentence, which is typically a noun or a pronoun that receive the action of the verb or is the "receiver" of the action in a sentence.
-- **Identification:** Identify the act (verb) and the doer and then the direct object of the verb can be determined by answering the question ‘whom’ or ‘what’ receive the action by the doer in the sentence. If the action is received by a person then we use 'whom' to make the question otherwise in case of thing we use 'what'.
+- **Identification:** Firstly, identify the act (verb) and the doer and then the direct object of the verb can be determined by answering the question ‘whom’ or ‘what’ receive the action by the doer in the sentence. When the action is received by a person, 'whom' is used to form the question; otherwise, in the case of an action done by a thing, 'what' is used."
 - **Position:** Nouns or pronouns which are in the accusative case generally appears after the verb. (Subject + Verb + Object)
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/7e58422b-9885-4d29-a248-903d20182e8e" width="500"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/db943afc-4bdf-470e-bc9f-f1358981e3c9" width="450">
+</p>
 
 ### Genitive Case
 
@@ -155,6 +157,9 @@ In English, possession can be expressed through:
 - **"of " possession:** The possession is expressed by the possessor followed by "of " and then the possessed object. This form is used when we want to emphasize the possessed thing.
 - **Possessive adjective:** The possession is expressed by the possessive adjective (which is possessor) followed by the possessed object. These adjectives directly modify the noun to show possession. 
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/560cff8d-2570-45df-8e78-257ff3e76643" width="500"><br>
+## Examples
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/f155c4d5-c4c1-4b99-b5b7-b81150534d16" width="450">
+</p>
 
 ---
