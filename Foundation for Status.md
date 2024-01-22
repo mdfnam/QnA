@@ -11,16 +11,18 @@ A noun is a word that represents a beings, place, thing or concept (idea).
 
 ### Classification of Noun
 Nouns can be classified into two main categories: Proper nouns and Common nouns.
-- Proper nouns are specific name of any particular beings, place, thing or concept. They are always capitalized.
-- Common nouns are more generic (nonspecific) as they represent general names for any beings, places, things, or concepts. They are only capitalized when they start a sentence.
+- Proper nouns are specific name of any particular being, place, thing or concept. They are always capitalized.
+- Common nouns are more generic (nonspecific) as they represent general name for any being, place, thing, or concept. They are only capitalized when they start a sentence.
 
-**Note:** Using ‘the’ before a common noun does not make it proper but rather definite or specific.
+**Note:** Using ‘the’ before a common noun does not make it proper but rather definite.
 
 ### Examples of Nouns
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/ecab0af9-c8f0-41e9-9f8b-8abfd6f861ed" width="500"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/edc66803-98d5-45a9-9d8c-8acb22ac99c4" width="430">
+</p>
 
-**Note:** When referencing the word 'Allah’, it is important to use 'The Word Allah' for being respectful as we are discussing the word 'Allah’, not addressing Allah (SWT) Himself.
+**Note:** When discussing the word 'Allah’, it is important to use 'The Word Allah' for being respectful as we are discussing the word 'Allah’, not addressing Allah (SWT) Himself.
 
 ### Idea-Adjective-Adverb
 - Islam-Islamic-Islamically
@@ -33,22 +35,28 @@ Articles precede nouns, serving the purpose of indicating whether the noun refer
 Articles can be classified into two categories: Definite Article and Indefinite Article.
 
 ### Definite Article
-- Definite Article (the): It is used before a noun that both the speaker and the listener know about or have previously discussed. It is applicable to both proper and common nouns.
-- Example: “The Quran” (use before proper noun), "The book" (use before common noun)
+- Definite Article (the): It is used before a noun that both the speaker and the listener know about or have previously discussed. It can be used before both proper and common nouns.
+- Example: “The Quran” (used before proper noun), "The book" (used before common noun)
+
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/fd13dac5-1102-4f0c-b5c5-497a4c6d7e4a" width="530">
+</p>
+
 **Note:** 
 - In Arabic, we use ‘ال’  (pronounced as ‘al’) as the definite article, which is attached to the beginning of a word.
 - In English, word ‘the’ appears separate from the actual word, whereas in Arabic, the word itself contains the meaning of ‘the’, so we often need two English words to express what a single Arabic word conveys.
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/31a2ad44-d77a-4f3e-98b0-888d13ab4efd" width="630"><br>
-
 ### Indefinite Article
 - Indefinite Articles (a & an): These are used before general or nonspecific nouns, primarly with singular common nouns.
-- Example: “A book” or “An elephant” (use before common noun)
-**Note:**
-- In Arabic, all ism are generally considered indefinite unless specified otherwise. Unlike English, Arabic doesn't have a distinct word equivalent to the English indefinite articles 'a' or 'an.' Instead, the sense of indefiniteness is often conveyed through the absence of the definite article ‘ال’.
-- When translating "كِتَابٌ" independently, it is often rendered as 'book.' In English, it's typicall to use an indefinite article when referring to a singular, unspecified common noun within a sentence. Consequently, when "كِتَابٌ" is integrated into a sentence, it is translated as 'a book.'
+- Example: “A book” or “An elephant” (used before common noun)
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/392c2f05-cd8f-4f47-acf4-832577bc5b88" width="630"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/63ac679b-a1a9-41cc-bfb8-cb389065c89e" width="530">
+</p>
+
+**Note:**
+- Unlike English, Arabic lacks a distinct word equivalent to the English indefinite articles 'a' or 'an.' Instead, the sense of indefiniteness is often conveyed through the absence of the definite article 'ال'.
+- When translating "كِتَابٌ" independently, it is often rendered as 'book'. When we use a singular, unspecified common noun within a sentence, it's common to use an indefinite article before it. Consequently, when "كِتَابٌ" is integrated into a sentence, it is translated as 'a book.'
 
 ## Defining Pronouns
 A pronoun is a word that represents a noun which is used to replace nouns to prevent repetition and provide clarity in a sentence.
@@ -74,9 +82,7 @@ Gender indicates the gender of the specific individual being referred to.
 - Genderless pronouns are used to refer non human objects that don’t have a specific gender (neither masculine nor feminine).
 - Gender-Neutral pronouns are used to refer to groups of two or more people (same or different gender) or things (genderless).
 
-**Note:**
-- First Person Pronouns like I, me and you are used to refer to individuals, regardless of gender.
-- Second Person Pronouns like we, us and you are used to refer to groups of people, without specifying the gender composition of the group.
+**Note:** First Person Pronouns like I, me and you are used to refer to individuals, regardless of gender.
 
 #### Case
 Case indicates the grammatical role that the pronoun plays in a sentence.
@@ -89,7 +95,26 @@ An adjective is a word that describes or modifies a noun or pronoun.
 ### Possessive Adjective
 Possessive adjective are used to show ownership or possession of a noun, typically come before the noun and indicate to whom or to what something belongs.
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/8c6a70e2-1de0-40b7-b2db-06f8e0f10524" width="500"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/b3a3630e-5889-4355-b2e6-04ccaea67f56" width="480">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/df26fa40-33df-41cc-a083-39119e36d3c0" width="480">
+</p>
+
+### Examples
+**First Person**
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/67486472-cf9c-40d4-b60c-8311b4312303" width="530">
+</p>
+
+**Second Person**
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/f5033f63-b84c-4f2e-94ea-132a927ad61c" width="530">
+</p>
+
+**Third Person**
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/9ef848ae-e57e-4c41-a748-498f323905e4" width="530">
+</p>
 
 ## Cases of Nouns
 Nouns have three cases:
@@ -97,12 +122,18 @@ Nouns have three cases:
 - Accusative or Objective Case: object of the verb
 - Genitive or Possessive Case: possessor of a thing
 
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/b3a1e706-e9fc-43ca-88a0-b91ea075bad6" width="450">
+</p>
+
 ### Nominative Case
 - **Definition:** The nominative case is used for the subject of a sentence, which is typically a noun or a pronoun that performs the action of the verb or is the "doer" of the action in a sentence.
 - **Identification:** Identify the act (verb) and then the subject of the verb can be determined by answering the question 'who' or 'what' performed the action in the sentence. If the action is performed by a person then we use 'who' to make the question otherwise in case of thing we use 'what'.
 - **Position:** Nouns or pronouns which are in the nominative case generally appears before the verb. (Subject + Verb)
 
-<img src="https://github.com/mdfnam/QnA/assets/156814846/fc73a303-5e7f-40fd-8351-5c84db891083" width="500"><br>
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/c568ca16-1591-47f9-99d7-6eb421c78dc0" width="450">
+</p>
 
 ### Accusative Case
 - **Definition:** The accusative case is used for the object of a sentence, which is typically a noun or a pronoun that receive the action of the verb or is the "receiver" of the action in a sentence.
