@@ -19,6 +19,6 @@ Sarf `صَرْفُ`, also known as Arabic morphology, is the study of the intern
 ### Balagha  
 Balagha `بَلاغَةُ`, also known as Arabic rhetoric or eloquence, is the study of how language can be used effectively to convey meaning and create beauty in speech. It explores various figures of speech and techniques, such as repetition, parallelism, and metaphor, to enhance the impact of communication.
 
-**Note:** We will start our study with Nahu - Arabic Grammar and with time, as the need arises, we will learn vocabulary.
+**Note:** We will start our study with Nahu - Arabic Grammar.
 
 ---
