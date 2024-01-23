@@ -15,6 +15,7 @@ Nahw `نَحْوُ`, also known as Arabic grammar, is the study of the structure
 
 ### Sarf  
 Sarf `صَرْفُ`, also known as Arabic morphology, is the study of the internal structure of words and how they change to convey different meanings. It focuses on the pattern of how root letters are manipulated to create nouns, verbs and other word forms, while also indicating changes in factors such as tense, number, gender, and other grammatical aspects.
+<!-- To form the doer of the verb 'teach,' add 'er' to create 'teacher.' To express the ongoing action of this verb in the present, append 'ing,' resulting in 'teaching'. This can be an example to understand the sarf better -->
 
 ### Balagha  
 Balagha `بَلاغَةُ`, also known as Arabic rhetoric or eloquence, is the study of how language can be used effectively to convey meaning and create beauty in speech. It explores various figures of speech and techniques, such as repetition, parallelism, and metaphor, to enhance the impact of communication.
