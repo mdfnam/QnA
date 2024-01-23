@@ -64,18 +64,18 @@ A pronoun is a word that represents a noun which is used to replace nouns to pre
 ### Personal Pronouns
 - Personal Pronouns are simple pronouns that are used to substitute proper names. They change form based on person, number, gender and case.
 
-#### Person
+### Person
 Person indicates the perspective of the speaker in relation to the noun being referred to.
 - First-person pronouns are used to refer to the person speaking (speaker).
 - Second-person pronouns is used to refer to the person being directly addressed or spoken to (listener).
 - Third-person pronouns are used to refer to anyone or anything else that is being talked about, apart from the speaker or the listener.
 
-#### Number
+### Number
 Number indicates whether the pronoun refers to an individual noun or to a group of two or more.
 - Singular pronouns are used to refer to an individual noun.
 - Plural pronouns are used to refer to two or more individual nouns.
 
-#### Gender
+### Gender
 Gender indicates the gender of the specific individual being referred to.
 - Masculine pronouns are used to refer to males (men and boys).
 - Feminine pronouns are used to refer to females (women and girls).
@@ -84,7 +84,7 @@ Gender indicates the gender of the specific individual being referred to.
 
 **Note:** First Person Pronouns like I, me and you are used to refer to individuals, regardless of gender.
 
-#### Case
+### Case
 Case indicates the grammatical role that the pronoun plays in a sentence.
 - Subject pronouns are used to refer to the nouns that serve as the subject of a sentence.
 - Object pronouns are used to refer to the nouns that serve as the object of a sentence.
@@ -145,19 +145,18 @@ Nouns have three cases:
 </p>
 
 ### Genitive Case
+### Understanding Terms
+- **Possession:** refers to the state of owning, having a relationship with, or belonging to something.
+- **Possessor:** refers to the individual who owns or possesses something (owner).
+- **Possessed object:** refers to the item being possessed (the thing that is owned).
 
-#### Understanding Terms
-- Possession: refers to the state of owning, having a relationship with, or belonging to something.
-- Possessor: refers to the individual who owns or possesses something (owner).
-- Possessed object: refers to the item being possessed (the thing that is owned).
-
-#### Expressing possession
+### Expressing possession
 In English, possession can be expressed through:
 - **Apostrophe possession:** This possession is expressed by the apostrophe followed by an “s” on possessor & then the possessed object. This form is used when we want to emphasize the possessor.
 - **"of " possession:** This possession is expressed by the possessed object followed by "of " and then the possessor. This form is used when we want to emphasize the possessed thing.
 - **Possessive adjective possession:** This possession is expressed by the possessive adjective (which is possessor) followed by the possessed object. These adjectives directly modify the noun to show possession. 
 
-## Examples
+**Examples:**
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/40488670-1821-4d43-9f30-06e1d35f48d3" width="430">
 </p>
