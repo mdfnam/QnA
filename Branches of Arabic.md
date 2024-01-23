@@ -21,10 +21,4 @@ Balagha `بَلاغَةُ`, also known as Arabic rhetoric or eloquence, is the s
 
 **Note:** We will start our study with Nahu - Arabic Grammar and with time, as the need arises, we will learn vocabulary.
 
-## Importance of Arabic Grammar
-Grammar teaches us the way to put vocabulary in a proper and organized way so that it make sense. After learning it, we will not only be able to translate a sentence correctly but also understand:
-- How Allah (SWT) put these words together?
-- Why did Allah (SWT) put these words together in such an order?
-- What if we rearranged them?
-
 ---
