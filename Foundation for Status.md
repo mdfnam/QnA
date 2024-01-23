@@ -113,7 +113,7 @@ Possessive adjective are used to show ownership or possession of a noun, typical
 
 **Third Person**
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/9ef848ae-e57e-4c41-a748-498f323905e4" width="530">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/3d9f94d2-97a1-4bbb-8334-ab4b14bea500" width="530">
 </p>
 
 ## Cases of Nouns
