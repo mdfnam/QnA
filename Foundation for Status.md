@@ -2,10 +2,10 @@
 
 ## Defining Noun
 A noun is a word that represents a beings, place, thing or concept (idea).
-- beings : It refers to the creator and all of his living creations : people, animal, angel, jinn & devil.
-- place : It refers to a location or an area.
-- thing : It refers to non living object which you can see and touch.
-- concept : It refers to an abstract notion or an idea that have not any physical presence.
+- **beings :** It refers to the creator and all of his living creations : people, animal, angel, jinn & devil.
+- **place :** It refers to a location or an area.
+- **thing :** It refers to non living object which you can see and touch.
+- **concept :** It refers to an abstract notion or an idea that have not any physical presence.
 
 **Note:** In the context of our discussion, we have included the term 'creator' within the section labeled 'beings' for linguistic or grammatical purposes only, while acknowledging that Almighty is beyond all categories and limitations.
 
