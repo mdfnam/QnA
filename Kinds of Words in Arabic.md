@@ -8,7 +8,7 @@
 - **Murakkab `مُرَكَّب`:** Refers to the combination of two or more individual words (mufrad).
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/2563009d-0fa1-466f-93c3-47ab29f79025" width="320">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/2563009d-0fa1-466f-93c3-47ab29f79025" width="350">
 </p>
 
 - **Kalimah `كَلِمَة`:** A single meaningful utterance is referred to as ‘kalimah’. It can be further divided into three types also called ‘parts of speech’.
@@ -20,7 +20,7 @@ While reading the Quran, we encounter numerous words (kalimah) on every page, wh
 - Harf `حَرْفٌ` (Particle)
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/c389299f-9ea2-4768-95b6-69992878127c" width="450">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/c389299f-9ea2-4768-95b6-69992878127c" width="550">
 </p>
 
 **Note:** Each word must unambiguously belong to one of these categories, with no room for belonging to two of them or any fourth category.
