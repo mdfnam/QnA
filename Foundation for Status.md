@@ -159,7 +159,7 @@ In English, possession can be expressed through:
 
 ## Examples
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/40488670-1821-4d43-9f30-06e1d35f48d3" width="450">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/40488670-1821-4d43-9f30-06e1d35f48d3" width="350">
 </p>
 
 ---
