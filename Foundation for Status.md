@@ -19,7 +19,7 @@ Nouns can be classified into two main categories: Proper nouns and Common nouns.
 ### Examples of Nouns
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/edc66803-98d5-45a9-9d8c-8acb22ac99c4" width="430">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/96c936b2-621a-47ee-a231-0283fdee9e8b" width="430">
 </p>
 
 **Note:** When discussing the word 'Allah’, it is important to use 'The Word Allah' for being respectful as we are discussing the word 'Allah’, not addressing Allah (SWT) Himself.
@@ -97,7 +97,7 @@ Possessive adjective are used to show ownership or possession of a noun, typical
 
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/b3a3630e-5889-4355-b2e6-04ccaea67f56" width="480">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/df26fa40-33df-41cc-a083-39119e36d3c0" width="480">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/0f0957e2-b7fb-45c2-b485-d0f45c5ec93f" width="480">
 </p>
 
 ### Examples
@@ -132,7 +132,7 @@ Nouns have three cases:
 - **Position:** Nouns or pronouns which are in the nominative case generally appears before the verb. (Subject + Verb)
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/c568ca16-1591-47f9-99d7-6eb421c78dc0" width="450">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/c53c5667-f3e2-4963-8714-3d841515d079" width="430">
 </p>
 
 ### Accusative Case
@@ -141,7 +141,7 @@ Nouns have three cases:
 - **Position:** Nouns or pronouns which are in the accusative case generally appears after the verb. (Subject + Verb + Object)
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/db943afc-4bdf-470e-bc9f-f1358981e3c9" width="450">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/ce2e4dd3-ad0d-49bd-992c-730a42111270" width="430">
 </p>
 
 ### Genitive Case
@@ -159,7 +159,7 @@ In English, possession can be expressed through:
 
 ## Examples
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/40488670-1821-4d43-9f30-06e1d35f48d3" width="400">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/40488670-1821-4d43-9f30-06e1d35f48d3" width="430">
 </p>
 
 ---
