@@ -25,4 +25,8 @@ We are required to possess these four skills in order to learn any language:
 - At the beginner level, comprehension through listening is more challenging than comprehension through reading, primarily due to the difference in pace, making it difficult for learners to keep up while simultaneously processing the information. Reading, on the other hand, allows learners to control the pace, enabling them to comprehend each word more effectively.
 - Once our reading and comprehension skills improve and become second nature, listening skills also progress. With practice, we will begin forming small sentences and gradually advance to more complex sentences, ultimately enhancing our speaking skills. Subsequently, efforts can be directed towards improving writing skills. To achieve all this, we should start by mastering reading with comprehension. Since we are already familiar with reading, our primary focus will be on understanding the Arabic language.
 
+## Understanding a Language
+- **Requirement:** To comprehend a language, one needs knowledge of two fundamental aspects: Vocabulary and Grammar. We will commence our journey by exploring grammar, and as the need arises, we will gradually incorporate vocabulary into our learning process.
+- **Importance of Grammar:** Grammar teaches us the way to put vocabulary in a proper and organized way so that it makes sense. After learning it, we will not only be able to translate a sentence correctly but also understand why and how these words are arranged together in that way.
+
 ---
