@@ -20,7 +20,7 @@ While reading the Quran, we encounter numerous words (kalimah) on every page, wh
 - Harf `حَرْفٌ` (Particle)
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/c389299f-9ea2-4768-95b6-69992878127c" width="550">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/36c1a728-4db7-44b8-957c-1a225897e5e1" width="550">
 </p>
 
 **Note:** Each word must unambiguously belong to one of these categories, with no room for belonging to two of them or any fourth category.
@@ -33,10 +33,11 @@ While reading the Quran, we encounter numerous words (kalimah) on every page, wh
 **Note:**
 - Ism literally translates to 'name,' and a noun, which also signifies the name of something, which is why 'ism' is referred to as a noun. However, this doesn't imply that it belongs to the noun parts of speech only.
 - In Arabic, the subject (doer of the verb) and verb appear together in a single word. For example, `يَنْصُرُ` (yansuru) means “he helps”. That’s why we refer Fi’l as ‘More than a Verb’.
-- In Arabic grammar, the term "harf " is often referred to as a "particle“. These particles serve to connect words, convey relationships, and provide additional information in a sentence. Arabic particles in english are typically prepositions and conjunctions.
+- In Arabic grammar, the term "harf " is often referred to as a "particle“. These particles serve to connect words, convey relationships, and provide additional information in a sentence. Arabic particles in english are typically prepositions, conjunctions and articles.
 
 **Example:**
-- *Sentence:* I ate an apple yesterday.
+
+*Sentence:* I ate an apple yesterday.
 - `I` : It is an ism as it contains a meaning in itself, representing myself, and is not bound by time.
 - `ate` : It is a fi'l as it conveys meaning and is also linked with time since it is in the past tense.
 - `an` : It is a harf that conveys meaning only when followed by a word (noun).
@@ -49,6 +50,13 @@ Parts of speech in English that correspond to parts of speech in Arabic are as f
 - Fi'l: verb
 - Harf: preposition, conjunction
 
-**Note:** We have not treated ‘Article’ as a separate part of speech because an article is nothing but a word that modifies a noun by indicating whether it is specific or general. We'll address this topic after discussing noun.
+**Example:**
+
+*Sentence:* I ate an apple yesterday.
+- `I` : Pronoun (First person pronoun) - Ism
+- `ate` : Verb (Past tense verb) - Fi'l
+- `an` : Article (Indefinite article) - Harf
+- `apple` : Noun (Thing) - Ism
+- `yesterday` :  Adverb (Adverbs of Time) - Ism
 
 ---
