@@ -35,6 +35,14 @@ While reading the Quran, we encounter numerous words (kalimah) on every page, wh
 - In Arabic, the subject (doer of the verb) and verb appear together in a single word. For example, `يَنْصُرُ` (yansuru) means “he helps”. That’s why we refer Fi’l as ‘More than a Verb’.
 - In Arabic grammar, the term "harf " is often referred to as a "particle“. These particles serve to connect words, convey relationships, and provide additional information in a sentence. Arabic particles in english are typically prepositions and conjunctions.
 
+**Example:**
+- *Sentence:* I ate an apple yesterday.
+- `I` : It is an ism as it contains a meaning in itself, representing myself, and is not bound by time.
+- `ate` : It is a fi'l as it conveys meaning and is also linked with time since it is in the past tense.
+- `an` : It is a harf that conveys meaning only when followed by a word (noun).
+- `apple` : It is an ism as it contains a meaning in itself, representing the object, and and is timeless.
+- `yesterday` : It is an ism again. *Explanation:* It is not a fi’l, instead, it is the name of the day. The word 'yesterday' refers to the day that preceded today. It is not stuck in that time, rather, it is the name for a specific time. Therefore, it is an ism.
+
 ### Mapping Parts of Speech
 Parts of speech in English that correspond to parts of speech in Arabic are as follows:
 - Ism: noun, pronoun, adjective, adverb, interjection
