@@ -31,7 +31,7 @@ Nouns can be classified into two main categories: Proper nouns and Common nouns.
 - **Idea-Adjective-Adverb:** Islam-Islamic-Islamically. *Example:* He embraced Islam and became a Muslim. To gain knowledge about the religion, he enrolled himself in an Islamic institute. Now, he dresses Islamically and goes there every day after Fajr.
 
 ## Defining Articles
-Articles precede nouns, serving the purpose of indicating whether the noun refers to something specific & identifiable or something nonspecific & general. In English, we have three articles, they are ‘a’, ‘an’ and ‘the’.
+Articles precede nouns, serving the purpose of indicating whether the noun refers to something specific & identifiable or something nonspecific & general. In English, we have three articles, they are `a`, `an` and `the`.
 
 ### Classification of Articles 
 Articles can be classified into two categories: Definite Article and Indefinite Article.
@@ -166,7 +166,7 @@ In English, possession can be expressed through:
 
 **Examples:**
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/40488670-1821-4d43-9f30-06e1d35f48d3" width="230">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/40488670-1821-4d43-9f30-06e1d35f48d3" width="430">
 </p>
 
 ---
