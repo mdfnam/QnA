@@ -1,5 +1,6 @@
 # QnA [Quran AnD Arabic]
-Table of Content:
+
+## Table of Content:
 - [Arabic](#arabic)
 - [Quran](#quran)
 
@@ -19,3 +20,5 @@ Table of Content:
 
 ## Quran
 Table of Content:
+
+[Table of Content](#table-of-content)
