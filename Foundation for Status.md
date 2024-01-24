@@ -5,14 +5,14 @@ A noun is a word that represents a beings, place, thing or concept (idea).
 - **beings :** It refers to the creator and all of his living creations : people, animal, angel, jinn & devil.
 - **place :** It refers to a location or an area.
 - **thing :** It refers to non living object which you can see and touch.
-- **concept :** It refers to an abstract notion or an idea that have not any physical presence.
+- **Idea :** It refers to an abstract notion or a concept that have not any physical presence.
 
 **Note:** In the context of our discussion, we have included the term 'creator' within the section labeled 'beings' for linguistic or grammatical purposes only, while acknowledging that Almighty is beyond all categories and limitations.
 
 ### Classification of Noun
 Nouns can be classified into two main categories: Proper nouns and Common nouns.
-- Proper nouns are specific name of any particular being, place, thing or concept. They are always capitalized.
-- Common nouns are more generic (nonspecific) as they represent general name for any being, place, thing, or concept. They are only capitalized when they start a sentence.
+- **Proper nouns** are specific name of any particular being, place, thing or concept. They are always capitalized.
+- **Common nouns** are more generic (nonspecific) as they represent general name for any being, place, thing, or concept. They are only capitalized when they start a sentence.
 
 **Note:** Using ‘the’ before a common noun does not make it proper but rather definite.
 
@@ -23,6 +23,11 @@ Nouns can be classified into two main categories: Proper nouns and Common nouns.
 </p>
 
 **Note:** When discussing the word 'Allah’, it is important to use 'The Word Allah' for being respectful as we are discussing the word 'Allah’, not addressing Allah (SWT) Himself.
+
+## Idea
+- **Identification:** Abstract nouns often represent concepts, emotions, thoughts, beliefs, feelings, qualities, or states of being. Examples of ideas include **concepts** such as justice, freedom, and mercy; **emotions** like happiness, sorrow, and anger; **thoughts** encompassing opinion, theory, and imagination; **beliefs** such as hope, faith, and trust; **feelings** like love, fear, and excitement; **qualities** including beauty, honesty, and intelligence; and **states of being** such as confusion, anxiety, and peace.
+- **Suffixes:** Certain suffixes can indicate abstract nouns. For example, words ending in '-ism' (capitalism, socialism), '-ity' (flexibility, responsibility), '-ment' (development, improvement), and '-tion' or '-sion' (communication, decision) are often associated with abstract concepts.
+
 
 ### Idea-Adjective-Adverb
 - Islam-Islamic-Islamically
