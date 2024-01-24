@@ -1,8 +1,8 @@
-# Foundation for Status
+# Foundation: English Grammar
 
 ## Defining Noun
-A noun is a word that represents a beings, place, thing or concept (idea).
-- **beings :** It refers to the creator and all of his living creations : people, animal, angel, jinn & devil.
+A noun is a word that represents a being, place, thing or idea.
+- **beings :** It refers to the creator and all of his living creations : people, animal, angel, jinn and devil.
 - **place :** It refers to a location or an area.
 - **thing :** It refers to non living object which you can see and touch.
 - **Idea :** It refers to an abstract notion or a concept that have not any physical presence.
@@ -22,13 +22,13 @@ Nouns can be classified into two main categories: Proper nouns and Common nouns.
   <img src="https://github.com/mdfnam/QnA/assets/156814846/529dfc11-d675-4d18-abdc-8df61fd7b458" width="430">
 </p>
 
-**Note:** When discussing the word 'Allah’, it is important to use 'The Word Allah' for being respectful as we are discussing the word 'Allah’, not addressing Allah (SWT) Himself.
+**Note:** When discussing the word 'Allah’, it is important to use "The Word Allah" for being respectful as we are discussing the word 'Allah’, not addressing Allah (SWT) Himself.
 
 ## Idea
-- **Identification:** Abstract nouns often represent `concepts` (justice, freedom, and mercy), `emotions` (happiness, sorrow, and anger), `thoughts` (opinion, theory, and imagination), `beliefs` (hope, faith, and trust), `feelings` (love, fear, and excitement), `qualities` (beauty, honesty, and intelligence), or `states of being` (confusion, anxiety, and peace).
-- **Suffixes:** Certain suffixes can indicate abstract nouns. For example, words ending in `ism` (capitalism, socialism), `ity` (equality, purity), `ment` (development, improvement), `tion` (education, communication), `ance` (guidance, acceptance), `sion` (collision, decision) and `ing` (swimming, cooking) are often associated with abstract concepts.
-- **Gerund:** A gerund is a form of a verb that functions as a noun in a sentence. It is created by adding the "ing" suffix to the base form of a verb. Example: The word "swimming" can function as both a verb and a gerund (a verbal noun). As a verb: "I am swimming in the pool". Here, "swimming" is used as a present participle verb indicating the action of swimming. As a gerund: "Swimming is good exercise". In this case, "swimming" is used as a gerund, functioning as a noun. It represents the idea or concept of the activity rather than describing a specific action.
-- **Idea-Adjective-Adverb:** Islam-Islamic-Islamically. Example: He embraced Islam and became a Muslim. To gain knowledge about the religion, he enrolled himself in an Islamic institute. Now, he dresses Islamically and goes there every day after Fajr.
+- **Identification:** Abstract nouns often represent `concepts` (justice, freedom and mercy), `emotions` (happiness, sorrow and anger), `thoughts` (opinion, theory and imagination), `beliefs` (hope, faith and trust), `feelings` (love, fear and excitement), `qualities` (beauty, honesty and intelligence), or `states of being` (confusion, anxiety and peace).
+- **Suffixes:** Certain suffixes can indicate abstract nouns. For example, words ending with `ism` (capitalism, socialism), `ity` (equality, purity), `ment` (development, improvement), `tion` (education, communication), `ance` (guidance, acceptance), `sion` (collision, decision) and `ing` (swimming, cooking) are often associated with abstract concepts.
+- **Gerund:** A gerund (pronounced jer-and) is a form of a verb that functions as a noun in a sentence. It is created by adding the "ing" suffix to the base form of a verb. *Example:* The word "swimming" can function as both a verb and a gerund (a verbal noun). As a verb: "I am swimming in the pool". Here, `swimming` is used as a present participle verb indicating the action of swimming. As a gerund: "Swimming is good exercise". In this case, `swimming` is used as a gerund, functioning as a noun. It represents the idea or concept of the activity rather than describing a specific action.
+- **Idea-Adjective-Adverb:** Islam-Islamic-Islamically. *Example:* He embraced Islam and became a Muslim. To gain knowledge about the religion, he enrolled himself in an Islamic institute. Now, he dresses Islamically and goes there every day after Fajr.
 
 ## Defining Articles
 Articles precede nouns, serving the purpose of indicating whether the noun refers to something specific & identifiable or something nonspecific & general. In English, we have three articles, they are ‘a’, ‘an’ and ‘the’.
@@ -50,7 +50,7 @@ Articles can be classified into two categories: Definite Article and Indefinite 
 
 ### Indefinite Article
 - Indefinite Articles (a & an): These are used before general or nonspecific nouns, primarly with singular common nouns.
-- Example: “A book” or “An elephant” (used before common noun)
+- Example: “A book” or “An elephant” (used before singular common noun)
 
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/63ac679b-a1a9-41cc-bfb8-cb389065c89e" width="530">
@@ -58,7 +58,17 @@ Articles can be classified into two categories: Definite Article and Indefinite 
 
 **Note:**
 - Unlike English, Arabic lacks a distinct word equivalent to the English indefinite articles 'a' or 'an.' Instead, the sense of indefiniteness is often conveyed through the absence of the definite article 'ال'.
-- When translating "كِتَابٌ" independently, it is often rendered as 'book'. When we use a singular, unspecified common noun within a sentence, it's common to use an indefinite article before it. Consequently, when "كِتَابٌ" is integrated into a sentence, it is translated as 'a book.'
+- When translating "كِتَابٌ" independently, it is often rendered as 'book'. In Englis, when we use a singular, unspecified common noun within a sentence, it's common to use an indefinite article before it. Consequently, when "كِتَابٌ" is integrated into a sentence, it will be translated as 'a book.'
+
+## Defining Adjective 
+An adjective is a word that describes or modifies a noun or pronoun.
+
+### Classification of Adjective 
+Adjectives can be categorized into various types based on the characteristics they describe. Here are some common types of adjectives:
+- **Descriptive Adjectives:** These adjectives describe the qualities or characteristics of a noun, providing more information about its appearance, color, size, shape, etc.
+- **Quantitative Adjectives:** These adjectives indicate the quantity or amount of the noun.
+- **Demonstrative Adjectives:** These adjectives always come before the noun and point to a specific noun, indicating whether it is near or far in distance or time. There are only four demonstrative adjectives: `This`, `Those`, `That`, and `These`.
+- **Possessive Adjectives:** These adjectives are used to show ownership or possession of a noun, typically come before the noun and indicate to whom or to what something belongs. There are seven possessive adjectives: `My`, `Your`, `His`, `Her`, `Its`, `Our` and `Their`.
 
 ## Defining Pronouns
 A pronoun is a word that represents a noun which is used to replace nouns to prevent repetition and provide clarity in a sentence.
@@ -91,12 +101,7 @@ Case indicates the grammatical role that the pronoun plays in a sentence.
 - Subject pronouns are used to refer to the nouns that serve as the subject of a sentence.
 - Object pronouns are used to refer to the nouns that serve as the object of a sentence.
 
-## Defining Adjective 
-An adjective is a word that describes or modifies a noun or pronoun.
-Note: Adjectives are words that describe the qualities (color, size, shape) or quantities (number, weight, length) of nouns.
-
-### Possessive Adjective
-Possessive adjective are used to show ownership or possession of a noun, typically come before the noun and indicate to whom or to what something belongs.
+Now, we will see Subject Pronouns, Object Pronouns and their corresponding Possessive Adjective table.
 
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/b3a3630e-5889-4355-b2e6-04ccaea67f56" width="480">
@@ -121,9 +126,9 @@ Possessive adjective are used to show ownership or possession of a noun, typical
 
 ## Cases of Nouns
 Nouns have three cases:
-- Nominative or Subjective Case: subject of the verb
-- Accusative or Objective Case: object of the verb
-- Genitive or Possessive Case: possessor of a thing
+- Nominative or Subjective Case: Subject of the verb
+- Accusative or Objective Case: Object of the verb
+- Genitive or Possessive Case: Possessor of a thing
 
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/b3a1e706-e9fc-43ca-88a0-b91ea075bad6" width="450">
@@ -131,8 +136,8 @@ Nouns have three cases:
 
 ### Nominative Case
 - **Definition:** The nominative case is used for the subject of a sentence, which is typically a noun or a pronoun that performs the action of the verb or is the "doer" of the action in a sentence.
-- **Identification:** To identify a noun in the nominative case, form a question using 'What?' or 'Who?' before the verb. Use 'What?' when the noun represents a thing and 'Who?' when it represents a person.
-- **Position:** Nouns or pronouns which are in the nominative case generally appears before the verb. (Subject + Verb)
+- **Identification:** To identify a noun or pronoun in the nominative case, form a question using 'What?' or 'Who?' before the verb. Use 'What?' when the noun or pronoun represents a thing and 'Who?' when it represents a person.
+- **Position:** Nouns or pronouns which are in the nominative case generally appears before the verb (Subject + Verb).
 
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/c53c5667-f3e2-4963-8714-3d841515d079" width="430">
@@ -140,8 +145,8 @@ Nouns have three cases:
 
 ### Accusative Case
 - **Definition:** The accusative case is used for the object of a sentence, which is typically a noun or a pronoun that receive the action of the verb or is the "receiver" of the action in a sentence.
-- **Identification:** To identify a noun in the accusative case, form a question using 'What?' or 'Whom?' before the verb and its subject. Use 'What?' when the noun represents a thing, and use 'Whom?' when it represents a person.
-- **Position:** Nouns or pronouns which are in the accusative case generally appears after the verb. (Subject + Verb + Object)
+- **Identification:** To identify a noun or pronoun in the accusative case, form a question using 'What?' or 'Whom?' before the verb and its subject. Use 'What?' when the noun or pronoun represents a thing, and use 'Whom?' when it represents a person.
+- **Position:** Nouns or pronouns which are in the accusative case generally appears after the verb (Subject + Verb + Object).
 
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/ce2e4dd3-ad0d-49bd-992c-730a42111270" width="430">
