@@ -93,6 +93,7 @@ Case indicates the grammatical role that the pronoun plays in a sentence.
 
 ## Defining Adjective 
 An adjective is a word that describes or modifies a noun or pronoun.
+Note: Adjectives are words that describe the qualities (color, size, shape) or quantities (number, weight, length) of nouns.
 
 ### Possessive Adjective
 Possessive adjective are used to show ownership or possession of a noun, typically come before the noun and indicate to whom or to what something belongs.
