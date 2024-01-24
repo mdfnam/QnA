@@ -1,13 +1,5 @@
 # Before The Course
 
-<p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/e36b75a0-3417-4b74-a3a5-0a5b96b0a467" width="450">
-</p>
-
-<p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/049d1461-b5a9-42c2-9099-5b356825dc63" width="450">
-</p>
-
 ### Prerequisite For This Course
 - A fundamental prerequisite for undertaking this course is having the ability to read Arabic, particularly Quranic Script. Without this foundational skill, you cannot pursue this particular course.
 - If you already possess the capability to read Arabic, even if you encounter difficulties with certain words or are not proficient in tajweed (it is the set of rules and guidelines for the proper pronunciation and recitation of the Qur’an), you are still eligible to enroll in the course.
