@@ -10,7 +10,7 @@ Table of Content:
 - [Branches of Arabic](https://github.com/mdfnam/QnA/blob/main/Branches%20of%20Arabic.md)
 - [Kinds of Words in Arabic](https://github.com/mdfnam/QnA/blob/main/Kinds%20of%20Words%20in%20Arabic.md)
 - [Intoduction to Ism](https://github.com/mdfnam/QnA/blob/main/Introduction%20to%20Ism.md)
-- [Foundation for Status](https://github.com/mdfnam/QnA/blob/main/Foundation%20for%20Status.md)
+- [Foundation: English Grammar](https://github.com/mdfnam/QnA/blob/main/Foundation:%20English%20Grammar.md)
 - [Kinds of Cases](https://github.com/mdfnam/QnA/blob/main/Kinds%20of%20Cases.md)
 - [How to Tell Status](https://github.com/mdfnam/QnA/blob/main/How%20to%20Tell%20Status.md)
 
