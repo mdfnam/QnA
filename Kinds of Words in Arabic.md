@@ -53,9 +53,9 @@ Parts of speech in English that correspond to parts of speech in Arabic are as f
 **Example:**
 
 *Sentence:* I ate an apple yesterday.
-- `I` : Pronoun (First person pronoun) - Ism
-- `ate` : Verb (Past tense verb) - Fi'l
-- `an` : Article (Indefinite article) - Harf
+- `I` : Pronoun (First Person Pronoun) - Ism
+- `ate` : Verb (Past Tense Verb) - Fi'l
+- `an` : Article (Indefinite Article) - Harf
 - `apple` : Noun (Thing) - Ism
 - `yesterday` :  Adverb (Adverbs of Time) - Ism
 
