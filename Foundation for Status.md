@@ -19,7 +19,7 @@ Nouns can be classified into two main categories: Proper nouns and Common nouns.
 ### Examples of Nouns
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/96c936b2-621a-47ee-a231-0283fdee9e8b" width="430">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/529dfc11-d675-4d18-abdc-8df61fd7b458" width="430">
 </p>
 
 **Note:** When discussing the word 'Allah’, it is important to use 'The Word Allah' for being respectful as we are discussing the word 'Allah’, not addressing Allah (SWT) Himself.
