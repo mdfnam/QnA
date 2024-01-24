@@ -145,6 +145,8 @@ There are three masculine ending combinations:
   <img src="https://github.com/mdfnam/QnA/assets/156814846/33f14218-0172-4084-a048-3b8b4aba5623" width="500">
 </p>
 
+**Remember:** To learn this table in both directions: from top to bottom (by number: singular, pair and plural) and from left to right (by status: raf’, nasb and jarr).
+
 ---
 
 ### Status Chart: Muslim
@@ -168,7 +170,5 @@ There are three masculine ending combinations:
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/f18b2af0-abc1-40d5-9d7b-13386c841481" width="400">
 </p>
-
-Remember to Learn Table: Status Chart (previous slide) in both directions: from top to bottom (by number: singular, pair and plural) and from left to right (by status: raf’, nasb and jarr).
 
 ---
