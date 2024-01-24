@@ -25,13 +25,10 @@ Nouns can be classified into two main categories: Proper nouns and Common nouns.
 **Note:** When discussing the word 'Allah’, it is important to use 'The Word Allah' for being respectful as we are discussing the word 'Allah’, not addressing Allah (SWT) Himself.
 
 ## Idea
-- **Identification:** Abstract nouns often represent concepts, emotions, thoughts, beliefs, feelings, qualities, or states of being. Examples of ideas include **concepts** such as justice, freedom, and mercy; **emotions** like happiness, sorrow, and anger; **thoughts** encompassing opinion, theory, and imagination; **beliefs** such as hope, faith, and trust; **feelings** like love, fear, and excitement; **qualities** including beauty, honesty, and intelligence; and **states of being** such as confusion, anxiety, and peace.
-- **Suffixes:** Certain suffixes can indicate abstract nouns. For example, words ending in '-ism' (capitalism, socialism), '-ity' (flexibility, responsibility), '-ment' (development, improvement), and '-tion' or '-sion' (communication, decision) are often associated with abstract concepts.
-
-
-### Idea-Adjective-Adverb
-- Islam-Islamic-Islamically
-- Example: He embraced Islam and became a Muslim. To gain knowledge about the religion, he enrolled himself in an Islamic institute. Now, he dresses Islamically and goes there every day after Fajr.
+- **Identification:** Abstract nouns often represent concepts, emotions, thoughts, beliefs, feelings, qualities, or states of being. Examples of ideas include concepts such as justice, freedom, and mercy; emotions like happiness, sorrow, and anger; thoughts encompassing opinion, theory, and imagination; beliefs such as hope, faith, and trust; feelings like love, fear, and excitement; qualities including beauty, honesty, and intelligence; and states of being such as confusion, anxiety, and peace.
+- **Suffixes:** Certain suffixes can indicate abstract nouns. For example, words ending in '-ism' (capitalism, socialism), '-ity' (flexibility, responsibility), '-ment' (development, improvement), '-tion' or '-sion' (communication, decision) and '-ing' (swimming, cooking) are often associated with abstract concepts.
+-**Gerund:** A gerund is a form of a verb that functions as a noun in a sentence. It is created by adding the "-ing" suffix to the base form of a verb. Example: The word "swimming" can function as both a verb and a gerund (a verbal noun). As a verb: "I am swimming in the pool". Here, "swimming" is used as a present participle verb indicating the action of swimming. s a gerund: "Swimming is good exercise". In this case, "swimming" is used as a gerund, functioning as a noun. It represents the idea or concept of the activity rather than describing a specific action.
+- **Idea-Adjective-Adverb:** Islam-Islamic-Islamically. Example: He embraced Islam and became a Muslim. To gain knowledge about the religion, he enrolled himself in an Islamic institute. Now, he dresses Islamically and goes there every day after Fajr.
 
 ## Defining Articles
 Articles precede nouns, serving the purpose of indicating whether the noun refers to something specific & identifiable or something nonspecific & general. In English, we have three articles, they are ‘a’, ‘an’ and ‘the’.
