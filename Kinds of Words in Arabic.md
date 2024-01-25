@@ -19,21 +19,12 @@ While reading the Quran, we encounter numerous words (kalimah) on every page, wh
 - Fi'l `فِعْلٌ` (Verb)
 - Harf `حَرْفٌ` (Particle)
 
-<p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/36c1a728-4db7-44b8-957c-1a225897e5e1" width="550">
-</p>
-
 **Note:** Each word must unambiguously belong to one of these categories, with no room for belonging to two of them or any fourth category.
 
 ### Definition:
 - **Ism:** Part of speech in Arabic that indicates a meaning in itself and is not linked to time.
 - **Fi'l:** Part of speech in Arabic that indicates a meaning in itself and is also linked to time.
 - **Harf:** Part of speech in Arabic that conveys meaning only when followed by another word.
-
-**Note:**
-- Ism literally translates to 'name,' and a noun, which also signifies the name of something, which is why 'ism' is referred to as a noun. However, this doesn't imply that it belongs to the noun parts of speech only.
-- In Arabic, the subject (doer of the verb) and verb appear together in a single word. For example, `يَنْصُرُ` (yansuru) means “he helps”. That’s why we refer Fi’l as ‘More than a Verb’.
-- In Arabic grammar, the term "harf " is often referred to as a "particle“. These particles serve to connect words, convey relationships, and provide additional information in a sentence. Arabic particles in english are typically prepositions, conjunctions and articles.
 
 **Example:**
 
@@ -46,9 +37,18 @@ While reading the Quran, we encounter numerous words (kalimah) on every page, wh
 
 ### Mapping Parts of Speech
 Parts of speech in English that correspond to parts of speech in Arabic are as follows:
-- Ism: noun, pronoun, adjective, adverb, interjection
+- Ism: noun, pronoun, adjective, adverb and interjection
 - Fi'l: verb
-- Harf: preposition, conjunction
+- Harf: preposition, conjunction and article
+
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/36c1a728-4db7-44b8-957c-1a225897e5e1" width="550">
+</p>
+
+**Note:**
+- Ism literally translates to 'name,' and a noun, which also signifies the name of something, which is why 'ism' is referred to as a noun. However, this doesn't imply that it belongs to the noun parts of speech only.
+- In Arabic, the subject (doer of the verb) and verb appear together in a single word. For example, `يَنْصُرُ` (yansuru) means “he helps”. That’s why we refer Fi’l as ‘More than a Verb’.
+- In Arabic grammar, the term "harf " is often referred to as a "particle“. These particles serve to connect words, convey relationships, and provide additional information in a sentence. Arabic particles in english are typically prepositions, conjunctions and articles.
 
 **Example:**
 
@@ -60,3 +60,4 @@ Parts of speech in English that correspond to parts of speech in Arabic are as f
 - `yesterday` :  Adverb (Adverbs of Time) - Ism
 
 ---
+
