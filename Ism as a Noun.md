@@ -9,7 +9,7 @@ A noun is a word that represents a being, place, thing or idea.
 
 **Note:** In the context of our discussion, we have included the term "creator" within the section labeled "beings" for linguistic or grammatical purposes only, while acknowledging that Almighty is beyond all categories and limitations.
 
-Some people might still have some confusion regarding the 'idea' because, as far as understanding other things is concerned, they would have easily grasped it. Therefore, we will look at it in a bit more detail.
+Some people might still have some confusion regarding the "idea" because, as far as understanding other things is concerned, they would have easily grasped it. Therefore, we will look at it in a bit more detail.
 
 ## Idea
 - **Identification:** Abstract nouns often represent `concepts` (justice, freedom, mercy), `emotions` (happiness, sorrow, anger), `thoughts` (opinion, theory, imagination), `beliefs` (hope, faith, trust), `feelings` (love, fear, excitement), `qualities` (beauty, honesty, intelligence), or `states of being` (confusion, anxiety, peace).
