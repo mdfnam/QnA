@@ -34,8 +34,16 @@ Certain suffixes can indicate abstract nouns. For example, words ending with:
 - **As a gerund:** 'Swimming is good exercise'. In this case, "swimming" is used as a gerund, functioning as a noun. It represents the idea or concept of the activity rather than describing a specific action.
 
 ## Classification of Noun
-Nouns can be classified into two main categories: Proper nouns and Common nouns.
-- **Proper nouns** are specific name of any particular being, place, thing or idea. They are always capitalized.
+Nouns can be classified into various categories based on their characteristics and functions they play in a sentence. Here are some common classifications of nouns:
+- Proper Nouns
+- Common Nouns
+- Collective Nouns
+- Possessive Nouns
+
+### Proper Nouns
+- **Definition:** Proper nouns are specific name of any particular being, place, thing or idea. They are always capitalized.
+- **Example:** 
+
 - **Common nouns** are more generic (nonspecific) as they represent general name for any being, place, thing, or idea. They are only capitalized when they start a sentence.
 
 **Note:** Using "the" before a common noun does not make it proper but rather definite.
