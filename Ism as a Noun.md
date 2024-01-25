@@ -11,7 +11,7 @@ A noun is a word that represents a being, place, thing or idea.
 
 Some people might still have some confusion regarding the "idea" because, as far as understanding other things is concerned, you would have easily grasped it. Therefore, we will look at it in a bit more detail.
 
-## Idea
+### Idea
 ### Identification
 Abstract nouns often represent:
 - **concepts:** justice, freedom, mercy
@@ -28,12 +28,12 @@ Certain suffixes can indicate abstract nouns. For example, words ending with:
 - **sion:** collision, decision, comparison
 - **ing:** swimming, cooking, learning
 
-## Gerund
+### Gerund
 - A gerund (pronounced jer-and) is a form of a verb that functions as a noun in a sentence. It is created by adding the "ing" suffix to the base form of a verb. *Example:* The word "swimming" can function as both a verb and a gerund (a verbal noun).
 - **As a verb:** 'I am swimming in the pool'. Here, "swimming" is used as a present participle verb indicating the action of swimming.
 - **As a gerund:** 'Swimming is good exercise'. In this case, "swimming" is used as a gerund, functioning as a noun. It represents the idea or concept of the activity rather than describing a specific action.
 
-## Classification of Noun
+### Classification of Noun
 Nouns can be classified into two main categories: Proper nouns and Common nouns.
 - **Proper nouns** are specific name of any particular being, place, thing or idea. They are always capitalized.
 - **Common nouns** are more generic (nonspecific) as they represent general name for any being, place, thing, or idea. They are only capitalized when they start a sentence.
