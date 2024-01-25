@@ -35,7 +35,7 @@ While reading the Quran, we encounter numerous words (kalimah) on every page, wh
 - `apple` : It is an ism as it contains a meaning in itself, representing an eating object, and is timeless.
 - `yesterday` : It is an ism again. *Explanation:* It is not a fi’l, instead, it is the name of the day. The word 'yesterday' refers to the day that preceded today. It is not stuck in that time, rather, it is the name for a specific time. Therefore, it is an ism.
 
-### Mapping Parts of Speech
+## Mapping Parts of Speech
 Parts of speech in English that correspond to parts of speech in Arabic are as follows:
 - Ism: noun, pronoun, adjective, adverb and interjection
 - Fi'l: verb
