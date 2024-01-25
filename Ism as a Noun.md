@@ -15,6 +15,27 @@ Some people might still have some confusion regarding the "idea" because, as far
 - **Identification:** Abstract nouns often represent `concepts` (justice, freedom, mercy), `emotions` (happiness, sorrow, anger), `thoughts` (opinion, theory, imagination), `beliefs` (hope, faith, trust), `feelings` (love, fear, excitement), `qualities` (beauty, honesty, intelligence), or `states of being` (confusion, anxiety, peace).
 - **Suffixes:** Certain suffixes can indicate abstract nouns. For example, words ending with `ism` (capitalism, socialism), `ity` (equality, purity), `ment` (development, improvement), `tion` (education, communication), `ance` (guidance, acceptance), `sion` (collision, decision) and `ing` (swimming, cooking) are often associated with abstract concepts.
 
+- **ity:** equality, purity, creativity
+- **ment:** development, improvement, establishment
+
+## Idea
+### Identification
+Abstract nouns often represent:
+- **concepts:** justice, freedom, mercy
+- **emotions:** happiness, love, excitement
+- **beliefs:** hope, faith, trust
+- **qualities:** beauty, honesty, intelligence
+- **state of being:** confusion, anxiety, peace
+
+### Suffixes
+Certain suffixes can indicate abstract nouns. For example, words ending with:
+- **ism:** capitalism, socialism, hinduism
+- **tion:** education, communication, imagination
+- **ance:** guidance, acceptance, resistance
+- **sion:** collision, decision, comparison
+- **ing:** swimming, cooking, learning
+
+
 ### Gerund
 - A gerund (pronounced jer-and) is a form of a verb that functions as a noun in a sentence. It is created by adding the "ing" suffix to the base form of a verb. *Example:* The word "swimming" can function as both a verb and a gerund (a verbal noun).
 - **As a verb:** 'I am swimming in the pool'. Here, "swimming" is used as a present participle verb indicating the action of swimming.
