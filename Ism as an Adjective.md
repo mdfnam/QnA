@@ -12,11 +12,16 @@ Adjectives can be categorized into various types based on the characteristics th
 
 ### Descriptive Adjectives
 - **Definition:** Descriptive adjectives are words that provide more information about the characteristics or qualities of a noun. They describe the appearance, size, color, shape, or other attributes of the noun or pronoun they modify.
-- **Example:** In the phrase 'a *beautiful* flower' the word "beautiful" is a descriptive adjective, adding information about the appearance of the flower.
+- **Example:** In the phrase 'a *beautiful* masjid' the word "beautiful" is a descriptive adjective, adding information about the appearance of the flower.
 
 ## Quantitative Adjectives
-- **Definition:** Quantitative adjectives are words that indicate the quantity or amount of a noun. They provide information about how much or how many of something there is.
-- **Example:** In the phrase '*three* books' the word "three" is a quantitative adjective, specifying the quantity of books.
+- **Definition:** Quantitative adjectives are words that indicate the quantity or amount of a noun. Quantitative adjectives are primarily associated with numbers, amounts, or proportions, as demonstrated in the below examples.
+- **Example 1:** In the phrase '*five* pillars of islam' the word "five" is a number-based quantitative adjective, specifying the number of items or individuals.
+- **Example 2:** In the phrase '*many* believers' the word "many" is a amount-based quantitative adjective, specifying the amount or extent of something.
+- **Example 3:** In the phrase '*half* an hour' the word "half" is a fraction-based quantitative adjective, specifying a fraction or a part of a whole.
+
+
+
 
 
 - **Descriptive Adjectives:** These adjectives describe the qualities or attributes of a noun or pronoun, providing more information about its appearance, color, size, shape, etc.
