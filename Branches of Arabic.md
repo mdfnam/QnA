@@ -21,7 +21,7 @@ Sarf `صَرْفُ`, also known as Arabic morphology, is the study of the intern
 Balagha `بَلاغَةُ`, also known as Arabic rhetoric or eloquence, is the study of how language can be used effectively to convey meaning and create beauty in speech. It explores various figures of speech and techniques, such as repetition, parallelism, and metaphor (comparison between two unrelated things), to enhance the impact of communication.
 
 ### Order of learning 
-- In the traditional way of studying Arabic, the typical order is to start with Nahw (Arabic Grammar) and then progress to Sarf (Morphology) before delving into Balagha (Rhetoric).
+- In the traditional way of studying Arabic, the typical order is to start with Nahw - Arabic Grammar and then progress to Sarf - structure of words before delving into Balagha (Rhetoric).
 - This sequence is often recommended because a solid understanding of grammar provides a foundation for comprehending the structure and function of words in a sentence, which is beneficial when studying morphology.
 - Balagha builds on the foundation of Nahw and Sarf, enhances your ability to express ideas in a more sophisticated and eloquent manner. It is generally recommended after a solid understanding of Nahw and Sarf has been established because it involves more advanced linguistic and rhetorical concepts.
 
