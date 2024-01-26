@@ -20,6 +20,7 @@ Table of Content:
  [Harf as an Article](https://github.com/mdfnam/QnA/blob/main/Harf%20as%20an%20Article.md)
  [Harf as a Preposition](https://github.com/mdfnam/QnA/blob/main/Harf%20as%20a%20Preposition.md)
  [Harf as a Conjunction](https://github.com/mdfnam/QnA/blob/main/Harf%20as%20a%20Conjunction.md)-->
+- [Cases of Nouns](https://github.com/mdfnam/QnA/blob/main/Cases%20of%20Nouns.md)
 - [Kinds of Cases](https://github.com/mdfnam/QnA/blob/main/Kinds%20of%20Cases.md)
 - [How to Tell Status](https://github.com/mdfnam/QnA/blob/main/How%20to%20Tell%20Status.md)
 
