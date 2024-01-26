@@ -60,7 +60,7 @@ Now, we will see Subject Pronouns, Object Pronouns and their corresponding Posse
 </p>
 
 ## Demonstrative Pronouns
-- **Definition:** Demonstrative pronouns are words that replace and point to a specific noun, standing alone as the subject or object in a sentence. They help to identify wheher the noun which is replaced is near or far in space.
+- **Definition:** Demonstrative pronouns are words that replace and point to a specific noun, standing alone as the subject or object in a sentence. They help to identify whether the noun which gets replaced is near or far in space.
 - There are **four** demonstrative pronouns: `This`, `Those`, `That` and `These`.
 - **Example:** In the phrase '*This* is my book', the word "this" is a demonstrative pronoun, replacing a specific book.
 
