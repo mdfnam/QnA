@@ -58,7 +58,7 @@ Certain suffixes can indicate abstract nouns. For example, words ending with:
   <img src="https://github.com/mdfnam/QnA/assets/156814846/529dfc11-d675-4d18-abdc-8df61fd7b458" width="430">
 </p>
 
-**Note:** When discussing the word "Allah", it is important to use the phrase 'The Word Allah' to be respectful, as we are referring to the word rather than addressing Allah (Subhanahu wa Ta'ala) himself. Therefore, we state here that 'The word Allah is a proper noun'.
+**Note:** When discussing the word "Allah", it is important to use the phrase 'The Word Allah' to be respectful, as we are referring to the word rather than addressing Allah (Subhanahu wa Ta'ala) himself. Thus, we state here that 'The word Allah is a proper noun'.
 
 ## Collective Nouns
 - **Definition:** Collective nouns refer to groups of people, animals, or things as a single entity. They used to represent a collection or gathering of individuals.
@@ -66,11 +66,14 @@ Certain suffixes can indicate abstract nouns. For example, words ending with:
 
 ## Possessive Nouns
 - **Definition:** Possessive nouns refer to a noun indicating possession or ownership. They can also be used to indicate a relationship or a sense of belonging.
-- **Example:** In the phrase 'The Quran's verses', the word "Quran's" is a possessive noun, indicating that the verses belong to the Quran.
+- **Example 1:** In the phrase "My *friend's* car", the word "friend's" is a possessive noun, indicating that the car is owned by my friend.
+- **Example 2:** In the phrase 'The *Quran's* verses', the word "Quran's" is a possessive noun, indicating that the verses belong to the Quran.
 
 ### Understanding Terms
 - **Possessor:** refers to the individual who owns or possesses something (owner).
 - **Possessed object:** refers to the item being possessed (the thing that is owned).
+- In above *Example 1:* friend is the possessor and car is the possessed object.
+- In above *Example 2:* Quran is the possessor and verses is the possessed object.
 
 ### Expressing possession
 - This possession is typically expressed by an apostrophe followed by an “s” on the possessor (owner), and then the possessed object (the thing that is owned).
