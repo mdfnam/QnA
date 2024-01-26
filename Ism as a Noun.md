@@ -22,7 +22,7 @@ Nouns can be classified into various categories based on their characteristics a
 - **Example:** In the phrase 'Her *kindness* is remarkable', the word "kindness" is an abstract noun, representing the quality or concept of being kind.
 
 ### Identification
-Abstract Nouns often represent below intangible entities:
+Abstract nouns often represent below intangible entities:
 - **concepts:** justice, freedom, mercy
 - **emotions:** happiness, love, excitement
 - **beliefs:** hope, faith, trust
@@ -37,18 +37,18 @@ Certain suffixes can indicate abstract nouns. For example, words ending with:
 - **sion:** collision, decision, comparison
 - **ing:** swimming, cooking, learning
 
-## Gerund
+### Gerund
 - A gerund (pronounced jer-and) is a form of a verb that functions as a noun in a sentence. It is created by adding the "ing" suffix to the base form of a verb. *Example:* The word "swimming" can function as both a verb and a gerund (a verbal noun).
 - **As a verb:** 'I am swimming in the pool'. Here, "swimming" is used as a present participle verb indicating the action of swimming.
 - **As a gerund:** 'Swimming is good exercise'. In this case, "swimming" is used as a gerund, functioning as a noun. It represents the idea or concept of the activity rather than describing a specific action.
 
 ## Proper Nouns
-- **Definition:** Proper nouns refer to specific, unique individuals and representing the specific name of particular beings, places, things, or ideas. They are always capitalized
-- **Example:**  In the phrase 'I visited Madina ', the word "Makkah" is a proper noun, indicating a specific city.
+- **Definition:** Proper nouns refer to specific, unique individuals. They used to represent the proper name of any particular beings, places, things, or ideas. They are always capitalized.
+- **Example:**  In the phrase 'I visited Madina ', the word "Madina" is a proper noun, indicating a specific city.
 
 ## Common Nouns
-- **Definition:** Common nouns refer to general, non-specific classes of entities and representing the generic name for any being, place, thing, or idea. They are only capitalized when they start a sentence.
-- **Example:** In the phrase 'My *teacher*' the word "teacher" is a common noun, representing a general category of educators.
+- **Definition:** Common nouns refer to general, non-specific classes of entities. They used to represent the generic name for any being, place, thing, or idea. They are only capitalized when they start a sentence.
+- **Example:** In the phrase 'The *teacher*' the word "teacher" is a common noun, representing a general category of educators.
 
 **Note:** Using "the" before a common noun does not make it proper but rather definite.
 
@@ -61,11 +61,18 @@ Certain suffixes can indicate abstract nouns. For example, words ending with:
 **Note:** When discussing the word "Allah", it is important to use 'The Word Allah' for being respectful as we are discussing the word "Allah", not addressing Allah (SWT) Himself.
 
 ## Collective Nouns
-- **Definition:** Collective nouns refer to groups of people, animals, or things as a single entity. They represent a collection or gathering of individuals.
+- **Definition:** Collective nouns refer to groups of people, animals, or things as a single entity. They used to represent a collection or gathering of individuals.
 - **Example:** In the phrase 'A *nation*' the word "nation" is a collective noun, representing a group of individuals united by a common identity or citizenship.
 
 ## Possessive Nouns
-- **Definition:** Possessive nouns refer to a noun indicating possession or ownership. They can also be used to indicate a relationship or a sense of belonging. Possession is typically expressed by an apostrophe followed by an “s” on the possessor (owner), followed by the possessed object (the thing that is owned).
+- **Definition:** Possessive nouns refer to a noun indicating possession or ownership. They can also be used to indicate a relationship or a sense of belonging.
 - **Example:** In the phrase 'The Quran's verses', the word "Quran's" is a possessive noun, indicating that the verses belong to the Quran.
+
+### Understanding Terms
+- **Possessor:** refers to the individual who owns or possesses something (owner).
+- **Possessed object:** refers to the item being possessed (the thing that is owned).
+
+### Expressing possession
+- Possession is typically expressed by an apostrophe followed by an “s” on the possessor (owner), and then the possessed object (the thing that is owned).
 
 ---
