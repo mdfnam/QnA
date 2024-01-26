@@ -19,7 +19,7 @@ Nouns can be classified into various categories based on their characteristics a
 
 ## Abstract Nouns
 - **Definition:** Abstract nouns refer to entities that cannot be physically touched or have any physical presence; instead, they are more theoretical or conceptual in nature.
-- **Example:** In the phrase 'Her *kindness* is remarkable', the word "kindness" is an abstract noun, representing the quality or concept of being kind.
+- **Example:** In the phrase 'Her *kindness*', the word "kindness" is an abstract noun, representing the quality or concept of being kind.
 
 ### Identification
 Abstract nouns often represent below intangible entities:
@@ -43,8 +43,8 @@ Certain suffixes can indicate abstract nouns. For example, words ending with:
 - **As a gerund:** 'Swimming is good exercise'. In this case, "swimming" is used as a gerund, functioning as a noun. It represents the idea or concept of the activity rather than describing a specific action.
 
 ## Proper Nouns
-- **Definition:** Proper nouns refer to specific, unique individuals. They used to represent the proper name of any particular beings, places, things, or ideas. They are always capitalized.
-- **Example:**  In the phrase 'I visited Madina ', the word "Madina" is a proper noun, indicating a specific city.
+- **Definition:** Proper nouns refer to specific, unique individuals. They used to represent the proper name of any particular being, place, thing, or idea. They are always capitalized.
+- **Example:**  In the phrase 'I visited *Madina*', the word "Madina" is a proper noun, indicating a specific city.
 
 ## Common Nouns
 - **Definition:** Common nouns refer to general, non-specific classes of entities. They used to represent the generic name for any being, place, thing, or idea. They are only capitalized when they start a sentence.
@@ -69,12 +69,10 @@ Certain suffixes can indicate abstract nouns. For example, words ending with:
 - **Example:** In the phrase 'The Quran's verses', the word "Quran's" is a possessive noun, indicating that the verses belong to the Quran.
 
 ### Understanding Terms
-Two terms which are related with possession are: 
 - **Possessor:** refers to the individual who owns or possesses something (owner).
 - **Possessed object:** refers to the item being possessed (the thing that is owned).
 
 ### Expressing possession
-In English, possession noun can be expressed through using apostrophe:
 - This possession is typically expressed by an apostrophe followed by an “s” on the possessor (owner), and then the possessed object (the thing that is owned).
 
 ---
