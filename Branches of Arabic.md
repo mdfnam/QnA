@@ -23,6 +23,6 @@ Balagha `بَلاغَةُ`, also known as Arabic rhetoric or eloquence, is the s
 ### Order of learning 
 - In the traditional way of studying Arabic, the typical order is to start with Nahw (Arabic grammar) and then progress to Sarf (Structure of words) before delving into Balagha (Rhetoric).
 - This sequence is often recommended because a solid understanding of grammar provides a foundation for comprehending the structure and function of words in a sentence, which is beneficial when studying morphology.
-- Balagha builds on the foundation of Nahw and Sarf, enhances your ability to express ideas in a more sophisticated and eloquent manner. It is generally recommended after a solid understanding of Nahw and Sarf has been established because it involves more advanced linguistic and rhetorical concepts.
+- Balagha builds on the foundation of Nahw and Sarf. Therefore, studying Balagha is typically recommended after acquiring a solid understanding of Nahw and Sarf, as it involves more advanced linguistic and rhetorical concepts. Ultimately, this advanced study enhances one's ability to express ideas in a more sophisticated and eloquent manner.
 
 ---
