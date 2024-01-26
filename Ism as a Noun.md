@@ -5,7 +5,7 @@ A noun is a word that represents a being, place, thing or idea.
 - **beings :** It refers to the creator and all of his living creations : people, animal, angel, jinn and devil (Shaytan).
 - **place :** It refers to a location or an area.
 - **thing :** It refers to non living object which you can see and touch.
-- **Idea :** It refers to an abstract notion or a concept that have not any physical presence.
+- **Idea :** It refers to an abstract notion or a concept that cannot be perceived through the senses.
 
 **Note:** In the context of our discussion, we have included the term "creator" within the section labeled "beings" for linguistic or grammatical purposes only, while acknowledging that Almighty is beyond all categories and limitations.
 
@@ -18,11 +18,11 @@ Nouns can be classified into various categories based on their characteristics a
 - Possessive Nouns
 
 ## Abstract Nouns
-- **Definition:** Abstract nouns refer to intangible concepts, emotions, beliefs, qualities or state of being that cannot be perceived through the senses. They represent non-concrete entities that cannot be physically touched or have any physical presence; instead, they are more theoretical or conceptual in nature.
+- **Definition:** Abstract nouns refer to entities that cannot be physically touched or have any physical presence; instead, they are more theoretical or conceptual in nature.
 - **Example:** In the phrase 'Her *kindness* is remarkable', the word "kindness" is an abstract noun, representing the quality or concept of being kind.
 
 ### Identification
-Abstract Nouns often represent:
+Abstract Nouns often represent below intangible entities:
 - **concepts:** justice, freedom, mercy
 - **emotions:** happiness, love, excitement
 - **beliefs:** hope, faith, trust
