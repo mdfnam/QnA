@@ -48,7 +48,6 @@ Certain suffixes can indicate abstract nouns. For example, words ending with:
 
 ## Common Nouns
 - **Definition:** Common nouns refer to general, non-specific classes of entities and representing the generic name for any being, place, thing, or idea. They are only capitalized when they start a sentence.
-- Common nouns are more generic (nonspecific) as they represent general name for any being, place, thing, or idea. 
 - **Example:** In the phrase 'My *teacher*' the word "teacher" is a common noun, representing a general category of educators.
 
 **Note:** Using "the" before a common noun does not make it proper but rather definite.
@@ -62,14 +61,11 @@ Certain suffixes can indicate abstract nouns. For example, words ending with:
 **Note:** When discussing the word "Allah", it is important to use 'The Word Allah' for being respectful as we are discussing the word "Allah", not addressing Allah (SWT) Himself.
 
 ## Collective Nouns
-- **Definition:** Collective nouns refer to groups of people, animals, or things as a single entity. They represent a collection or a gathering of individuals.
+- **Definition:** Collective nouns refer to groups of people, animals, or things as a single entity. They represent a collection or gathering of individuals.
 - **Example:** In the phrase 'A *nation*' the word "nation" is a collective noun, representing a group of individuals united by a common identity or citizenship.
 
 ## Possessive Nouns
-### Understanding Terms
-- **Possession:** refers to the state of owning, having a relationship with, or belonging to something.
-- **Possessor:** refers to the individual who owns or possesses something (owner).
-- **Possessed object:** refers to the item being possessed (the thing that is owned).
+- **Definition:** Possessive nouns refer to a noun indicating possession or ownership. They can also be used to indicate a relationship or a sense of belonging. Possession is typically expressed by an apostrophe followed by an “s” on the possessor (owner), followed by the possessed object (the thing that is owned).
+- **Example:** In the phrase 'The Quran's verses', the word "Quran's" is a possessive noun, indicating that the verses belong to the Quran.
 
-- **Definition:**
 ---
