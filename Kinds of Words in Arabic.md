@@ -37,9 +37,9 @@ While reading the Quran, we encounter numerous words (kalimah) on every page, wh
 
 ## Mapping Parts of Speech
 Parts of speech in English that correspond to parts of speech in Arabic are as follows:
-- Ism: noun, pronoun, adjective, adverb and interjection
-- Fi'l: verb
-- Harf: preposition, conjunction and article
+- **Ism:** noun, pronoun, adjective, adverb and interjection
+- **Fi'l:** verb
+- **Harf:** preposition, conjunction and article
 
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/36c1a728-4db7-44b8-957c-1a225897e5e1" width="550">
