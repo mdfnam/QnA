@@ -48,7 +48,7 @@ Certain suffixes can indicate abstract nouns. For example, words ending with:
 
 ## Common Nouns
 - **Definition:** Common nouns refer to general, non-specific classes of entities. They used to represent the generic name for any being, place, thing, or idea. They are only capitalized when they start a sentence.
-- **Example:** In the phrase 'The *teacher*' the word "teacher" is a common noun, representing a general category of educators.
+- **Example:** In the phrase 'The *teacher*', the word "teacher" is a common noun, representing a general category of educators.
 
 **Note:** Using "the" before a common noun does not make it proper but rather definite.
 
