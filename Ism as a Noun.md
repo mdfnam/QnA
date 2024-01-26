@@ -5,7 +5,7 @@ A noun is a word that represents a being, place, thing or idea.
 - **beings :** It refers to the creator and all of his living creations : people, animal, angel, jinn and devil (Shaytan).
 - **place :** It refers to a location or an area.
 - **thing :** It refers to non living object which you can see and touch.
-- **Idea :** It refers to an abstract notion or a concept that cannot be perceived through the senses.
+- **idea :** It refers to an abstract notion or a concept that cannot be perceived through the senses.
 
 **Note:** In the context of our discussion, we have included the term "creator" within the section labeled "beings" for linguistic or grammatical purposes only, while acknowledging that Almighty is beyond all categories and limitations.
 
@@ -58,7 +58,7 @@ Certain suffixes can indicate abstract nouns. For example, words ending with:
   <img src="https://github.com/mdfnam/QnA/assets/156814846/529dfc11-d675-4d18-abdc-8df61fd7b458" width="430">
 </p>
 
-**Note:** When discussing the word "Allah", it is important to use 'The Word Allah' for being respectful as we are discussing the word "Allah", not addressing Allah (SWT) Himself.
+**Note:** When discussing the word "Allah", it is important to use the phrase 'The Word Allah' to be respectful, as we are referring to the word rather than addressing Allah (Subhanahu wa Ta'ala) himself. Therefore, we state here that 'The word Allah is a proper noun'.
 
 ## Collective Nouns
 - **Definition:** Collective nouns refer to groups of people, animals, or things as a single entity. They used to represent a collection or gathering of individuals.
