@@ -70,7 +70,7 @@ Now, we will see Subject Pronouns, Object Pronouns and their corresponding Posse
 - 
 **Example:**
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/8c4ec3ee-6711-4dd8-adfc-d6666804f7fa" width="270">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/a61d1f58-58e5-4313-8e75-13f8be00109a" width="250">
 </p>
 
 
