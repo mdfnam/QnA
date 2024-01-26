@@ -69,10 +69,12 @@ Certain suffixes can indicate abstract nouns. For example, words ending with:
 - **Example:** In the phrase 'The Quran's verses', the word "Quran's" is a possessive noun, indicating that the verses belong to the Quran.
 
 ### Understanding Terms
+Two terms which are related with possession are: 
 - **Possessor:** refers to the individual who owns or possesses something (owner).
 - **Possessed object:** refers to the item being possessed (the thing that is owned).
 
 ### Expressing possession
-- Possession is typically expressed by an apostrophe followed by an “s” on the possessor (owner), and then the possessed object (the thing that is owned).
+In English, possession noun can be expressed through using apostrophe:
+- This possession is typically expressed by an apostrophe followed by an “s” on the possessor (owner), and then the possessed object (the thing that is owned).
 
 ---
