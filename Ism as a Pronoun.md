@@ -46,17 +46,32 @@ Now, we will see Subject Pronouns, Object Pronouns and their corresponding Posse
 ### Examples
 **First Person**
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/67486472-cf9c-40d4-b60c-8311b4312303" width="530">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/67486472-cf9c-40d4-b60c-8311b4312303" width="550">
 </p>
 
 **Second Person**
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/f5033f63-b84c-4f2e-94ea-132a927ad61c" width="530">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/f5033f63-b84c-4f2e-94ea-132a927ad61c" width="550">
 </p>
 
 **Third Person**
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/3d9f94d2-97a1-4bbb-8334-ab4b14bea500" width="530">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/3d9f94d2-97a1-4bbb-8334-ab4b14bea500" width="550">
 </p>
+
+## Demonstrative Pronouns
+- **Definition:** Demonstrative pronouns are words that replace and point to a specific noun, standing alone as the subject or object in a sentence. They help to identify wheher the noun which is replaced is near or far in space.
+- There are four demonstrative pronouns: `This`, `Those`, `That` and `These`.
+- **Example:** In the phrase '*This* is my book', the word "this" is a demonstrative pronoun, replacing a specific book.
+
+### Demonstrative Pronouns Vs. Adjectives
+- **Similarity:** Both are used to point to something specific in a conversation or text.
+- **Differences:** Demonstrative pronouns replaces a noun, meaning that it stands alone as the subject or object of the sentence, whereas demonstrative adjectives modifies a noun, meaning that it appears before the noun, telling you something about it.
+- 
+**Example:**
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/8c4ec3ee-6711-4dd8-adfc-d6666804f7fa" width="270">
+</p>
+
 
 ---
