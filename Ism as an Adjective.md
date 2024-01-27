@@ -18,7 +18,9 @@ Adjectives can be categorized into various types based on the characteristics th
 - **Definition:** Quantitative adjectives are words that indicate the quantity or amount of a noun. Quantitative adjectives are primarily associated with numbers, amounts, or proportions, as demonstrated in the below examples.
 - **Example 1:** In the phrase '*five* pillars of islam' the word "five" is a number-based quantitative adjective, specifying the number of items or individuals.
 - **Example 2:** In the phrase '*many* believers' the word "many" is a amount-based quantitative adjective, specifying the amount or extent of something.
-- **Example 3:** In the phrase '*half* an hour' the word "half" is a fraction-based quantitative adjective, specifying a fraction or a part of a whole.
+- **Example 3:** In the phrases '*half* an hour' and '*two-thirds* of the students', the words "half" and "two-thirds" is a fraction-based quantitative adjective, specifying a fraction or a part of a whole.
+
+**Note:** The first term represents the numerical value of the quantity. For singular values (like one part of a whole), the second term will be singular ("one-third"). For plural values (like two parts of a whole), the second term is plural ("two-thirds").
 
 ### Demonstrative Adjectives
 - **Definition:** Demonstrative adjectives always come before the noun and point to a specific noun in a sentence. They help to identify whether the noun is near or far in space.
