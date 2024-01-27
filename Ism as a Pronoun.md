@@ -88,24 +88,16 @@ Now, we will see Subject Pronouns, Object Pronouns and their corresponding Posse
 </p>
 
 
-### First Person
+### First Person ++++++
 *Singular*
 - **Subject Pronoun:** `I` was secretly eating dates.
 - **Object Pronoun:** She saw `me` eating dates.
 - **Possessive Adjective:** I bought some dates for `my` sister.
 
-<p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/99825b61-b0de-4262-8609-d786f5325389" width="250">
-</p>
-
 *Plural*
 - **Subject Pronoun:** `We` will finish the Quran project today.
 - **Object Pronoun:** The ustadh praised `us` for our work.
 - **Possessive Adjective:** Finally, `our` team wond the competition.
-
-<p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/08edfd5d-3e6b-4842-8257-382d1819546e" width="250">
-</p>
 
 ## Demonstrative Pronouns
 - **Definition:** Demonstrative pronouns are words that replace and point to a specific noun, standing alone as the subject or object in a sentence. They help to identify whether the noun which gets replaced is near or far in space.
