@@ -46,10 +46,13 @@ Now, we will see Subject Pronouns, Object Pronouns and their corresponding Posse
 ### Examples
 **First Person**
 - Singular
+
 *Subject Pronoun: I*
 - I was secretly eating dates.
+
 *Object Pronoun: me*
 - She saw me eating dates.
+
 *Possessive Adjective: my*
 - I bought some dates for my siter.
 
