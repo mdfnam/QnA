@@ -64,9 +64,10 @@ Now, we will see Subject Pronouns, Object Pronouns and their corresponding Posse
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/99825b61-b0de-4262-8609-d786f5325389" width="250">
 </p>
+
 - Plural
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/08edfd5d-3e6b-4842-8257-382d1819546e" width="450">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/08edfd5d-3e6b-4842-8257-382d1819546e" width="250">
 </p>
 
 ## Demonstrative Pronouns
@@ -77,8 +78,7 @@ Now, we will see Subject Pronouns, Object Pronouns and their corresponding Posse
 ### Demonstrative Pronouns Vs. Adjectives
 - **Similarity:** Both are used to point to something specific in a conversation or text.
 - **Differences:** Demonstrative pronouns replaces a noun, meaning that it stands alone as the subject or object of the sentence, whereas demonstrative adjectives modifies a noun, meaning that it appears before the noun, telling you something about it.
-
-**Example**
+- **Example**
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/8eff4124-072e-4736-9afa-bc86f5bacfec" width="250">
 </p>
