@@ -17,6 +17,10 @@ Person indicates the perspective of the speaker in relation to the noun being re
 - Second-person pronouns is used to refer to the person being directly addressed or spoken to (listener).
 - Third-person pronouns are used to refer to anyone or anything else that is being talked about, apart from the speaker or the listener.
 
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/5a87cf83-b7d5-4249-85c7-a8843602d5a5" width="330">
+</p>
+
 ### Number
 Number indicates whether the pronoun refers to an individual noun or to a group of two or more.
 - Singular pronouns are used to refer to an individual noun.
