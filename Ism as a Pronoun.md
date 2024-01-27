@@ -94,7 +94,7 @@ Now, we will see Subject Pronouns, Object Pronouns and their corresponding Posse
 - **Possessive Adjective:** `Her` kindness towards others reflects the teachings of Islam.
 
 *Singular (Genderless)*
-- **Subject Pronoun:** It (Quran) signifies peace when recited aloud.
+- **Subject Pronoun:** `It` (Quran) signifies peace when recited aloud.
 - **Object Pronoun:** Muslims hold the Quran in high regard, considering `it` the ultimate source of guidance.
 - **Possessive Adjective:** The Quran, with `its` timeless wisdom, continues to inspire people worldwide.
 
