@@ -26,12 +26,20 @@ Number indicates whether the pronoun refers to an individual noun or to a group 
 - Singular pronouns are used to refer to an individual noun.
 - Plural pronouns are used to refer to two or more individual nouns.
 
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/2e343c50-dd71-4300-8a2d-e80621ff6f2e" width="330">
+</p>
+
 ### Gender
 Gender indicates the gender of the specific individual being referred to.
 - Masculine pronouns are used to refer to males (men and boys).
 - Feminine pronouns are used to refer to females (women and girls).
 - Genderless pronouns are used to refer non human objects that don’t have a specific gender (neither masculine nor feminine).
 - Gender-Neutral pronouns are used to refer to groups of two or more people (same or different gender) or things (genderless).
+
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/320fde51-9b47-4840-9a5e-5b118b53b8f6" width="330">
+</p>
 
 **Note:** First Person Pronouns like I, me and you are used to refer to individuals, regardless of gender.
 
@@ -40,11 +48,15 @@ Case indicates the grammatical role that the pronoun plays in a sentence.
 - Subject pronouns are used to refer to the nouns that serve as the subject of a sentence.
 - Object pronouns are used to refer to the nouns that serve as the object of a sentence.
 
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/4564b8ce-801e-4e6d-9fa6-ded84787108d" width="330">
+</p>
+
 Now, we will see Subject Pronouns, Object Pronouns and their corresponding Possessive Adjective table.
 
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/b3a3630e-5889-4355-b2e6-04ccaea67f56" width="480">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/0f0957e2-b7fb-45c2-b485-d0f45c5ec93f" width="480">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/620f72d0-b1dd-46b7-9bbd-2f3427681f9a" width="480">
 </p>
 
 ## Examples
