@@ -73,7 +73,7 @@ Certain suffixes can indicate abstract nouns. For example, words ending with:
 ### Understanding Terms
 - **Possessor:** refers to the individual who owns or possesses something (owner).
 - **Possessed object:** refers to the item being possessed (the thing that is owned).
-- In the above examples, `friend`, `Quran` and `Fatima's` are the possessors, while `book`, `verses` and `father` are the possessed objects.
+- In the above examples, `friend`, `Quran` and `Fatima` are the possessors, while `book`, `verses` and `father` are the possessed objects.
 
 ### Expressing possession
 - This possession is typically expressed by an apostrophe followed by an “s” on the possessor, and then the possessed object.
