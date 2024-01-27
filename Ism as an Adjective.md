@@ -36,4 +36,8 @@ Adjectives can be categorized into various types based on the characteristics th
 - **Examples:** In the phrase '*his* prayer mat' the word "his" is a possessive adjective, indicating that the prayer mat belongs to the person referred to as "his".
 - **Note:** Because possessive adjectives and personal pronouns are closely related, we will revisit this topic when discussing personal pronouns.
 
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/1787d54a-6021-4a2d-8166-60b5adf525a4" width="330">
+</p>
+
 ---
