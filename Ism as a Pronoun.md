@@ -70,6 +70,38 @@ Now, we will see Subject Pronouns, Object Pronouns and their corresponding Posse
   <img src="https://github.com/mdfnam/QnA/assets/156814846/08edfd5d-3e6b-4842-8257-382d1819546e" width="250">
 </p>
 
+**Second Person**
+- Singular
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/7076f261-3525-442a-a562-41ef39642445" width="250">
+</p>
+
+- Plural
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/83979044-7363-491d-9c93-2678e762aab8" width="250">
+</p>
+
+**Third Person**
+- Singular (Masculine)
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/61bfbd4b-e0e3-415a-ba92-17b5698feb6e" width="250">
+</p>
+
+- Singular (Feminine)
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/b57611df-d6a2-4a87-9fb4-b0e484c56d56" width="250">
+</p>
+
+- Singular (Genderless)
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/6ded7748-c31f-4377-9cfb-1b1d2241faf9" width="250">
+</p>
+
+- Plural (Gender Neutral)
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/a94a2f61-0610-42c5-9094-abd798dc7063" width="250">
+</p>
+
 ## Demonstrative Pronouns
 - **Definition:** Demonstrative pronouns are words that replace and point to a specific noun, standing alone as the subject or object in a sentence. They help to identify whether the noun which gets replaced is near or far in space.
 - There are **four** demonstrative pronouns: `This`, `Those`, `That` and `These`.
