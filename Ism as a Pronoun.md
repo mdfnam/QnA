@@ -43,51 +43,7 @@ Now, we will see Subject Pronouns, Object Pronouns and their corresponding Posse
   <img src="https://github.com/mdfnam/QnA/assets/156814846/0f0957e2-b7fb-45c2-b485-d0f45c5ec93f" width="480">
 </p>
 
-### Examples
-**First Person**
-- Singular
-<p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/99825b61-b0de-4262-8609-d786f5325389" width="250">
-</p>
-
-- Plural
-<p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/08edfd5d-3e6b-4842-8257-382d1819546e" width="250">
-</p>
-
-**Second Person**
-- Singular
-<p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/7076f261-3525-442a-a562-41ef39642445" width="250">
-</p>
-
-- Plural
-<p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/83979044-7363-491d-9c93-2678e762aab8" width="250">
-</p>
-
-**Third Person**
-- Singular (Masculine)
-<p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/61bfbd4b-e0e3-415a-ba92-17b5698feb6e" width="250">
-</p>
-
-- Singular (Feminine)
-<p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/b57611df-d6a2-4a87-9fb4-b0e484c56d56" width="250">
-</p>
-
-- Singular (Genderless)
-<p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/6ded7748-c31f-4377-9cfb-1b1d2241faf9" width="250">
-</p>
-
-- Plural (Gender Neutral)
-<p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/a94a2f61-0610-42c5-9094-abd798dc7063" width="250">
-</p>
-
-
+## Examples
 ### First Person
 *Singular*
 - **Subject Pronoun:** `I` perform the daily prayers as prescribed in Islam.
@@ -96,7 +52,7 @@ Now, we will see Subject Pronouns, Object Pronouns and their corresponding Posse
 
 *Plural*
 - **Subject Pronoun:** `We` gather for congregational prayers at the mosque.
-- **Object Pronoun:** Allah has bestowed `his` blessings upon us.
+- **Object Pronoun:** Allah has bestowed his blessings upon `us`.
 - **Possessive Adjective:** `Our` commitment to Islam strengthens with each passing day.
 
 ### Second Person
