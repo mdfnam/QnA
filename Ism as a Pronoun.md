@@ -99,6 +99,17 @@ Now, we will see Subject Pronouns, Object Pronouns and their corresponding Posse
 - **Object Pronoun:** Allah has bestowed `his` blessings upon us.
 - **Possessive Adjective:** `Our` commitment to Islam strengthens with each passing day.
 
+### Second Person
+*Singular*
+- **Subject Pronoun:** `You` attend the Friday prayers regularly.
+- **Object Pronoun:** Allah hears `you` when you sincerely pray to Him.
+- **Possessive Adjective:** May Allah bless `your` family with peace and prosperity.
+
+*Plural*
+- **Subject Pronoun:** All of `you` should uphold your religion.
+- **Object Pronoun:** Allah has called `you` to uphold justice and compassion.
+- **Possessive Adjective:** O my people, Islam is `your` religion.
+
 ## Demonstrative Pronouns
 - **Definition:** Demonstrative pronouns are words that replace and point to a specific noun, standing alone as the subject or object in a sentence. They help to identify whether the noun which gets replaced is near or far in space.
 - There are **four** demonstrative pronouns: `This`, `Those`, `That` and `These`.
@@ -107,7 +118,7 @@ Now, we will see Subject Pronouns, Object Pronouns and their corresponding Posse
 ### Demonstrative Pronouns Vs. Adjectives
 - **Similarity:** Both are used to point to something specific in a conversation or text.
 - **Differences:** Demonstrative pronouns replaces a noun, meaning that it stands alone as the subject or object of the sentence, whereas demonstrative adjectives modifies a noun, meaning that it appears before the noun, telling you something about it.
-- **Example**
+- **How to Differentiate:** Below are some examples that will help you easily understand the differences between the two.
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/8eff4124-072e-4736-9afa-bc86f5bacfec" width="250">
 </p>
