@@ -107,8 +107,29 @@ Now, we will see Subject Pronouns, Object Pronouns and their corresponding Posse
 
 *Plural*
 - **Subject Pronoun:** All of `you` should uphold your religion.
-- **Object Pronoun:** Allah has called `you` to uphold justice and compassion.
+- **Object Pronoun:** Allah has called `you` all to uphold justice and compassion.
 - **Possessive Adjective:** O my people, Islam is `your` religion.
+
+### Third Person
+*Singular (Masculine)*
+- **Subject Pronoun:** `He` follows the teachings of Prophet Muhammad (peace be upon him).
+- **Object Pronoun:** Allah loves `him` for his devotion and humility.
+- **Possessive Adjective:** `His` dedication to charitable work has inspired many.
+
+*Singular (Feminine)*
+- **Subject Pronoun:** `She` recites the Quran daily to strengthen her connection with Allah.
+- **Object Pronoun:** Allah loves `her` for the compassion she displays to His creation.
+- **Possessive Adjective:** `Her` kindness towards others reflects the teachings of Islam.
+
+*Singular (Genderless)*
+- **Subject Pronoun:** It (Quran) signifies peace when recited aloud.
+- **Object Pronoun:** Muslims hold the Quran in high regard, considering `it` the ultimate source of guidance.
+- **Possessive Adjective:** The Quran, with `its` timeless wisdom, continues to inspire people worldwide.
+
+*Plural (Gender Neutral)*
+- **Subject Pronoun:** `They` follow the teachings of Islam with dedication.
+- **Object Pronoun:** Allah guides `them` on the path of righteousness.
+- **Possessive Adjective:** `Their` commitment to prayer is admirable.
 
 ## Demonstrative Pronouns
 - **Definition:** Demonstrative pronouns are words that replace and point to a specific noun, standing alone as the subject or object in a sentence. They help to identify whether the noun which gets replaced is near or far in space.
