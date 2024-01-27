@@ -46,16 +46,6 @@ Now, we will see Subject Pronouns, Object Pronouns and their corresponding Posse
 ### Examples
 **First Person**
 - Singular
-
-*Subject Pronoun: I*
-- I was secretly eating dates.
-
-*Object Pronoun: me*
-- She saw me eating dates.
-
-*Possessive Adjective: my*
-- I bought some dates for my siter.
-
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/99825b61-b0de-4262-8609-d786f5325389" width="250">
 </p>
@@ -95,6 +85,17 @@ Now, we will see Subject Pronouns, Object Pronouns and their corresponding Posse
 - Plural (Gender Neutral)
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/a94a2f61-0610-42c5-9094-abd798dc7063" width="250">
+</p>
+
+
+### First Person
+*Singular*
+- **Subject Pronoun:** `I` was secretly eating dates.
+- **Object Pronoun:** She saw `me` eating dates.
+- **Possessive Adjective:** I bought some dates for `my` siter.
+
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/99825b61-b0de-4262-8609-d786f5325389" width="250">
 </p>
 
 ## Demonstrative Pronouns
