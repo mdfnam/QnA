@@ -25,7 +25,7 @@ Nouns have three cases:
 - **Position:** Nouns or pronouns which are in the accusative case generally appears after the verb (Subject + Verb + Object).
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/ca66d4cc-830d-4a74-ad81-9a422d0528e5" width="430">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/6857e2e0-cc89-46d3-b0d2-d57643ed7b41" width="430">
 </p>
 
 ### Genitive Case
