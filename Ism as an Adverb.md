@@ -33,4 +33,8 @@ Adverbs can be classified into various categories based on their functions or th
 ## AbstractNoun-Adjective-Adverb
 - **Islam-Islamic-Islamically:** He embraced *Islam* and became a Muslim. To gain knowledge about the religion, he enrolled himself in an *Islamic* institute. Now, he dresses *Islamically* and goes there every day after Fajr.
 
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/22bd55b6-7e12-408c-a807-a16f3adf5ea2" width="330">
+</p>
+
 ---
