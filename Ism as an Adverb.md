@@ -31,7 +31,6 @@ Adverbs can be classified into various categories based on their functions or th
 - **Example 2:** In the phrase 'The children listened to the Islamic story quite attentively', the word "quite" is an adverb of degree, modifying the adverb "attentively" and indicating the degree to which the children paid attention to the Islamic story.
 
 ## AbstractNoun-Adjective-Adverb
-- **Islam-Islamic-Islamically:** He embraced `Islam` and became a Muslim. To gain knowledge about the religion, he enrolled himself in an `Islamic` institute. Now, he dresses `Islamically` and goes there every day after Fajr.
 - **Islam-Islamic-Islamically:** He embraced *Islam* and became a Muslim. To gain knowledge about the religion, he enrolled himself in an *Islamic* institute. Now, he dresses *Islamically* and goes there every day after Fajr.
 
 ---
