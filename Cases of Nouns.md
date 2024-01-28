@@ -16,7 +16,7 @@ Nouns have three cases:
 - **Position:** Nouns or pronouns which are in the nominative case generally appears before the verb (Subject + Verb).
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/c53c5667-f3e2-4963-8714-3d841515d079" width="430">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/2df80c03-4c2f-44a6-806c-1b58d66d02ef" width="430">
 </p>
 
 ### Accusative Case
@@ -25,7 +25,7 @@ Nouns have three cases:
 - **Position:** Nouns or pronouns which are in the accusative case generally appears after the verb (Subject + Verb + Object).
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/ce2e4dd3-ad0d-49bd-992c-730a42111270" width="430">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/ca66d4cc-830d-4a74-ad81-9a422d0528e5" width="430">
 </p>
 
 ### Genitive Case
@@ -42,7 +42,7 @@ In English, possession can be expressed through:
 
 **Examples:**
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/40488670-1821-4d43-9f30-06e1d35f48d3" width="430">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/ccfb59c1-e3fe-410d-9a4a-ae68105f9675" width="430">
 </p>
 
 ---
