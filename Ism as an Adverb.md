@@ -27,11 +27,10 @@ Adverbs can be classified into various categories based on their functions or th
 
 ## Adverbs of Degree
 - **Definition:** Adverbs of degree modify adjectives or other adverbs, indicating the intensity, extent, or degree of the action. They answer the question 'to what extent' or 'how much'.
-- **Example 1:** 
-- **Example 2:** 
+- **Example 1:** In the sentence 'He was extremely devoted to his daily prayers', the word "extremely" is an adverb of degree, modifying the adjective "devoted" and indicating the high degree of commitment and dedication to his daily prayers.
+- **Example 2:** In the phrase 'The children listened to the Islamic story quite attentively', the word "quite" is an adverb of degree, modifying the adverb "attentively" and indicating the degree to which the children paid attention to the Islamic story.
 
-
-## Abstract Noun - Adjective - Adverb
+## AbstractNoun-Adjective-Adverb
 - Islam-Islamic-Islamically. *Example:* He embraced Islam and became a Muslim. To gain knowledge about the religion, he enrolled himself in an Islamic institute. Now, he dresses Islamically and goes there every day after Fajr.
 
 ---
