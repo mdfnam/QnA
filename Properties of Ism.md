@@ -1,4 +1,4 @@
-# Introduction to Ism
+# Properties of ism
 
 ## 04 Properties of an Ism
 There are four properties of an ism, they are:
