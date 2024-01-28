@@ -1,7 +1,7 @@
 # Ism as an Adverb
 
 ## Defining Adverb
-An adverb is a word that modifies a verb, an adjective, or another adverb. Adverbs typically provide information about how, when, where, or to what degree an action is performed.
+An adverb is a word that modifies a verb, an adjective, or another adverb. Adverbs typically provide information about how, when, where, or to what degree an action is performed. It is important to note that adverbs often end with `ly`.
 - **Adverb Modifying a Verb:** In the phrase 'He recites *beautifully*', the word "beautifully" is an adverb, modifying the verb "recites" and indicating how the action was performed.
 - **Adverb Modifying an Adjective:** In the phrase 'Your recitation is *very* beautiful', the word "very" is an adverb, modifying the adjective "beautiful" and indicating the degree or intensity of the beauty.
 - **Adverb Modifying Another Adverb:** In the phrase 'He recites *very* beautifully', the word "very" is an adverb, modifying the adverb "beautifully" and indicating the degree or intensity of the beauty in his recitation.
@@ -31,6 +31,6 @@ Adverbs can be classified into various categories based on their functions or th
 - **Example 2:** In the phrase 'The children listened to the Islamic story quite attentively', the word "quite" is an adverb of degree, modifying the adverb "attentively" and indicating the degree to which the children paid attention to the Islamic story.
 
 ## AbstractNoun-Adjective-Adverb
-- Islam-Islamic-Islamically. *Example:* He embraced Islam and became a Muslim. To gain knowledge about the religion, he enrolled himself in an Islamic institute. Now, he dresses Islamically and goes there every day after Fajr.
+- **Islam-Islamic-Islamically:** He embraced `Islam` and became a Muslim. To gain knowledge about the religion, he enrolled himself in an `Islamic` institute. Now, he dresses `Islamically` and goes there every day after Fajr.
 
 ---
