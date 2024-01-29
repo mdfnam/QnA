@@ -19,6 +19,7 @@ We are required to possess these four skills in order to learn any language:
 
 **Problem:**
 - A common issue arises when various language programs prioritize speaking skills at the expense of understanding written text. These programs focus on teaching you how to construct sentences from your thoughts, but they may not place sufficient emphasis on the crucial aspect of understanding written text. Consequently, even after years of study, when you read the Quran, you might not feel a strong connection. This happens because the emphasis was on output (speaking) rather than input (understanding what you read).
+- Furthermore, these language programs often focus on Modern Standard Arabic (MSA) rather than classical Arabic. This shift in emphasis serves as the second factor contributing to the challenges individuals face in forming a connection with the Quran, challenges that persist despite years of study.
 
 **Solution:**
 - When studying Arabic as a Muslim, a primary motivation is often the desire to connect with the Quran when we hear it being recited or while we are reading it. Therefore, the top priority is given to the skills of listening and reading Arabic with comprehension. Developing proficiency in these skills will lead to a deep moral connection with the Quran.
