@@ -34,8 +34,8 @@ Adjectives can be categorized into various types based on the characteristics th
 ### Possessive Adjectives
 - **Definition:** Possessive adjectives are used to show ownership or possession of a noun. They typically come before the noun they modify to indicate to whom or to what something belongs.
 - There are **seven** possessive adjectives: `My`, `Your`, `His`, `Her`, `Its`, `Our` and `Their`.
-- **Expressing Possession:** This possession is expressed by the possessive adjective followed by the possessed object. Here, the possessor is the person indicated by the possessive adjective.
-- **Examples:** In the phrase '*his* prayer mat', the word "his" is a possessive adjective, indicating that the prayer mat belongs to the person referred to as "his".
+- **Expressing Possession:** This possession is expressed by the possessive adjective followed by the possessed object. Here, the possessor is the person or thing indicated by the possessive adjective.
+- **Examples:** In the phrase '*his* prayer mat', the word "his" is a possessive adjective, indicating that the prayer mat (possessed object) belongs to the person referred to as "his" (possessor).
 - **Note:** Because possessive adjectives and personal pronouns are closely related, we will revisit this topic when discussing personal pronouns.
 
 <p align="center">
