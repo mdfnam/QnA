@@ -2,7 +2,7 @@
 
 ## Defining Adverb
 An adverb is a word that modifies a verb, an adjective, or another adverb. Adverbs typically provide information about how, when, where, or to what degree an action is performed. It is imp. to note that adverbs often end with `ly`.
-- **Adverb Modifying a Verb:** In the phrase 'He recites *beautifully*', the word "beautifully" is an adverb, modifying the verb "recites" and indicating how the action was performed.
+- **Adverb Modifying a Verb:** In the phrase 'He recites *beautifully* ', the word "beautifully" is an adverb, modifying the verb "recites" and indicating how the action was performed.
 - **Adverb Modifying an Adjective:** In the phrase 'Your recitation is *very* beautiful', the word "very" is an adverb, modifying the adjective "beautiful" and indicating the degree or intensity of the beauty.
 - **Adverb Modifying Another Adverb:** In the phrase 'He recites *very* beautifully', the word "very" is an adverb, modifying the adverb "beautifully" and indicating the degree or intensity of the beauty in his recitation.
 
@@ -15,7 +15,7 @@ Adverbs can be classified into various categories based on their functions or th
 
 ## Adverbs of Manner
 - **Definition:** Adverbs that describe how an action is performed.
-- **Example:** In the phrase 'He recited the Quran *melodiously*', the word "melodiously" is an adverb of manner, modifying the verb "recited" and indicating how the action of reciting the Quran was performed.
+- **Example:** In the phrase 'He recited the Quran *melodiously* ', the word "melodiously" is an adverb of manner, modifying the verb "recited" and indicating how the action of reciting the Quran was performed.
 
 ## Adverbs of Time
 - **Definition:** Adverbs that indicate when an action takes place.
