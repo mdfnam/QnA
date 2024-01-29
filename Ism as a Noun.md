@@ -76,6 +76,6 @@ Certain suffixes can indicate abstract nouns. For example, words ending with:
 - In the above examples, `friend`, `Quran` and `Fatima` are the possessors, while `book`, `verses` and `father` are the possessed objects.
 
 ### Expressing possession
-- This possession is typically expressed by an apostrophe followed by an “s” on the possessor, and then the possessed object.
+- This possession is typically expressed by an apostrophe (') followed by an “s” on the possessor, and then the possessed object.
 
 ---
