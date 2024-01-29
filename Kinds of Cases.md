@@ -30,6 +30,6 @@ In Arabic, similar to English, we also have three grammatical cases of an Ism (N
 
 *Sentence 3:* This is the book of a muslim (مُسْلِمٍ).
 - Here, the noun "muslim" is the possessor as it is the person who owns the book. From another perspective, it can also be viewed as the word which is after "of".
-- Now, in English, the noun "muslim" in the genitive case is represented the same way. However, in Arabic, the jarr case of the ism "muslim" is *muslimin* (In Arabic: مُسْلِمٍ), where the base word is "muslim" and accusative case is indicated by its ending "in".
+- Now, in English, the noun "muslim" in the genitive case is represented the same way. However, in Arabic, the jarr case of the ism "muslim" is *muslimin* (In Arabic: مُسْلِمٍ), where the base word is "muslim" and genitive case is indicated by its ending "in".
 
 ---
