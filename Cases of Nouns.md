@@ -1,6 +1,6 @@
 # Cases of Nouns
 
-## Cases of Nouns
+## Three Cases
 Nouns have three cases:
 - Nominative or Subjective Case: Subject of the verb
 - Accusative or Objective Case: Object of the verb
