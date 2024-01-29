@@ -7,11 +7,7 @@ In Arabic, similar to English, we also have three grammatical cases of an Ism:
 - Jarr `جَرٌّ` : Genitive (Possessor of a thing)
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/fb167782-dae4-416b-8e46-fa21aa196d26" width="450">
-</p>
-
-<p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/0d3e027c-8fa7-4ee8-b4fa-adeb800ffaf6" width="420">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/7113489a-8ca8-4b04-bf18-2ec347a0ff0d" width="420">
 </p>
 
 **Note:**
