@@ -9,7 +9,7 @@ There are several kinds of pronouns, each serving a different purpose. Here are 
 - Demostrative Pronouns
 
 ## Personal Pronouns
-- Personal Pronouns are simple pronouns that are used to substitute proper names. They change form based on person, number, gender and case.
+- Personal Pronouns are simple pronouns that are used to substitute proper names (proper noun). They change form based on person, number, gender and case.
 
 ### Person
 Person indicates the perspective of the speaker in relation to the noun being referred to.
@@ -41,7 +41,7 @@ Gender indicates the gender of the specific individual being referred to.
   <img src="https://github.com/mdfnam/QnA/assets/156814846/320fde51-9b47-4840-9a5e-5b118b53b8f6" width="330">
 </p>
 
-**Note:** First Person Pronouns like I, me and you are used to refer to individuals, regardless of gender.
+**Note:** First person and second person singular pronouns like I, me and you are used to refer to individuals, regardless of gender.
 
 ### Case
 Case indicates the grammatical role that the pronoun plays in a sentence.
