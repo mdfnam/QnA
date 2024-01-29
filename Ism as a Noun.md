@@ -31,10 +31,10 @@ Abstract nouns often represent below intangible entities:
 
 ### Suffixes
 Certain suffixes can indicate abstract nouns. For example, words ending with:
-- **ism:** capitalism, socialism, hinduism
+- **ism:** optimism, socialism, hinduism
 - **tion:** education, communication, imagination
 - **ance:** guidance, acceptance, resistance
-- **sion:** collision, decision, comparison
+- **ness:** happiness, darkness, kindness
 - **ing:** swimming, cooking, learning
 
 ### Gerund
