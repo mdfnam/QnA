@@ -17,12 +17,12 @@ In Arabic, similar to English, we also have three grammatical cases of an Ism (N
 - **Example:** Al-baitu `البَيْتُ` : We can say Al-baitu is Marfu' ism or, we can also say it has Raf‘ case or in Raf’ form.
 
 ## Differences
-- In English, the role which a noun is playing in a sentence is generally determined through word order and context. However, in Arabic, the role of an Ism can be identified without relying on its placement in the sentence or the surrounding context.
+- In English, the role which a noun plays in a sentence is generally determined through word order and context. However, in Arabic, the role of an Ism can be identified without relying on its placement in the sentence or the surrounding context.
 - English has relatively minimal case inflection (only in pronouns) compared to arabic language. In English, nouns in any grammatical case are often identical to the base or dictionary form of the word. Whereas in Arabic an Ism undergo inflection in different cases, resulting in distinct forms due to case endings. Moreover, the form of these isms is further influenced by factors such as gender and number.
 
 *Sentence 1:* A muslim `(مُسْلِمٌ)` prays five times a day.
-- Here, the noun 'Muslim' is the subject as it represents the person who performs the action of praying. From another perspective, it can also be viewed as the answer to the question 'Who prays?'.
-- Now, in English, the noun 'Muslim' in the nominative case is represented the same way. However, in Arabic, the raf' case of the ism 'Muslim' is `(مُسْلِمٌ)`, where the base word is 'Muslim' and nominative case is indicated by its ending .
+- Here, the noun 'muslim' is the subject as it represents the person who performs the action of praying. From another perspective, it can also be viewed as the answer to the question 'who prays?'.
+- Now, in English, the noun 'muslim' in the nominative case is represented the same way. However, in Arabic, the raf' case of the ism 'muslim' is *muslimum* (In Arabic: مُسْلِمٌ), where the base word is 'muslim' and nominative case is indicated by its ending 'un'.
 
 *Sentence 2:* He met a muslim `(مُسْلِمًا)` in the university
 - Here, the noun 'Muslim' is the object as it represents the person who receive the action of meeting. From another perspective, it can also be viewed as the answer to the question 'Whom did he meet?'.
