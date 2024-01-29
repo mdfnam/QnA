@@ -37,16 +37,16 @@ While reading the Quran, we encounter numerous words (kalimah) on every page, wh
 
 ## Mapping Parts of Speech
 Parts of speech in English that correspond to parts of speech in Arabic are as follows:
-- **Ism:** noun, pronoun, adjective, adverb and interjection
-- **Fi'l:** verb
-- **Harf:** preposition, conjunction and article
+- **Ism:** Noun, Pronoun, Adjective, Adverb and Interjection
+- **Fi'l:** Verb
+- **Harf:** Preposition, Conjunction and Article
 
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/36c1a728-4db7-44b8-957c-1a225897e5e1" width="550">
 </p>
 
 **Note:**
-- Ism literally translates to 'name,' and a noun, which also signifies the name of something, which is why 'ism' is referred to as a noun. However, this doesn't imply that it belongs to the noun parts of speech only.
+- Ism literally translates to 'name,' and a noun, which also signifies the name of something, which is why 'ism' is referred to as noun. However, this doesn't imply that it belongs to the noun parts of speech only.
 - In Arabic, the subject (doer of the verb) and verb appear together in a single word. For example, `يَنْصُرُ` (yansuru) means “he helps”. That’s why we refer Fi’l as ‘More than a Verb’.
 - In Arabic grammar, the term "harf " is often referred to as a "particle“. These particles serve to connect words, convey relationships, and provide additional information in a sentence. Arabic particles in english are typically prepositions, conjunctions and articles.
 
