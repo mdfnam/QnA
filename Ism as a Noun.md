@@ -72,7 +72,7 @@ Certain suffixes can indicate abstract nouns. For example, words ending with:
 - **Possessed object:** refers to the item being possessed (the thing that is owned).
 
 ### Expressing possession
-- This possession is typically expressed by an apostrophe (') followed by an “s” on the possessor, and then the possessed object. This form is used when we want to emphasize the possessor.
+- **Using apostrophe:** This possession is typically expressed by an apostrophe (') followed by an “s” on the possessor, and then the possessed object. This form is used when we want to emphasize the possessor.
 
 ### Examples
 - **Example 1:** In the phrase 'My *friend's* book', the word "friend's" is a possessive noun, indicating that the book is owned by my friend.
