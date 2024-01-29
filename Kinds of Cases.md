@@ -1,7 +1,7 @@
 # Kinds of Cases
 
 ## Similarities
-In Arabic, similar to English, we also have three grammatical cases of an Ism:
+In Arabic, similar to English, we also have three grammatical cases of an Ism (Noun):
 - Raf' `رَفْعٌ` : Nominative (Doer of the act)
 - Nasb `نَصْبٌ` : Accusative (Receiver of the act)
 - Jarr `جَرٌّ` : Genitive (Possessor of a thing)
@@ -11,13 +11,13 @@ In Arabic, similar to English, we also have three grammatical cases of an Ism:
 </p>
 
 **Note:**
-- Raf’ is also know as the default status. If there is no reason for an ism to be assigned to a different status, it remains in the Raf' status (also called as dictionary form).
+- Raf’ is also know as the default case. If there is no reason for an ism to be assigned to a different case, it remains in the Raf' case (also called as dictionary form).
 - At times, Raf' is alternatively described as Marfu' مَرْفُوْعٌ, Nasb as Mansub مَنْصُوْبٌ, and Jarr as Majrur مَجْرُوْرٌ, although there exist slight distinctions between them.
-- Raf', nasb and jarr refer to the grammatical states or cases of an ism, while marfu', mansub and majrur refer to the ism itself in these respective states.
-- **Example:** Al-baitu `البَيْتُ` - We can say Al-baitu is a Marfu' ism or, we can also say Al-baitu is in the Raf’ status (state-Raf’) or has case of Raf‘ or in Raf’ form.
+- Raf', nasb and jarr refer to the grammatical cases of an ism, while marfu', mansub and majrur refer to the ism itself in these respective states.
+- **Example:** Al-baitu `البَيْتُ` : We can say Al-baitu is Marfu' ism or, we can also say it has Raf‘ case or in Raf’ form.
 
 ## Differences
-- In English, the roles of nouns in a sentence are determined through word order and context. However, in Arabic, the role of an Ism can be identified without relying on its placement in the sentence or the surrounding context.
+- In English, the role which a noun is playing in a sentence is generally determined through word order and context. However, in Arabic, the role of an Ism can be identified without relying on its placement in the sentence or the surrounding context.
 - English has relatively minimal case inflection (only in pronouns) compared to arabic language. In English, nouns in any grammatical case are often identical to the base or dictionary form of the word. Whereas in Arabic an Ism undergo inflection in different cases, resulting in distinct forms due to case endings. Moreover, the form of these isms is further influenced by factors such as gender and number.
 
 *Sentence 1:* A muslim `(مُسْلِمٌ)` prays five times a day.
