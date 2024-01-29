@@ -66,16 +66,20 @@ Certain suffixes can indicate abstract nouns. For example, words ending with:
 
 ## Possessive Nouns
 - **Definition:** Possessive nouns refer to a noun indicating possession or ownership. They can also be used to indicate a relationship or a sense of belonging.
-- **Example 1:** In the phrase 'My *friend's* book', the word "friend's" is a possessive noun, indicating that the book is owned by my friend.
-- **Example 2:** In the phrase 'The *Quran's* verses', the word "Quran's" is a possessive noun, indicating that the verses belong to the Quran.
-- **Example 3:** In the phrase '*Fatima's* father', the word "Fatima's" is a possessive noun, indicating a father-daughter relationship between them.
 
 ### Understanding Terms
 - **Possessor:** refers to the individual who owns or possesses something (owner).
 - **Possessed object:** refers to the item being possessed (the thing that is owned).
-- In the above examples, `friend`, `Quran` and `Fatima` are the possessors, while `book`, `verses` and `father` are the possessed objects.
 
 ### Expressing possession
-- This possession is typically expressed by an apostrophe (') followed by an “s” on the possessor, and then the possessed object.
+- This possession is typically expressed by an apostrophe (') followed by an “s” on the possessor, and then the possessed object. This form is used when we want to emphasize the possessor.
+
+### Examples
+- **Example 1:** In the phrase 'My *friend's* book', the word "friend's" is a possessive noun, indicating that the book is owned by my friend.
+- **Example 2:** In the phrase 'The *Quran's* verses', the word "Quran's" is a possessive noun, indicating that the verses belong to the Quran.
+- **Example 3:** In the phrase '*Fatima's* father', the word "Fatima's" is a possessive noun, indicating a father-daughter relationship between them.
+- **Note:** In the above examples, "friend", "Quran" and "Fatima" are the possessors, while "book", "verses" and "father" are the possessed objects.
+
+
 
 ---
