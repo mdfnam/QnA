@@ -7,7 +7,7 @@ There are three fundamental sciences in the study of the Arabic language, partic
 - Balagha
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/9a4d3ae7-bbc0-420b-911e-ae8c90f62811" width="450">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/127815cf-b6a1-4b35-9913-ad9a8ae46248" width="350">
 </p>
 
 ### Nahw
