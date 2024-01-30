@@ -20,6 +20,7 @@ We will explore one similarity between things that exist in Arabic as well as in
 
 ## Differences
 We will explore two differences between things that exist in Arabic but are not present in English.
+
 **1.Case Inflection:** English has relatively minimal case inflection, founds only in pronouns, when compared to the Arabic language. In English, nouns in any grammatical case remain identical to the base or dictionary form of the word. Determining the case of a noun involves asking questions (in the nominative and accusative cases) or observing signs (in the genitive case).Whereas in Arabic, an Ism undergo inflection in various cases, resulting in distinct forms with different case endings through which we can easily determine the case which eliminates the need for questioning as required in English. Consequently, the role of an Ism will play in a sentence can be identified without relying on its placement in the sentence or the surrounding context.
 
 *Sentence 1:* A muslim (مُسْلِمٌ) prays five times a day.
