@@ -17,8 +17,8 @@ In Arabic, similar to English, we also have three grammatical cases of an Ism (N
 - **Example:** Al-baitu `البَيْتُ` : We can say Al-baitu is Marfu' ism or, we can also say it has Raf‘ case or in Raf’ form.
 
 ## Differences
-- In English, the role which a noun plays in a sentence is generally determined through word order and context. However, in Arabic, the role of an Ism can be identified without relying on its placement in the sentence or the surrounding context.
-- English has relatively minimal case inflection (only in pronouns) compared to arabic language. In English, nouns in any grammatical case are often identical to the base or dictionary form of the word. Whereas in Arabic an Ism undergo inflection in different cases, resulting in distinct forms due to case endings. Moreover, the form of these isms is further influenced by factors such as gender and number.
+- English has relatively minimal case inflection, founds only in pronouns, when compared to the Arabic language. In English, nouns in any grammatical case remain identical to the base or dictionary form of the word. Determining the case of a noun involves asking questions (in the nominative and accusative cases) or observing signs (in the genitive case).Whereas in Arabic, an Ism undergo inflection in various cases, resulting in distinct forms with different case endings through which we can easily determine the case which eliminates the need for questioning as required in English. Consequently, the role of an Ism can be identified without relying on its placement in the sentence or the surrounding context.
+- In englsih cases is only related to nouns and pronouns but in arabic cases is only related to ism, but a translation of a word form arabic to english which actually belongs to parts of speech like adjecetive or adverb or interjections 
 
 *Sentence 1:* A muslim (مُسْلِمٌ) prays five times a day.
 - Here, the noun "muslim" is the subject as it represents the person who performs the action of praying. From another perspective, it can also be viewed as the answer to the question 'who prays?'.
