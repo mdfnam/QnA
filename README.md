@@ -7,7 +7,7 @@
 ## Arabic
 Table of Content:
 - [Kinds of Arabic](https://github.com/mdfnam/QnA/blob/main/Kinds%20of%20Arabic.md)
-- [Before The Course](https://github.com/mdfnam/QnA/blob/main/Before%20The%20Course.md)
+- [Approach for Learning Classical Arabic](https://github.com/mdfnam/QnA/blob/main/Approach%20for%20Learning%20Classical%20Arabic.md)
 - [Branches of Arabic](https://github.com/mdfnam/QnA/blob/main/Branches%20of%20Arabic.md)
 - [Kinds of Words in Arabic](https://github.com/mdfnam/QnA/blob/main/Kinds%20of%20Words%20in%20Arabic.md)
 - [Ism as a Noun](https://github.com/mdfnam/QnA/blob/main/Ism%20as%20a%20Noun.md)
