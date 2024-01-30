@@ -21,7 +21,7 @@ Table of Content:
  [Harf as a Conjunction](https://github.com/mdfnam/QnA/blob/main/Harf%20as%20a%20Conjunction.md)-->
 - [Properties of Ism](https://github.com/mdfnam/QnA/blob/main/Properties%20of%20Ism.md)
 - [Cases of Nouns](https://github.com/mdfnam/QnA/blob/main/Cases%20of%20Nouns.md)
-- [Kinds of Cases](https://github.com/mdfnam/QnA/blob/main/Kinds%20of%20Cases.md)
+- [Cases of Ism](https://github.com/mdfnam/QnA/blob/main/Cases%20of%20Ism.md)
 - [How to Tell Status](https://github.com/mdfnam/QnA/blob/main/How%20to%20Tell%20Status.md)
 
 
