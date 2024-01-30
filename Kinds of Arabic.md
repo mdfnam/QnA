@@ -29,6 +29,12 @@ Arabic can be classified into three primary kinds:
 > ### رَبِّی یَسِّرْ وَلَا تُعَسِّرْ وَ تَمِّمْ بِالْخَیْر
     My Lord, make it easy and do not make it difficult, and complete it with goodness
 
+### What we will Study?
+- In this course, our primary goal is to comprehend the Quran, making Classical Arabic our main subject of study. By focusing on Classical Arabic, we aim to enhance our ability to understand the Arabic text. Through this journey, we'll delve into the details of the Arabic language, paving the way for a deeper connection with the Quran. Emphasizing a comprehensive understanding, our course seeks to equip learners with the linguistic tools needed to unlock the profound wisdom embedded in the Quran.
+
+### Why avoid learning MSA for Quran comprehension?
+- Avoiding learning Modern Standard Arabic (MSA) for Quranic comprehension is discouraged, as the Quran is primarily written in Classical Arabic. While MSA shares similarities with Classical Arabic, there are significant linguistic differences that arise as a result of the evolution of language, which can hinder a deep understanding of the Quranic text. Hence, solely relying on MSA may not ensure an accurate understanding of the Quranic language, emphasizing the importance of learning Classical Arabic for the accurate interpretation of it.
+
 ## Evolution of Language
 Over the course of time, languages undergo an evolutionary process, resulting in their classification into two distinct forms: Ancient and Modern variations; these two forms differ in several aspects. Below, we will explore three points related to the evolution of any language.
 - Simplification of Words
@@ -58,8 +64,5 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 ## Preservation of Classical Arabic
 - Classical Arabic is considered dead today because it is no longer spoken. However, religious scriptures such as the Quran and Hadith have played a crucial role in preserving it. Despite the influence of various cultures and languages on Arabic over time, these influences did not significantly impact Classical Arabic.
 - Credit for this preservation goes to Islamic scholars, who not only documented the ancient grammar and keep recorded of the meanings of words, along with how Arabic Bedouins used them but also passed this knowledge down from generation to generation. As a result, individuals studying anywhere in the world today can seamlessly refer to these classical sources, ensuring a profound understanding of the original meanings and contextual usage of words as they existed in times long past.
-
-## Summary
-Arabic, a diverse language, is classified into Colloquial, Modern Standard (MSA), and Classical forms. Colloquial, informal and region-specific, poses challenges in comprehension due to varying dialects. MSA, a standardized version, promotes mutual understanding among Arabic speakers globally, used in education, media, and formal contexts. Classical Arabic, from the Quran, is vital for understanding Islamic scriptures, distinct for its richness and complexity. Languages, including Arabic, evolve over time, simplifying grammar, adopting new words, and changing contextual meanings. MSA proficiency doesn't guarantee understanding ancient texts, emphasizing the importance of learning Classical Arabic for accurate interpretation of it. Despite the influence of diverse cultures, Classical Arabic remains intact through religious texts, necessitating reference to the works of various scholars to obtain the exact definition and usage of any word in a particular context.
 
 ---
