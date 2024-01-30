@@ -1,4 +1,4 @@
-# Approach for Learning Classical Arabic
+# Approach for Learning C
 
 ### Four Skills
 We are required to possess these four skills in order to learn any language:
