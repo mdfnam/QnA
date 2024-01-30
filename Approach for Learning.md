@@ -1,4 +1,4 @@
-# Approach for Learning C
+# Approach for Learning
 
 ### Four Skills
 We are required to possess these four skills in order to learn any language:
