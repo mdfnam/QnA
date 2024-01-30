@@ -1,4 +1,4 @@
-# Kinds of Cases
+# Cases of Ism
 
 ## Similarities
 In Arabic, similar to English, we also have three grammatical cases of an Ism (Noun):
