@@ -1,7 +1,7 @@
 # Approach for Learning
 
 ### Four Skills
-We are required to possess these four skills in order to learn any language:
+As we have already seen in the previous topic, we are going to learn Quranic Arabic. Now, let's explore the four essential skills needed to learn a language, and identify the specific skill we will focus on.
 1. Reading with comprehension
 2. Listening with comprehension
 3. Speaking properly
