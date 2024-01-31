@@ -1,7 +1,7 @@
 # Harf as an Article
 
 ## Defining Articles
-Articles precede nouns, serving the purpose of indicating whether the noun refers to something specific & identifiable or something nonspecific & general. In English, we have three articles, they are `a`, `an` and `the`.
+Articles precede nouns, serving the purpose of indicating whether the noun refers to something specific & identifiable or something nonspecific & unkwown. In English, we have three articles, they are `a`, `an` and `the`.
 
 ### Classification of Articles 
 Articles can be classified into two categories based on their function in English grammar:
