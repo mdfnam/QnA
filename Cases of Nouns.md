@@ -42,7 +42,7 @@ Nouns have three cases:
 
 ## Some Examples
 *Sentence 1:* We learn Arabic of the Quran.
-- `We` : Pronoun (Nominative case: Who learns? - the word "We" is the subject doing the act of learning)
+- `We` : Pronoun (Nominative case: Who learns? - the word "We" is the subject doing the action of learning)
 - `Arabic` : Noun (Accusative case: What do we learn? - the word "Arabic" is the direct object receiving the action of learning).
 - `Quran` : Noun (Genitive case: Whose Arabic? - After the preposition of possession)
 
