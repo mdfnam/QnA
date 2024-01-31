@@ -40,6 +40,6 @@ We will explore two differences between things that exist in Arabic but are not 
 *Word:* Adjective - Beautiful (In Arabic: جَمِيل) 
 - Nominative Case (Raf'): جَمِيلٌ (jameelun) - "beautiful" (used for the subject of a sentence).
 - Accusative Case (Nasb): جَمِيلًا (jameelan) - "beautiful" (used for the direct object of a verb).
-- Genitive Case (Jarf): جَمِيلٍ (jameelin)- "beautiful" (used to indicate possession or association).
+- Genitive Case (Jarr): جَمِيلٍ (jameelin)- "beautiful" (used to indicate possession or association).
 
 ---
