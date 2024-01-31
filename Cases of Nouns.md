@@ -37,7 +37,7 @@ Nouns have three cases:
 
 **Examples:**
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/e8a208fe-b574-45f5-8224-40d95ef1f8ce" width="430">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/ad8677f3-5aa3-45a8-a6c8-c5d15d64c308" width="430">
 </p>
 
 ## Some Examples
