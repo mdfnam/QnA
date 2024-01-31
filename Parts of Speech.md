@@ -1,4 +1,4 @@
-# Kinds of Words in Arabic
+# Parts of Speech
 
 ## Components of the Arabic Language
 - **Lafz `لَفْظ`:** It specifically refers to a single word or a single utterance (it denotes every sound produced by the tongue). These utterances can be further divided into two categories based on whether they convey meaning or not: Muhmal and Mawdu.
