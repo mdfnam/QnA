@@ -13,13 +13,13 @@ Articles can be classified into two categories based on the type of noun they mo
 - **Example 1:** In the phrase 'The Quran' (used before a proper noun), the word "the" functions as a definite article, indicating a specific Quran known to both the speaker and the listener. It could refer to a particular Quran mentioned earlier or known within the context.
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/c2c8edf6-de83-4d7d-9bea-cef620814401" width="300">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/c2c8edf6-de83-4d7d-9bea-cef620814401" width="270">
 </p>
 
 - **Example 2:** In the phrase 'The book' (used before a common noun), the word "the" functions as a definite article, indicating that there is a particular book both the speaker and the listener are familiar with or have been discussing.
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/9e6164f0-7c27-44d2-898c-56a78cce986b" width="300">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/9e6164f0-7c27-44d2-898c-56a78cce986b" width="270">
 </p>
 
 **Note:** 
@@ -33,13 +33,13 @@ Articles can be classified into two categories based on the type of noun they mo
 - **Example 1:** In the phrase 'A book' (used before singular common noun), the word "a" functions as a indefinite article, indicating a non-specific or generic item.
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/bb7749e2-9429-45e6-b06e-1dcb65e753be" width="300">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/bb7749e2-9429-45e6-b06e-1dcb65e753be" width="270">
 </p>
 
 - **Example 2:** In the phrase 'An elephant' (used before singular common noun), the word "an" functions as a indefinite article, indicating a non-specific or unidentified member of the elephant species.
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/6571d939-9e4d-4326-b030-cfc975af433b" width="300">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/6571d939-9e4d-4326-b030-cfc975af433b" width="270">
 </p>
 
 **Note:**
