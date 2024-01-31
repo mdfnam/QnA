@@ -13,11 +13,11 @@ Table of Content:
 - [Ism as a Noun](https://github.com/mdfnam/QnA/blob/main/Ism%20as%20a%20Noun.md)
 - [Ism as an Adjective](https://github.com/mdfnam/QnA/blob/main/Ism%20as%20an%20Adjective.md)
 - [Ism as a Pronoun](https://github.com/mdfnam/QnA/blob/main/Ism%20as%20a%20Pronoun.md)
-- [Ism as an Adverb](https://github.com/mdfnam/QnA/blob/main/Ism%20as%20an%20Adverb.md)<!--
+- [Ism as an Adverb](https://github.com/mdfnam/QnA/blob/main/Ism%20as%20an%20Adverb.md)
+- [Harf as an Article](https://github.com/mdfnam/QnA/blob/main/Harf%20as%20an%20Article.md)
+- [Harf as a Preposition](https://github.com/mdfnam/QnA/blob/main/Harf%20as%20a%20Preposition.md)<!--
  [Ism as an Interjection](https://github.com/mdfnam/QnA/blob/main/Ism%20as%20an%20Interjection.md)
  [Fi'l as a Verb](https://github.com/mdfnam/QnA/blob/main/Fi'l%20as%20a%20Verb.md)
- [Harf as an Article](https://github.com/mdfnam/QnA/blob/main/Harf%20as%20an%20Article.md)
- [Harf as a Preposition](https://github.com/mdfnam/QnA/blob/main/Harf%20as%20a%20Preposition.md)
  [Harf as a Conjunction](https://github.com/mdfnam/QnA/blob/main/Harf%20as%20a%20Conjunction.md)-->
 - [Properties of Ism](https://github.com/mdfnam/QnA/blob/main/Properties%20of%20Ism.md)
 - [Cases of Nouns](https://github.com/mdfnam/QnA/blob/main/Cases%20of%20Nouns.md)
