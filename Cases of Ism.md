@@ -16,7 +16,7 @@ We will explore one similarity between things that exist in Arabic as well as in
 - Raf’ is also know as the default case. If there is no reason for an ism to be assigned to a different case, it remains in the Raf' case (also called as dictionary form).
 - At times, Raf' is alternatively described as Marfu' مَرْفُوْعٌ, Nasb as Mansub مَنْصُوْبٌ, and Jarr as Majrur مَجْرُوْرٌ, although there exist slight distinctions between them.
 - Raf', nasb and jarr refer to the grammatical cases of an ism, while marfu', mansub and majrur refer to the ism itself in these respective states.
-- *Example:* Al-baitu `البَيْتُ` : We can say al-baitu is Marfu' (an ism which is in raf' form) or, we can also say al-baitu has Raf‘ case or in Raf’ form.
+- Let's take an example of a word "Al-baitu" (In Arabic: البَيْتُ), which is in the raf' form. Here, we can say that "Al-baitu" is Marfu' (an ism which is in Raf' form). Alternatively, we can also say that "Al-baitu" has the Raf‘ case or is in the Raf’ form.
 
 ## Differences
 We will explore two differences between things that exist in Arabic but are not present in English.
