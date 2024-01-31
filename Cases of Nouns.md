@@ -41,12 +41,19 @@ Nouns have three cases:
 </p>
 
 ## Some Examples
-*Sentence 1:* Messenger of Allah taught us the Quran.
-- `messenger` : Noun (Nominative case: Who taught?) - He is the one whon done the act of teaching.
-- `of` : Preposition (Prepostion of Possession) 
-- `Allah` : Noun (Genitive case: Whose messenger?) - After the preposition of possession.
-- `taught` : Verb (Past Tense Verb)
-- `the` : Article (Indefinite Article)
-- `us` : Noun (Objective case - 
+*Sentence 1:* We learn Arabic of the Quran.
+- `We` : Pronoun (Nominative case: Who learns? - the word "We" is the subject doing the act of learning)
+- `Arabic` : Noun (Accusative case: What do we learn? - "Arabic" is the direct object receiving the action of learning).
+- `Quran` : Noun (Genitive case: Whose Arabic? - After the preposition of possession)
+
+*Sentence 2:* Ali lost his cat.
+- `Ali` : Noun (Nominative case: Who lost? -  the word "Ali" is the subject performing the action of losing).
+- `his` : Adjective (Genitive case: Whose cat? - Possessive Adjective).
+- `cat` : Noun (Accusative case: What did Ali lose? - "Cat" is the direct object receiving the action of losing).
+
+*Sentence 3:* Allah's messenger loves dates.
+- `Allah's` : Noun (Genitive case: Whose messenger? - Possessive Nouns)
+- `messenger` : Noun (Nominative case: Who loves? - the word "Messenger" is the subject performing the action of loving).
+- `dates` : Noun (Accusative case: What did messenger (pbuh) loves? - "Dates" is the direct object receiving the action of loving).
 
 ---
