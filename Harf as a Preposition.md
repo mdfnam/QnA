@@ -29,7 +29,7 @@ Prepostions often indicate location, direction, time, or possession. Here's a cl
 
 ## Preposition of Possession
 - **Definition:** Prepositions of possession indicate ownership or the relationship between one entity and something owned.
-- There is only one preposition of possession: `of`
+- There is only one preposition of possession: `of`.
 - **Expressing Possession:** This possession is expressed by the possessed object followed by "of " and then the possessor. This form is used when we want to emphasize the possessed thing.
 - **Example:** In the phrase 'The book of Allah,' the word "of" functions as a preposition of possession, highlighting the connection between the Quran and Allah.
 
