@@ -1,5 +1,9 @@
 # Foundation: English Grammar
 
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/b72a2795-ba18-4703-bc45-b89ff282def6" width="450">
+</p>
+
 ## Defining Noun
 A noun is a word that represents a being, place, thing or idea.
 - **beings :** It refers to the creator and all of his living creations : people, animal, angel, jinn and devil.
