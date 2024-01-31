@@ -13,7 +13,7 @@ Articles can be classified into two categories based on the type of noun they mo
 - **Example 1:** In the phrase 'The Quran' (used before a proper noun), the word "the" functions as a definite article, indicating a specific Quran known to both the speaker and the listener. It could refer to a particular Quran mentioned earlier or known within the context.
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/e2692b56-a636-4796-8100-d51ed07c0525" width="300">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/76459adf-9a5d-4269-b63e-27469bd18205" width="530">
 </p>
 
 - **Example 2:** In the phrase 'The book' (used before a common noun), the word "the" functions as a definite article, indicating that there is a particular book both the speaker and the listener are familiar with or have been discussing.
