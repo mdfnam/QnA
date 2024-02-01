@@ -77,7 +77,7 @@ There are two terms that are often used when discussing possession, they are:
 - **Note:** In the above examples, "friend", "Quran" and "Fatima" are the possessors, while "book", "verses" and "father" are the possessed objects.
 
 ### Expressing possession
-This form is used when we want to emphasize the possessor. Possession can be expressed in various ways depending on noun count, singular or plural, and the presence of 's' in plural cases:
+This form of possession is used when we want to emphasize the possessor. Possession can be expressed in various ways depending on noun count, singular or plural, and the presence of 's' in plural cases:
 
 *Singular Nouns*
 - **Way of Expressing:** If the noun is singular, then possession is expressed by an apostrophe (') followed by an 's' on the possessor, followed by the possessed object.
@@ -89,6 +89,6 @@ This form is used when we want to emphasize the possessor. Possession can be exp
 
 *Plural Nouns Not Ending with "s"*
 - **Way of Expressing:** If the plural noun doesn't end with "s", add an apostrophe followed by an "s" on the possessor, followed by the possessed object.
-- **Example:** In the phrase '*people's* faith' is indicating the faith of group of individuals, where the word "people's" is a plural possessive noun.
+- **Example:** The phrase '*people's* faith' is indicating the faith of group of individuals, where the word "people's" is a plural possessive noun.
 
 ---
