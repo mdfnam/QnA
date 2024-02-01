@@ -23,7 +23,7 @@ Table of Content:
 - [Cases of Nouns](https://github.com/mdfnam/QnA/blob/main/Cases%20of%20Nouns.md)
 - [Cases of Ism](https://github.com/mdfnam/QnA/blob/main/Cases%20of%20Ism.md)
 - [Basics: Case Endings](https://github.com/mdfnam/QnA/blob/main/Basics%3A%20Case%20Endings.md)
-- [How to Tell Status](https://github.com/mdfnam/QnA/blob/main/How%20to%20Tell%20Status.md)
+- [Case Endings](https://github.com/mdfnam/QnA/blob/main/Case%20Endings.md)
 
 
 
