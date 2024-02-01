@@ -7,6 +7,7 @@ A pronoun is a word that represents a noun which is used to replace nouns to pre
 There are several kinds of pronouns, each serving a different purpose. Here are some common types of pronouns:
 - Personal Pronouns
 - Demostrative Pronouns
+- Possessive Pronouns (not explained now)
 
 ## Personal Pronouns
 - Personal Pronouns are simple pronouns that are used to substitute proper names (proper noun). They change form based on person, number, gender and case.
