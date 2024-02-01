@@ -85,10 +85,10 @@ This form is used when we want to emphasize the possessor. Possession can be exp
 
 *Plural Nouns Ending with "s"*
 - **Way of Expressing:** If the plural noun already ends with "s", then possession is expressed by adding as apostrophe after the "s" on the possessor, followed by the possessed object.
-- **Example:** The phrase '*muslims'* faith', is indicating the faith of a group of muslims, where the word "muslims' " is a plural possessive noun.
+- **Example:** The phrase '*muslims'* faith' is indicating the faith of a group of muslims, where the word "muslims' " is a plural possessive noun.
 
 *Plural Nouns Not Ending with "s"*
 - **Way of Expressing:** If the plural noun doesn't end with "s", add an apostrophe followed by an "s" on the possessor, followed by the possessed object.
-- **Example:** In the phrase '*people's* faith', is indicating the faith of group of individuals, where the word "people's" is a plural possessive noun.
+- **Example:** In the phrase '*people's* faith' is indicating the faith of group of individuals, where the word "people's" is a plural possessive noun.
 
 ---
