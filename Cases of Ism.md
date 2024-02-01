@@ -38,8 +38,8 @@ We will explore two differences between things that exist in Arabic but are not 
 **2.Cases Beyond:** In English, cases are only related to nouns, personal & possessive pronouns and possessive adjectives. However, in Arabic, the ism that fall into the categories of pronouns, adjectives, adverbs, or interjections also have cases, whereas this is not the case in English.
 
 *Word:* Adjective - Beautiful (In Arabic: جَمِيل) 
-- Nominative Case (Raf'): جَمِيلٌ (jameelun) - "beautiful" (used for the subject of a sentence).
-- Accusative Case (Nasb): جَمِيلًا (jameelan) - "beautiful" (used for the direct object of a verb).
-- Genitive Case (Jarr): جَمِيلٍ (jameelin)- "beautiful" (used to indicate possession or association).
+- Nominative Case (Raf'): جَمِيلٌ (jameelun) - "beautiful" (It doesn't mean that it will be used for the subject of a sentence rather, it means that it will come before the noun having nominative case).
+- Accusative Case (Nasb): جَمِيلًا (jameelan) - "beautiful" (It doesn't mean that it will be used for the object of a sentence rather, it means that it will come before the noun having accusative case).
+- Genitive Case (Jarr): جَمِيلٍ (jameelin)- "beautiful" (It doesn't mean that it will be used as a possessor of a thing rather, it means that it will come before the noun having genitive case).
 
 ---
