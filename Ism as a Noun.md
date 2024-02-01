@@ -78,11 +78,17 @@ There are two terms that are often used when discussing possession, they are:
 
 ### Expressing possession
 This form is used when we want to emphasize the possessor. Possession can be expressed in various ways depending on noun count, singular or plural, and the presence of 's' in plural cases:
-- **Singular Nouns:** If the noun is singular, then possession is expressed by an apostrophe (') followed by an 's' on the possessor, followed by the possessed object.
+
+*Singular Nouns*
+- **Way of Expressing:** If the noun is singular, then possession is expressed by an apostrophe (') followed by an 's' on the possessor, followed by the possessed object.
 - **Example:** The phrase '*muslim's* faith' is indicating the faith of a single individual muslim, where the word "muslim's" is a singular possessive noun.
-- **Plural Nouns Ending with "s"**: If the plural noun already ends with "s", then possession is expressed by adding as apostrophe after the "s" on the possessor, followed by the possessed object.
+
+*Plural Nouns Ending with "s"*
+- **Way of Expressing:** If the plural noun already ends with "s", then possession is expressed by adding as apostrophe after the "s" on the possessor, followed by the possessed object.
 - **Example:** The phrase '*muslims'* faith', is indicating the faith of a group of muslims, where the word "muslims' " is a plural possessive noun.
-- **Plural Nouns Not Ending with "s"**: If the plural noun doesn't end with "s", add an apostrophe followed by an "s" on the possessor, followed by the possessed object.
+
+*Plural Nouns Not Ending with "s"*
+- **Way of Expressing:** If the plural noun doesn't end with "s", add an apostrophe followed by an "s" on the possessor, followed by the possessed object.
 - **Example:** In the phrase '*people's* faith', is indicating the faith of group of individuals, where the word "people's" is a plural possessive noun.
 
 ---
