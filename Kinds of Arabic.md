@@ -32,7 +32,7 @@ Arabic can be classified into three primary kinds:
 ## Evolution of Language
 Over the course of time, languages undergo an evolutionary process, resulting in their classification into two distinct forms: Ancient and Modern variations; these two forms differ in several aspects. Below, we will explore three points related to the evolution of any language.
 - Simplification of Words
-- Adaptation of New Words
+- Emergence of New Words
 - Contextual Evolution of Words
 
 <p align="center">
@@ -40,11 +40,11 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 </p>
 
 ### Simplification of Words
-- Throughout the passage of time, languages have a tendency to undergo a process of simplification in terms of their grammar and vocabulary. This simplification involves the shedding of complex and advanced words, and the adoption of more straightforward, simplified linguistic structures and terminology.
+- Throughout the passage of time, languages have a tendency to undergo a process of simplification in terms of their grammar and vocabulary. This simplification involves the shedding of complex and advanced words, and the adaptation of more straightforward, simplified linguistic structures and terminology.
 - It can also be observed when languages are passed down from one generation to the next, they tend to gradually lose their essence.
 
-### Adaptation of New Words
-- Societal advancements, including the introduction of new technologies, interactions with other languages through trade or conquest, and the emergence of cultural influences, contribute to the adaptation of new words within languages.
+### Emergence of New Words
+- Societal advancements, including the introduction of new technologies, interactions with other languages through trade or conquest, and the emergence of cultural influences, contribute to the development of new words within languages.
 - Initially, Arabic was confined only within the borders of the Arabian Desert but when diverse cultures embraced Islam and adopted the Arabic language, they infused their own words and speaking styles into the Arabic language, reflecting the cultures of their respective regions. Over time, due to the influence of non-native speakers, the overall sophistication of the Arabic language began to decline.
 
 ### Contextual Evolution of Words
@@ -58,5 +58,7 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 ## Preservation of Classical Arabic
 - Classical Arabic is considered dead today because it is no longer spoken. However, religious scriptures such as the Quran and Hadith have played a crucial role in preserving it. Despite the influence of various cultures and languages on Arabic over time, these influences did not significantly impact Classical Arabic.
 - Credit for this preservation goes to Islamic scholars, who not only documented the ancient grammar and keep recorded of the meanings of words, along with how Arabic Bedouins used them but also passed this knowledge down from generation to generation. As a result, individuals studying anywhere in the world today can seamlessly refer to these classical sources, ensuring a profound understanding of the original meanings and contextual usage of words as they existed in times long past.
+
+**Next:** Now, we will explore various approaches to language learning. From these, we will select one and also consider the reasons behind that.
 
 ---
