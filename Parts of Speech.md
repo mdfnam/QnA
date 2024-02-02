@@ -4,8 +4,6 @@
 - **Lafz `لَفْظ`:** It specifically refers to a single word or a single utterance (it denotes every sound produced by the tongue). These utterances can be further divided into two categories based on whether they convey meaning or not: Muhmal and Mawdu.
 - **Muhmal `مُهْمَل`:** Refers to meaningless words that do not carry any meaning. Because we are studying the Quran in which there is no meaningless word present, therefore, we will not study them.
 - **Mawdu `مَوْضُوع`:** Refers to meaningful words that carries meaning. Our main focus during our studies will be on these words.
-- **Mufrad `مُفْرَد`:** Refers to a single word.
-- **Murakkab `مُرَكَّب`:** Refers to the combination of two or more individual words (mufrad).
 
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/2563009d-0fa1-466f-93c3-47ab29f79025" width="350">
