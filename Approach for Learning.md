@@ -1,12 +1,5 @@
 # Approach for Learning
 
-## Essential language learning skills
-Continuing our exploration of learning Quranic Arabic from the previous topic, let's now delve into the four essential skills needed to learn a language:
-1. Reading with comprehension
-2. Listening with comprehension
-3. Speaking properly
-4. Writing properly
-
 ### Different Approaches
 Now we will discuss about the two approaches that people typically take when learning any language. 
 - **Approach 1:** Starting with speaking skills.
