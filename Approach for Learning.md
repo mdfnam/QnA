@@ -1,19 +1,20 @@
 # Approach for Learning
 
-### Four Skills
+## Essential language learning skills
 As we have already seen in the previous topic, we are going to learn Quranic Arabic. Now, let's explore the four essential skills needed to learn a language, and identify the specific skill we will focus on.
 1. Reading with comprehension
 2. Listening with comprehension
 3. Speaking properly
 4. Writing properly
 
-**Problem:**
-- A common issue arises when various language programs prioritize speaking skills at the expense of understanding written text. These programs focus on teaching you how to construct sentences from your thoughts, but they may not place sufficient emphasis on the crucial aspect of understanding written text. Consequently, even after years of study, when you read the Quran, you might not feel a strong connection. This happens because the emphasis was on output (speaking) rather than input (understanding what you read).
-- Furthermore, these language programs often focus on Modern Standard Arabic (MSA) rather than classical Arabic. This shift in emphasis serves as the second factor contributing to the challenges individuals face in forming a connection with the Quran.
+There are two approaches that people typically take when learning any language. 
+- **Approach 1:** Starting learning with speaking skills.
+- **Aprroach 2:** Starting with Reading and comprehending the written text.
 
-**Solution:**
-- When studying Arabic as a Muslim, a primary motivation is often the desire to connect with the Quran when we hear it being recited or while we are reading it. Therefore, the top priority is given to the skills of listening and reading Classical Arabic with comprehension. Developing proficiency in these skills will lead to a deep moral connection with the Quran.
-- At the beginner level, comprehension through listening is more challenging than comprehension through reading, primarily due to the difference in pace, making it difficult for learners to keep up while simultaneously processing the information. Reading, on the other hand, allows learners to control the pace, enabling them to comprehend each word more effectively. Therefore, we should start by mastering reading with comprehension. 
+We will now explore which approach among them we are going to focus on and why
+- **Problem with Apporach 1:** A common issue arises when various language programs prioritize speaking skills at the expense of understanding written text. These programs focus on teaching you how to construct sentences from your thoughts, but they may not place sufficient emphasis on the crucial aspect of understanding written text. Furthermore, these language programs often focus on Modern Standard Arabic (MSA) rather than classical Arabic. Consequently, even after years of study, when you read the Quran, you might not feel a strong connection. This happens because the emphasis was on output (speaking) rather than input (understanding what you read).
+
+- **Why to choose Approach 2:** When studying Arabic as a Muslim, a primary motivation is often the desire to connect with the Quran when we hear it being recited or while we are reading it. Therefore, the top priority is given to the skills of listening and reading Classical Arabic with comprehension. Developing proficiency in these skills will lead to a deep moral connection with the Quran. At the beginner level, comprehension through listening is more challenging than comprehension through reading, primarily due to the difference in pace, making it difficult for learners to keep up while simultaneously processing the information. Reading, on the other hand, allows learners to control the pace, enabling them to comprehend each word more effectively. Therefore, we should start by mastering reading with comprehension. 
 
 ### Prerequisite For This Course
 - A fundamental prerequisite for undertaking this course is having the ability to read Arabic, particularly Quranic Script. Without this foundational skill, you cannot pursue this particular course.
