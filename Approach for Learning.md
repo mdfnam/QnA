@@ -24,6 +24,6 @@ Based on the goals of individuals, whether they aim for fluency in speaking Arab
 - **Requirements:** To comprehend a language, one needs knowledge of two fundamental aspects: Vocabulary and Grammar. We will commence our journey by exploring grammar, and as the need arises, we will gradually incorporate vocabulary into our learning process.
 - **Importance of Grammar:** Grammar teaches us the way to put vocabulary in a proper and organized way so that it makes sense. After learning it, we will not only be able to translate a sentence correctly but also understand why and how these words are arranged together in that particular way.
 
-Now, we will explore the branches of Arabic, wherein we'll discover that each branch is associated with a distinct aspect of the Arabic language. We'll identify the branch that is connected with the study of grammar and commence our studies accordingly.
+Now, we will explore the branches of Arabic, wherein we'll discover that each branch is associated with a distinct aspect of the Arabic language. We'll determine the branch that is connected with the study of grammar and commence our studies accordingly.
 
 ---
