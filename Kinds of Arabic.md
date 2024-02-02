@@ -29,6 +29,8 @@ Arabic can be classified into three primary kinds:
 > ### رَبِّی یَسِّرْ وَلَا تُعَسِّرْ وَ تَمِّمْ بِالْخَیْر
     My Lord, make it easy and do not make it difficult, and complete it with goodness
 
+We will now study the evolution of language, examining the significant changes that have taken place in contemporary Arabic, which were absent in ancient times. Our main focus will be on understanding why avoiding learning Modern Standard Arabic (MSA) is recommended if we want to study the Quran with comprehension.
+
 ## Evolution of Language
 Over the course of time, languages undergo an evolutionary process, resulting in their classification into two distinct forms: Ancient and Modern variations; these two forms differ in several aspects. Below, we will explore three points related to the evolution of any language.
 - Simplification of Words
