@@ -6,10 +6,8 @@ Now we will discuss about the two different approaches that people typically tak
 - **Aprroach 2:** Starting with reading skills and then comprehending the written text.
 
 ### Our Approach
-Given that our primary focus is to comprehend the Quranic text, we will be adopting the second approach.
-
+Based on the goals of individuals, whether they aim for fluency in speaking Arabic or wish to read and understand books, they can choose an approach aligned with their specific objectives. Given that our primary focus is to comprehend the Quranic text, we will be adopting the second approach.
 - **Problem with Apporach 1:** A common issue arises when we prioritize speaking skills at the expense of understanding written text is that we are taught only how to construct sentences from our thoughts, with insufficient emphasis on the ability to comprehend the written text. Consequently, even after years of study, when we read the Quran, we might not feel a strong connection. This happens because the emphasis was on output (speaking) rather than input (understanding what you read).
-
 - **Why to choose Approach 2:** When studying Arabic as a Muslim, a primary motivation often lies in the desire to connect with the Quran while reading. Therefore, top priority is given to developing skills in reading Classical Arabic with comprehension. Proficiency in these skills will lead to a deep moral connection with the Quran. Thus, it is crucial to start by mastering the art of reading with comprehension.
 
 ### Prerequisite: Reading Arabic
