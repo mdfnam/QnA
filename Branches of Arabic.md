@@ -25,4 +25,6 @@ Balagha `بَلاغَةُ`, also known as Arabic rhetoric or eloquence, is the s
 - This sequence is often recommended because a solid understanding of Nahw provides a foundation for comprehending the structure and function of words in a sentence, which is beneficial when studying Sarf.
 - Balagha builds on the foundation of Nahw and Sarf. Therefore, studying Balagha is typically recommended after acquiring a solid understanding of Nahw and Sarf, as it involves more advanced linguistic and rhetorical concepts. Ultimately, this advanced study enhances one's ability to express ideas in a more sophisticated and eloquent manner.
 
+**Next:** Now, we will study the most fundamental component of any language: the word. It is the basic building block that forms the foundation of any language. Subsequently, we will explore different kinds of words in Arabic.
+
 ---
