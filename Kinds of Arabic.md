@@ -36,7 +36,7 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 - Contextual Evolution of Words
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/01f4a17f-d693-4898-a342-509e7d1d199d" width="550">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/dcb65fa3-2c67-472f-9537-0b428d025c87" width="530">
 </p>
 
 ### Simplification of Words
