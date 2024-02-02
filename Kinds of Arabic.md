@@ -18,22 +18,19 @@ Arabic can be classified into three primary kinds:
 ### Modern Standard Arabic
 - **Definition:** Modern Standard Arabic (MSA), aka Fus-ha `الْفُصْحَى`, is a standardized and formal version of Arabic which solves the issue of Colloquial Arabic by serving as a universal linguistic platform for Arabic speakers from different regions, ensuring mutual comprehension regardless of their native dialects.
 - **Use of MSA:** Modern Standard Arabic is the official form of Arabic taught in schools and universities and is used in formal contexts, including literature, books, magazines, media, legal documents, and official communications throughout the Arab world.
-- **Similarities:** The two types of Arabic, MSA and Classical Arabic, are very similar, sharing a lot of the same grammar, vocabulary and sentence structure. This means that if you know one, you can understand the other to some extent.
+- **Quran Prespective:** Learning MSA for Quranic comprehension is discouraged, as the Quran is primarily written in Classical Arabic. While MSA shares similarities with Classical Arabic, including much of the same grammar, vocabulary, and sentence structure, there are significant linguistic differences that arise due to the *evolution of language*. These differences can hinder a deep understanding of the Quranic text. Hence, relying solely on MSA may not ensure an accurate understanding of the Quranic language. Emphasizing the importance of learning Classical Arabic for the accurate interpretation of the Quran is recommended.
 
 ### Clasical Arabic
 - **Definition:** Classical Arabic, aka Ancient or Quranic Arabic, denotes the particular form of the Arabic language used in the Quran, the holy book of Islam. It encompasses the linguistic norms and standards prevalent during the period of the Quran's revelation and in the early centuries of Islam. This variant of Arabic stands out for its sophistication, rich vocabulary, complex grammar structures, and notable beauty.
-- **Motive to learn:** Learning classical Arabic is crucial for individuals seeking a precise understanding of the message in the Quran and Hadith. It enables a direct and accurate engagement with the scriptures, preventing potential misinterpretations that may arise from relying solely on translations.
+- **Motive to learn:** In this course, our primary goal is to comprehend the Quran, making Classical Arabic our main subject of study. Learning it is crucial for individuals seeking a precise understanding of the message in the Quran and Hadith. It enables a direct and accurate engagement with the scriptures, preventing potential misinterpretations that may arise from relying solely on translations.
 - **Significance of Classical Arabic:** Since the Quran was addressed to the ancient Arabs during the time of the Prophet (pbuh), it is important for individuals to gain insights into the precise manner of communication used by the people of that era in order to attain a profound comprehension of the Quran's divine message. Therefore, it is considered important for all Muslims to acquire knowledge of Classical Arabic.
 
 **Dua:** 
 > ### رَبِّی یَسِّرْ وَلَا تُعَسِّرْ وَ تَمِّمْ بِالْخَیْر
     My Lord, make it easy and do not make it difficult, and complete it with goodness
 
-### What we will Study?
-In this course, our primary goal is to comprehend the Quran, making Classical Arabic our main subject of study. By focusing on Classical Arabic, we aim to enhance our ability to understand the Arabic text. Through this journey, we'll delve into the details of the Arabic language, paving the way for a deeper connection with the Quran. Emphasizing a comprehensive understanding, our course seeks to equip learners with the linguistic tools needed to unlock the profound wisdom embedded in the Quran.
-
 ### Why avoid learning MSA for Quran comprehension?
-Avoiding learning Modern Standard Arabic (MSA) for Quranic comprehension is discouraged, as the Quran is primarily written in Classical Arabic. While MSA shares similarities with Classical Arabic, there are significant linguistic differences that arise as a result of the evolution of language, which can hinder a deep understanding of the Quranic text. Hence, solely relying on MSA may not ensure an accurate understanding of the Quranic language, emphasizing the importance of learning Classical Arabic for the accurate interpretation of it.
+ While MSA shares similarities with Classical Arabic, 
 
 ## Evolution of Language
 Over the course of time, languages undergo an evolutionary process, resulting in their classification into two distinct forms: Ancient and Modern variations; these two forms differ in several aspects. Below, we will explore three points related to the evolution of any language.
