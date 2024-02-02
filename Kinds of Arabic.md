@@ -45,7 +45,7 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 
 ### Adaptation of New Words
 - Societal advancements, including the introduction of new technologies, interactions with other languages through trade or conquest, and the emergence of cultural influences, contribute to the adaptation of new words within languages.
-- When diverse cultures embraced Islam and adopted the Arabic language, they infused their own words and speaking styles into the Arabic language, reflecting the cultures of their respective regions. Over time, due to the influence of non-native speakers, the overall sophistication of the Arabic language began to decline.
+- Initially, Arabic was confined only within the borders of the Arabian Desert but when diverse cultures embraced Islam and adopted the Arabic language, they infused their own words and speaking styles into the Arabic language, reflecting the cultures of their respective regions. Over time, due to the influence of non-native speakers, the overall sophistication of the Arabic language began to decline.
 
 ### Contextual Evolution of Words
 - As languages evolve over time, the usage of words undergoes a significant transformation, resulting in shifts in their contextual meaning. This evolution is characterized by repurposing of old words, as they are applied in different contexts compared to their original usage.
