@@ -6,7 +6,7 @@
 - **Mawdu `مَوْضُوع`:** Refers to meaningful words that carries meaning. Our main focus during our studies will be on these words.
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/2563009d-0fa1-466f-93c3-47ab29f79025" width="350">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/21c0099f-3c9b-49b6-b648-dcb5fe6b12df" width="250">
 </p>
 
 - **Kalimah `كَلِمَة`:** A single meaningful word is referred to as ‘kalimah’. It can be further divided into three types also called ‘parts of speech’.
