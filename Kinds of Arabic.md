@@ -29,6 +29,6 @@ Arabic can be classified into three primary kinds:
 > ### رَبِّی یَسِّرْ وَلَا تُعَسِّرْ وَ تَمِّمْ بِالْخَیْر
     My Lord, make it easy and do not make it difficult, and complete it with goodness
 
-**Next:** We will now study the evolution of language, examining the significant changes that have taken place in contemporary Arabic, which were absent in ancient times. Our main focus will be on understanding why avoiding learning Modern Standard Arabic (MSA) is recommended if we want to study the Quran with comprehension.
+**Next:** We will now study the evolution of language, examining the significant changes that have taken place in contemporary Arabic, which were absent in ancient times. Our main focus will be on understanding why avoiding learning MSA is recommended if we want to study the Quran with comprehension.
 
 ---
