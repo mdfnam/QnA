@@ -12,7 +12,7 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 
 ## Simplification of Words
 - Throughout the passage of time, languages have a tendency to undergo a process of simplification in terms of their grammar and vocabulary. This simplification involves the shedding of complex and advanced words, and the adaptation of more straightforward, simplified linguistic structures and terminology.
-- It can also be observed when languages are passed down from one generation to the next, they tend to gradually lose their essence.
+- It can be observed when languages are passed down from one generation to the next, they tend to gradually lose their essence.
 
 ## Emergence of New Words
 - Societal advancements, including the introduction of new technologies, interactions with other languages through trade or conquest, and the emergence of cultural influences, contribute to the development of new words within languages.
