@@ -10,6 +10,10 @@ Based on the goals of individuals, whether they aim for fluency in speaking Arab
 - **Problem with Apporach 1:** A common issue arises when we prioritize speaking skills at the expense of understanding written text is that we are only taught how to construct sentences from our thoughts, with insufficient emphasis on the ability to comprehend the written text. Consequently, even after years of study, when we read the Quran, we might not feel a strong connection. This happens because the emphasis was on output (speaking) rather than input (understanding what you read).
 - **Why to choose Approach 2:** When studying Arabic as a Muslim, a primary motivation often lies in the desire to connect with the Quran while reading. Therefore, top priority is given to developing skills in reading Classical Arabic with comprehension. Proficiency in these skills will lead to a deep moral connection with the Quran. Thus, it is crucial to start by mastering the art of reading with comprehension.
 
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/1ef126c1-c6d2-42eb-b00e-52349ee9521c" width="450">
+</p>
+
 ### Prerequisite: Reading Arabic
 - A fundamental prerequisite for undertaking this course is having the ability to read Arabic, particularly Quranic Script. Without this foundational skill, you cannot pursue this particular course.
 - If you already possess the capability to read Arabic, even if you encounter difficulties with certain words or are not proficient in tajweed (it is the set of rules and guidelines for the proper pronunciation and recitation of the Qur’an), you are still eligible to enroll in the course.
