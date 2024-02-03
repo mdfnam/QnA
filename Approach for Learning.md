@@ -1,6 +1,6 @@
 # Approach for Learning
 
-## Possible Approaches
+## Two Approaches
 There are two different approaches that people typically take when learning any language. They are:
 - **Approach 1:** Starting with speaking skills.
 - **Aprroach 2:** Starting with reading skills and then comprehending the written text.
