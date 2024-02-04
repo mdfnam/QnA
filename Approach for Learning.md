@@ -11,7 +11,7 @@ Based on the goals of individuals, whether they aim for fluency in speaking Arab
 - **Why to choose Approach 2:** When studying Arabic as a Muslim, a primary motivation often lies in the desire to connect with the Quran while reading. Therefore, top priority is given to developing skills in reading Classical Arabic with comprehension. Proficiency in these skills will lead to a deep moral connection with the Quran. Thus, it is crucial to start by mastering the art of reading with comprehension.
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/1ef126c1-c6d2-42eb-b00e-52349ee9521c" width="450">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/8568a1d1-a8e7-4653-b6c1-de54725ce17b" width="450">
 </p>
 
 ### Prerequisite: Reading Arabic
@@ -21,7 +21,7 @@ Based on the goals of individuals, whether they aim for fluency in speaking Arab
 - **Advise:** You can read the Quran for 10 minutes daily online, practice it on `quran.com`, select a reciter there, and try to synchronize your voice along with the reciter. This practice will enhance your pronunciation and reading of Quranic Arabic.
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/8568a1d1-a8e7-4653-b6c1-de54725ce17b" width="300">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/01ffd5ae-773b-47a3-acd0-b77b2ce2c94b" width="300">
 </p>
 
 ### Comprehending a language
