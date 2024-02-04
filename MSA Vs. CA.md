@@ -1,9 +1,10 @@
 # Modern Standard Arabic Vs. Classical Arabic
-- Arabic has both a preserved, formal side and a dynamic, changing side, reflecting the rich diversity in the Arab world's language and culture. Classical Arabic itself has not undergone significant linguistic changes. However, Classical Arabic has remained largely preserved in its written form for religious and literary purposes. This preservation is due to its significance in religious and literary contexts, where precise interpretation and understanding are crucial. As a result, changes to Classical Arabic have remained largely consistent over the centuries.
-- On the other hand, Modern Standard Arabic, have evolved over time, has undergone significant changes due to the evolution of language. As societies and communication methods have evolved, Modern Standard Arabic has adapted to incorporate new vocabulary, expressions. 
 
-## Evolution of Language
-### Three points
+## Modern Standard Arabic - Evolved
+- Modern Standard Arabic has evolved over time, undergoing significant changes due to the evolution of language to meet the changing linguistic needs of the Arab world. It has developed from Classical Arabic and incorporates some simplifications in grammar and vocabulary as societies and communication methods have evolved. Therefore, it includes vocabulary and expressions relevant to contemporary society, technology, and various fields.
+- Now, we will study the evolution of language to better understand the changes that occur in today's contemporary Arabic, comparing it to language of the ancient arabs. This exploration is crucial as Modern Standard Arabic, though beneficial for understanding contemporary usage, may not be the most suitable for those aiming to study the Quran
+
+### Evolution of Language
 Over the course of time, languages undergo an evolutionary process, resulting in their classification into two distinct forms: Ancient and Modern variations; these two forms differ in several aspects. Below, we will explore three points related to the evolution of any language.
 - Simplification of Words
 - Emergence of New Words
@@ -15,10 +16,12 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 
 ## Simplification of Words
 - Throughout the passage of time, languages have a tendency to undergo a process of simplification in terms of their grammar and vocabulary. This simplification involves the shedding of complex and advanced words, and the adaptation of more straightforward, simplified linguistic structures and terminology.
+- Consequently, in MSA we encounter simplified versions of certain words that were not used previously; instead, alternative words were used in their place.
 - It can be observed that when languages are passed down from one generation to the next, they tend to gradually lose their essence. This is why, when Arab people today read the Quran or any text from ancient times, it often becomes challenging to understand.
 
 ## Emergence of New Words
 - Societal advancements, including the introduction of new technologies, interactions with other languages through trade or conquest, and the emergence of cultural influences, contribute to the development of new words within languages.
+- Consequently, in today's contemporary Arabic, we encounter many words that were not used in ancient times.
 - Initially, Arabic was confined only within the borders of the Arabian Desert but when diverse cultures embraced Islam and adopted the Arabic as a second language, they infused their own words and speaking styles into the Arabic language, reflecting the cultures of their respective regions. Over time, due to the influence of non-native speakers, the overall sophistication of the Arabic language began to decline.
 
 ## Contextual Evolution of Words
@@ -29,7 +32,10 @@ Over the course of time, languages undergo an evolutionary process, resulting in
   <img src="https://github.com/mdfnam/QnA/assets/156814846/8c879ece-1190-4c30-bae3-74d8264eb765" width="550">
 </p>
 
-## Preservation of Classical Arabic
+## Classical Arabic - Preserved
+- Arabic has both a preserved, formal side and a dynamic, changing side, reflecting the rich diversity in the Arab world's language and culture. Classical Arabic itself has not undergone significant linguistic changes. However, Classical Arabic has remained largely preserved in its written form for religious and literary purposes. This preservation is due to its significance in religious and literary contexts, where precise interpretation and understanding are crucial. As a result, changes to Classical Arabic have remained largely consistent over the centuries.
+
+
 - Classical Arabic is considered dead today because it is no longer spoken. However, religious scriptures such as the Quran and Hadith have played a crucial role in preserving it. Despite the influence of various cultures and languages on Arabic over time, these influences did not significantly impact CA.
 - Credit for this preservation goes to Islamic scholars, who not only documented the ancient grammar and kept records of the meanings of words, along with how Arabic Bedouins used them but also passed this knowledge down from generation to generation. As a result, individuals studying anywhere in the world today can seamlessly refer to these sources, ensuring a profound understanding of the original meanings and contextual usage of words as they existed in times long past.
 
