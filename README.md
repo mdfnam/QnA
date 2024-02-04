@@ -9,7 +9,6 @@ Table of Content:
 - [Kinds of Arabic](https://github.com/mdfnam/QnA/blob/main/Kinds%20of%20Arabic.md)
 - [MSA Vs. CA](https://github.com/mdfnam/QnA/blob/main/MSA%20Vs.%20CA.md)
 - [Learning Classical Arabic](https://github.com/mdfnam/QnA/blob/main/Leaning%20Classical%20Arabic.md)
-- [Branches of Arabic](https://github.com/mdfnam/QnA/blob/main/Branches%20of%20Arabic.md)
 - [Parts of Speech](https://github.com/mdfnam/QnA/blob/main/Parts%20of%20Speech.md)
 - [Ism as a Noun](https://github.com/mdfnam/QnA/blob/main/Ism%20as%20a%20Noun.md)
 - [Ism as an Adjective](https://github.com/mdfnam/QnA/blob/main/Ism%20as%20an%20Adjective.md)
