@@ -21,7 +21,7 @@ Based on the goals of individuals, whether they aim for fluency in speaking Arab
 - **Advise:** You can read the Quran for 10 minutes daily online, practice it on `quran.com`, select a reciter there, and try to synchronize your voice along with the reciter. This practice will enhance your pronunciation and reading of Quranic Arabic.
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/01ffd5ae-773b-47a3-acd0-b77b2ce2c94b" width="300">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/01ffd5ae-773b-47a3-acd0-b77b2ce2c94b" width="320">
 </p>
 
 ## Branches of Arabic
