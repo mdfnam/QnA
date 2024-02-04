@@ -11,10 +11,6 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 - Contextual Evolution of Words
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/3065c0aa-d00b-49ae-8b9b-2a342dc8fdeb" width="550">
-</p>
-
-<p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/ae260d12-8301-4e15-a134-db09cf7fea17" width="530">
 </p>
 
