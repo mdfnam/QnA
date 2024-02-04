@@ -42,6 +42,10 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 - Classical Arabic is considered dead today because it is no longer spoken. Nevertheless, religious scriptures such as the Quran and Hadith have played a crucial role in its preservation. Despite the influence of various cultures and languages on Arabic over time, classical Arabic has not been significantly impacted. It has remained largely preserved in its written form for religious and literary purposes. This preservation is attributed to its significance in religious and literary contexts, where precise interpretation and understanding are crucial.
 - The credit for this preservation goes to the Islamic scholars, who not only documented the ancient grammar and kept records of the meanings of words, along with how Arabic Bedouins used them but also passed this knowledge down from generation to generation. As a result, individuals studying anywhere in the world today can seamlessly refer to these sources, ensuring a profound understanding of the original meanings and contextual usage of words as they existed in times long past.
 
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/1ea1ce7c-4898-4f3a-a0f7-9abb350794db" width="280">
+</p>
+
 **Next:** Now that we are certain, we will commence our journey with Classical Arabic. We will explore various approaches for learning a language, carefully selecting one while also considering the reasons behind our choice.
 
 ---
