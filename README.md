@@ -7,7 +7,7 @@
 ## Arabic
 Table of Content:
 - [Kinds of Arabic](https://github.com/mdfnam/QnA/blob/main/Kinds%20of%20Arabic.md)
-- [MSA Vs. CA](https://github.com/mdfnam/QnA/blob/main/MSA%20Vs.%20CA.md)
+- [MSA Vs. Classical Arabic](https://github.com/mdfnam/QnA/blob/main/MSA%20Vs.%20Classical%20Arabic.md)
 - [Learning Classical Arabic](https://github.com/mdfnam/QnA/blob/main/Leaning%20Classical%20Arabic.md)
 - [Parts of Speech](https://github.com/mdfnam/QnA/blob/main/Parts%20of%20Speech.md)
 - [Ism as a Noun](https://github.com/mdfnam/QnA/blob/main/Ism%20as%20a%20Noun.md)
