@@ -1,7 +1,6 @@
 # Modern Standard Arabic Vs. Classical Arabic
 - Arabic has both a preserved, formal side and a dynamic, changing side, reflecting the rich diversity in the Arab world's language and culture. Classical Arabic itself has not undergone significant linguistic changes. However, Classical Arabic has remained largely preserved in its written form for religious and literary purposes. This preservation is due to its significance in religious and literary contexts, where precise interpretation and understanding are crucial. As a result, changes to Classical Arabic have remained largely consistent over the centuries.
-- On the other hand, Modern Standard Arabic, have evolved over time, has undergone significant changes due to the evolution of language.
-
+- On the other hand, Modern Standard Arabic, have evolved over time, has undergone significant changes due to the evolution of language. As societies and communication methods have evolved, Modern Standard Arabic has adapted to incorporate new vocabulary, expressions. 
 
 ## Evolution of Language
 ### Three points
@@ -32,7 +31,7 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 
 ## Preservation of Classical Arabic
 - Classical Arabic is considered dead today because it is no longer spoken. However, religious scriptures such as the Quran and Hadith have played a crucial role in preserving it. Despite the influence of various cultures and languages on Arabic over time, these influences did not significantly impact CA.
-- Credit for this preservation goes to Islamic scholars, who not only documented the ancient grammar and keep recorded of the meanings of words, along with how Arabic Bedouins used them but also passed this knowledge down from generation to generation. As a result, individuals studying anywhere in the world today can seamlessly refer to their sources, ensuring a profound understanding of the original meanings and contextual usage of words as they existed in times long past.
+- Credit for this preservation goes to Islamic scholars, who not only documented the ancient grammar and kept records of the meanings of words, along with how Arabic Bedouins used them but also passed this knowledge down from generation to generation. As a result, individuals studying anywhere in the world today can seamlessly refer to these sources, ensuring a profound understanding of the original meanings and contextual usage of words as they existed in times long past.
 
 **Next:** Now that we are certain, we will commence our journey with Classical Arabic. We will explore various approaches for learning a language, carefully selecting one while also considering the reasons behind our choice.
 
