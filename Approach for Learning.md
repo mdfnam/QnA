@@ -14,6 +14,10 @@ Based on the goals of individuals, whether they aim for fluency in speaking Arab
   <img src="https://github.com/mdfnam/QnA/assets/156814846/8568a1d1-a8e7-4653-b6c1-de54725ce17b" width="450">
 </p>
 
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/30c0d9a0-a182-4565-b8be-99a693c11a63" width="450">
+</p>
+
 ### Prerequisite: Reading Arabic
 - A fundamental prerequisite for undertaking this course is having the ability to read Arabic, particularly Quranic Script. Without this foundational skill, you cannot pursue this particular course.
 - If you already possess the capability to read Arabic, even if you encounter difficulties with certain words or are not proficient in tajweed (it is the set of rules and guidelines for the proper pronunciation and recitation of the Qur’an), you are still eligible to enroll in the course.
@@ -24,10 +28,34 @@ Based on the goals of individuals, whether they aim for fluency in speaking Arab
   <img src="https://github.com/mdfnam/QnA/assets/156814846/01ffd5ae-773b-47a3-acd0-b77b2ce2c94b" width="300">
 </p>
 
-### Comprehending a language
-- **Requirements:** To comprehend a language, one needs knowledge of two fundamental aspects: Vocabulary and Grammar. We will commence our journey by exploring grammar, and as the need arises, we will gradually incorporate vocabulary into our learning process.
-- **Importance of Grammar:** Grammar teaches us the way to put vocabulary in a proper and organized way so that it makes sense. After learning it, we will not only be able to translate a sentence correctly but also understand why and how these words are arranged together in that particular way.
+## Branches of Arabic
+There are three fundamental sciences in the study of the Arabic language, particularly within the context of classical Arabic studies. These sciences focus on different aspects of the language:
+- Nahw (or, nahu)
+- Sarf
+- Balagha
 
-**Next:** Now, we will explore the branches of Arabic, wherein we'll discover that each branch is associated with a distinct aspect of the Arabic language. We'll determine the branch that is connected with the study of grammar and commence our studies accordingly.
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/127815cf-b6a1-4b35-9913-ad9a8ae46248" width="350">
+</p>
+
+### Nahw
+Nahw `نَحْوُ`, also known as Arabic grammar, is the study of the structure and syntax of sentences. It focuses on the rules and principles governing how words are arranged to form meaningful sentences.
+<!-- we are taking an english example to uderstand what nahw is : I am a teacher. MY name is furquan. They loved me. Here in this 3 sentence all the words I, my and me are referring to myself even though i can't use them interchangibly. 
+- It is a system by which we will be able to know to use what word where. When we use a wrong word in a sentence then it is a wrong nahw.-->
+
+### Sarf  
+Sarf `صَرْفُ`, also known as Arabic morphology, is the study of the internal structure of words and how they change to convey different meanings. It focuses on the pattern of how root letters are manipulated to create nouns, verbs and other word forms, while also indicating changes in factors such as tense, number, gender, and other grammatical aspects.
+<!-- To form the doer of the verb 'teach,' add 'er' to create 'teacher.' To express the ongoing action of this verb in the present, append 'ing,' resulting in 'teaching'. This can be an example to understand the sarf better 
+- It is a system by which we will be able to generate words. -->
+
+### Balagha  
+Balagha `بَلاغَةُ`, also known as Arabic rhetoric or eloquence, is the study of how language can be used effectively to convey meaning and create beauty in speech. It explores various figures of speech and techniques, such as repetition, parallelism, and metaphor (comparison between two unrelated things), to enhance the impact of communication.
+
+### Order of learning 
+- In the traditional way of studying Arabic, the typical order is to start with Nahw and then progress to Sarf before delving into Balagha.
+- This sequence is often recommended because a solid understanding of Nahw provides a foundation for comprehending the structure and function of words in a sentence, which is beneficial when studying Sarf.
+- Balagha builds on the foundation of Nahw and Sarf. Therefore, studying Balagha is typically recommended after acquiring a solid understanding of Nahw and Sarf, as it involves more advanced linguistic and rhetorical concepts. Ultimately, this advanced study enhances one's ability to express ideas in a more sophisticated and eloquent manner.
+
+**Next:** Now, we will study the most fundamental component of any language: the word. It is the basic building block that forms the foundation of any language. Subsequently, we will explore different kinds of words in Arabic.
 
 ---
