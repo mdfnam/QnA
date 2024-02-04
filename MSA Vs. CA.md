@@ -22,6 +22,10 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 - Societal advancements, including the introduction of new technologies, interactions with other languages through trade or conquest, and the emergence of cultural influences, contribute to the development of new words within languages.
 - Consequently, in today's contemporary Arabic, we encounter many words that held no relevance in ancient times. Therefore, MSA includes vocabulary and expressions relevant to contemporary society, technology, and various fields.
 
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/47ed75a8-1d9b-4e71-90d8-7c4246df3a71" width="550">
+</p>
+
 ### Contextual Evolution of Words
 - As languages evolve over time, the usage of words undergoes a significant transformation, resulting in shifts in their contextual meaning. This evolution is characterized by repurposing of old words, as they are applied in different contexts compared to their original usage.
 - Consequently, being proficient in MSA doesn't ensure a perfect understanding of ancient texts, as the meaning one attribute to word might differ from their historical usage (as shown below). Therefore, knowing the contemporary meaning of a word doesn't necessarily lead to an accurate interpretation of how that word was used in the past.
