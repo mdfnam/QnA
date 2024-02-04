@@ -11,19 +11,23 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 - Contextual Evolution of Words
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/dcb65fa3-2c67-472f-9537-0b428d025c87" width="530">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/35aac0e9-9c7f-4a65-9cb6-a0d58f65bfd1" width="530">
 </p>
 
 ### Simplification of Words
 - Throughout the passage of time, languages have a tendency to undergo a process of simplification in terms of their grammar and vocabulary. This simplification involves the shedding of complex and advanced words, and the adaptation of more straightforward, simplified linguistic structures and terminology.
 - Consequently, in MSA we encounter simplified versions of certain words which were previously substituted with alternative words. Therefore, the language has undergone a process of lexical simplification, reflecting a conscious effort to adapt to contemporary linguistic needs. 
 
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/78ef4795-2abf-41db-8d55-342733e750e5" width="550">
+</p>
+
 ### Emergence of New Words
 - Societal advancements, including the introduction of new technologies, interactions with other languages through trade or conquest, and the emergence of cultural influences, contribute to the development of new words within languages.
 - Consequently, in today's contemporary Arabic, we encounter many words that held no relevance in ancient times. Therefore, MSA includes vocabulary and expressions relevant to contemporary society, technology, and various fields.
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/47ed75a8-1d9b-4e71-90d8-7c4246df3a71" width="550">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/ba7d07e2-9560-44bd-82b4-a58aabe1e43a" width="550">
 </p>
 
 ### Contextual Evolution of Words
