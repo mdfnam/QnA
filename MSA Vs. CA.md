@@ -14,16 +14,15 @@ Over the course of time, languages undergo an evolutionary process, resulting in
   <img src="https://github.com/mdfnam/QnA/assets/156814846/dcb65fa3-2c67-472f-9537-0b428d025c87" width="530">
 </p>
 
-## Simplification of Words
+### Simplification of Words
 - Throughout the passage of time, languages have a tendency to undergo a process of simplification in terms of their grammar and vocabulary. This simplification involves the shedding of complex and advanced words, and the adaptation of more straightforward, simplified linguistic structures and terminology.
-- Consequently, in MSA we encounter simplified versions of certain words that were not used previously; instead, alternative words were used in their place. It can be observed that when languages are passed down from one generation to the next, they tend to gradually lose their essence. This is why, when Arab people today read the Quran or any text from ancient times, it often becomes challenging to understand.
+- Consequently, in MSA we encounter simplified versions of certain words that were not used previously; instead, alternative words were used in their place. It can be observed that when languages are passed down from one generation to the next, they tend to gradually lose their essence. This is particularly noticeable when Arab people today read the Quran or any text from ancient times, it often becomes challenging to comprehend.
 
-## Emergence of New Words
+### Emergence of New Words
 - Societal advancements, including the introduction of new technologies, interactions with other languages through trade or conquest, and the emergence of cultural influences, contribute to the development of new words within languages.
-- Consequently, in today's contemporary Arabic, we encounter many words that were not used in ancient times.
-- Initially, Arabic was confined only within the borders of the Arabian Desert but when diverse cultures embraced Islam and adopted the Arabic as a second language, they infused their own words and speaking styles into the Arabic language, reflecting the cultures of their respective regions. Over time, due to the influence of non-native speakers, the overall sophistication of the Arabic language began to decline.
+- Consequently, in today's contemporary Arabic, we encounter many words that held no relevance in ancient times. This linguistic expansion occurred when diverse cultures embraced Islam and adopted Arabic as a second language, infusing their own words and speaking styles into the language. thereby reflecting the cultures of their respective regions. This was not the case initially, as Arabic was confined solely within the borders of the Arabian Desert.
 
-## Contextual Evolution of Words
+### Contextual Evolution of Words
 - As languages evolve over time, the usage of words undergoes a significant transformation, resulting in shifts in their contextual meaning. This evolution is characterized by repurposing of old words, as they are applied in different contexts compared to their original usage.
 - Consequently, being proficient in MSA doesn't ensure a perfect understanding of ancient texts, as the meaning one attribute to word might differ from their historical usage (as shown below). Therefore, knowing the contemporary meaning of a word doesn't necessarily lead to an accurate interpretation of how that word was used in the past.
 
