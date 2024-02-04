@@ -18,6 +18,8 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 - Throughout the passage of time, languages have a tendency to undergo a process of simplification in terms of their grammar and vocabulary. This simplification involves the shedding of complex and advanced words, and the adaptation of more straightforward, simplified linguistic structures and terminology.
 - Consequently, in MSA we encounter simplified versions of certain words which were previously substituted with alternative words. Therefore, the language has undergone a process of lexical simplification, reflecting a conscious effort to adapt to contemporary linguistic needs. 
 
+**Note:** This lexical simplification can be observed when languages are passed down from one generation to the next, they tend to gradually lose their essence. This is particularly noticeable when Arab people today read the Quran or any text from ancient times, it often becomes challenging to comprehend.
+
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/78ef4795-2abf-41db-8d55-342733e750e5" width="550">
 </p>
