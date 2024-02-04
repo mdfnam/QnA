@@ -2,7 +2,7 @@
 
 ## MSA - Evolved
 - Modern Standard Arabic has evolved over time, undergoing significant changes due to the evolution of language to meet the changing linguistic needs of the Arab world. It has developed from Classical Arabic and incorporates some simplifications in grammar and vocabulary as societies and communication methods have evolved. Therefore, it includes vocabulary and expressions relevant to contemporary society, technology, and various fields.
-- Now, we will study the evolution of language to better understand the changes that occur in today's contemporary Arabic, comparing it to language of the ancient arabs. This exploration is crucial as Modern Standard Arabic, though beneficial for understanding contemporary usage, may not be the most suitable for those aiming to study the Quran
+- Now, we will study the evolution of language to better understand the changes that occur in today's contemporary Arabic, comparing it to language of the ancient arabs. This exploration is crucial as Modern Standard Arabic, though beneficial for understanding contemporary usage, may not be the most suitable for those aiming to study the Quran.
 
 ### Evolution of Language
 Over the course of time, languages undergo an evolutionary process, resulting in their classification into two distinct forms: Ancient and Modern variations; these two forms differ in several aspects. Below, we will explore three points related to the evolution of any language.
@@ -16,8 +16,7 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 
 ## Simplification of Words
 - Throughout the passage of time, languages have a tendency to undergo a process of simplification in terms of their grammar and vocabulary. This simplification involves the shedding of complex and advanced words, and the adaptation of more straightforward, simplified linguistic structures and terminology.
-- Consequently, in MSA we encounter simplified versions of certain words that were not used previously; instead, alternative words were used in their place.
-- It can be observed that when languages are passed down from one generation to the next, they tend to gradually lose their essence. This is why, when Arab people today read the Quran or any text from ancient times, it often becomes challenging to understand.
+- Consequently, in MSA we encounter simplified versions of certain words that were not used previously; instead, alternative words were used in their place. It can be observed that when languages are passed down from one generation to the next, they tend to gradually lose their essence. This is why, when Arab people today read the Quran or any text from ancient times, it often becomes challenging to understand.
 
 ## Emergence of New Words
 - Societal advancements, including the introduction of new technologies, interactions with other languages through trade or conquest, and the emergence of cultural influences, contribute to the development of new words within languages.
