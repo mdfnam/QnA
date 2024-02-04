@@ -10,8 +10,6 @@ Based on the goals of individuals, whether they aim for fluency in speaking Arab
 - **Problem with Apporach 1:** A common issue arises when we prioritize speaking skills at the expense of understanding written text is that we are only taught how to construct sentences from our thoughts, with insufficient emphasis on the ability to comprehend the written text. Consequently, even after years of study, when we read the Quran, we might not feel a strong connection. This happens because the emphasis was on output (speaking) rather than input (understanding what you read).
 - **Why to choose Approach 2:** When studying Arabic as a Muslim, a primary motivation often lies in the desire to connect with the Quran while reading. Therefore, top priority is given to developing skills in reading Classical Arabic with comprehension. Proficiency in these skills will lead to a deep moral connection with the Quran. Thus, it is crucial to start by mastering the art of reading with comprehension.
 
-
-
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/30c0d9a0-a182-4565-b8be-99a693c11a63" width="450">
 </p>
@@ -33,7 +31,7 @@ There are three fundamental sciences in the study of the Arabic language, partic
 - Balagha
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/127815cf-b6a1-4b35-9913-ad9a8ae46248" width="350">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/290bcd19-22e8-4c26-a31e-b8215a09aa1d" width="350">
 </p>
 
 ### Nahw
