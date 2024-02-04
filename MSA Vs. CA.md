@@ -1,6 +1,6 @@
 # Modern Standard Arabic Vs. Classical Arabic
 
-## Modern Standard Arabic - Evolved
+## MSA - Evolved
 - Modern Standard Arabic has evolved over time, undergoing significant changes due to the evolution of language to meet the changing linguistic needs of the Arab world. It has developed from Classical Arabic and incorporates some simplifications in grammar and vocabulary as societies and communication methods have evolved. Therefore, it includes vocabulary and expressions relevant to contemporary society, technology, and various fields.
 - Now, we will study the evolution of language to better understand the changes that occur in today's contemporary Arabic, comparing it to language of the ancient arabs. This exploration is crucial as Modern Standard Arabic, though beneficial for understanding contemporary usage, may not be the most suitable for those aiming to study the Quran
 
