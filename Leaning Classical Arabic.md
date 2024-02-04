@@ -1,6 +1,6 @@
-# Approach for Learning
+# Learning Classical Arabic
 
-## Two Approaches
+## Approach for Learning
 There are two different approaches that people typically take when learning any language. They are:
 - **Approach 1:** Starting with speaking skills.
 - **Aprroach 2:** Starting with reading skills and then comprehending the written text.
@@ -10,9 +10,7 @@ Based on the goals of individuals, whether they aim for fluency in speaking Arab
 - **Problem with Apporach 1:** A common issue arises when we prioritize speaking skills at the expense of understanding written text is that we are only taught how to construct sentences from our thoughts, with insufficient emphasis on the ability to comprehend the written text. Consequently, even after years of study, when we read the Quran, we might not feel a strong connection. This happens because the emphasis was on output (speaking) rather than input (understanding what you read).
 - **Why to choose Approach 2:** When studying Arabic as a Muslim, a primary motivation often lies in the desire to connect with the Quran while reading. Therefore, top priority is given to developing skills in reading Classical Arabic with comprehension. Proficiency in these skills will lead to a deep moral connection with the Quran. Thus, it is crucial to start by mastering the art of reading with comprehension.
 
-<p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/8568a1d1-a8e7-4653-b6c1-de54725ce17b" width="450">
-</p>
+
 
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/30c0d9a0-a182-4565-b8be-99a693c11a63" width="450">
