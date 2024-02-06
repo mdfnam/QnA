@@ -37,7 +37,7 @@ There are three fundamental sciences in the study of the Arabic language, partic
 ### Nahw
 Nahw `نَحْوُ`, also known as Arabic grammar, is the study of the structure and syntax of sentences. It focuses on the rules and principles governing how words are arranged to form meaningful sentences.
 
-**Note:** We will commence our journey by exploring grammar, and as the need arises, we will gradually incorporate vocabulary into our learning process.
+**Note:** We will commence our journey by exploring Nahw - Arabic grammar, and as the need arises, we will gradually incorporate vocabulary into our learning process.
 <!-- we are taking an english example to uderstand what nahw is : I am a teacher. MY name is furquan. They loved me. Here in this 3 sentence all the words I, my and me are referring to myself even though i can't use them interchangibly. 
 - It is a system by which we will be able to know to use what word where. When we use a wrong word in a sentence then it is a wrong nahw.-->
 
@@ -53,7 +53,5 @@ Balagha `بَلاغَةُ`, also known as Arabic rhetoric or eloquence, is the s
 - In the traditional way of studying Arabic, the typical order is to start with Nahw and then progress to Sarf before delving into Balagha.
 - This sequence is often recommended because a solid understanding of Nahw provides a foundation for comprehending the structure and function of words in a sentence, which is beneficial when studying Sarf.
 - Balagha builds on the foundation of Nahw and Sarf. Therefore, studying Balagha is typically recommended after acquiring a solid understanding of Nahw and Sarf, as it involves more advanced linguistic and rhetorical concepts. Ultimately, this advanced study enhances one's ability to express ideas in a more sophisticated and eloquent manner.
-
-**Next:** Now, we will study the most fundamental component of any language: the word. It is the basic building block that forms the foundation of any language. Subsequently, we will explore different kinds of words in Arabic.
 
 ---
