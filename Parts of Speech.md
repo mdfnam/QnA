@@ -9,7 +9,7 @@
   <img src="https://github.com/mdfnam/QnA/assets/156814846/21c0099f-3c9b-49b6-b648-dcb5fe6b12df" width="250">
 </p>
 
-- **Kalimah `كَلِمَة`:** A single meaningful word is referred to as ‘kalimah’, which constitutes the most fundamental component of any language. It serves as the basic building block that forms the foundation of the language. Kalimah can be further divided into three types, also known as ‘parts of speech’.
+- **Kalimah `كَلِمَة`:** A single meaningful word is referred to as ‘kalimah’, which is the most fundamental component of Arabic language. It serves as the basic building block that forms the foundation of the language. Kalimah can be further divided into three types, also known as ‘parts of speech’.
 
 ## Classification of Words
 While reading the Quran, we encounter numerous words (kalimah) on every page, which can be categorized into three parts of speech in the Arabic language:
@@ -24,14 +24,21 @@ While reading the Quran, we encounter numerous words (kalimah) on every page, wh
 - **Fi'l:** Part of speech in Arabic that indicates a meaning in itself and is also linked to time.
 - **Harf:** Part of speech in Arabic that conveys meaning only when followed by another word.
 
-**Example:**
+**Example:** Break down each word in the English sentence, determine which definition it satisfies, and then map it to the corresponding part of speech in Arabic.
 
-*Sentence:* I ate an apple yesterday.
-- `I` : It is an ism as it contains a meaning in itself, representing myself, and is not bound by time.
-- `ate` : It is a fi'l as it conveys meaning and is also linked with time since it is in the past tense.
-- `an` : It is a harf that conveys meaning only when followed by a word (noun).
-- `apple` : It is an ism as it contains a meaning in itself, representing an eating object, and is timeless.
-- `yesterday` : It is an ism again. *Explanation:* It is not a fi’l, instead, it is the name of the day. The word 'yesterday' refers to the day that preceded today. It is not stuck in that time, rather, it is the name for a specific time. Therefore, it is an ism.
+*Sentence:* I was eating an apple yesterday.
+- `I` : It contains a meaning in itself, representing myself, and is not bound by time - Ism
+- `was eating` : It conveys meaning and is also linked with time since it is in the past tense - Fi'l
+- `an` : It conveys meaning only when followed by a word (noun) - Harf
+- `apple` : It contains a meaning in itself, representing an eating object, and is timeless - Ism
+- `yesterday` : It is an ism again.
+
+**Note:** In the English language, there are instances where a single verb is formed by combining more than one word.
+
+*Using Elimination Method:* 
+- **Checking Fi'l:** It cannot be a fi'l since it does not have any present, future, and past tenses.
+- **Checking Harf:** It cannot be a harf since there is no word following it.
+- **Checking Ism:** Thus, it is an ism as it is the name of the day, referring to the day that preceded today. It is not stuck in that time, rather, it is the name for a specific time.
 
 ## Mapping Parts of Speech
 Parts of speech in English that correspond to parts of speech in Arabic are as follows:
@@ -40,19 +47,18 @@ Parts of speech in English that correspond to parts of speech in Arabic are as f
 - **Harf:** Preposition, Conjunction and Article
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/36c1a728-4db7-44b8-957c-1a225897e5e1" width="550">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/ab012743-e4fc-41eb-8a2e-3baf4c23910b" width="550">
 </p>
 
 **Note:**
-- Ism literally translates to 'name,' and a noun, which also signifies the name of something, which is why 'ism' is referred to as noun. However, this doesn't imply that it belongs to the noun parts of speech only.
-- In Arabic, the subject (doer of the verb) and verb appear together in a single word. For example, `يَنْصُرُ` (yansuru) means “he helps”. That’s why we refer Fi’l as ‘More than a Verb’.
+- Ism literally translates to "name", and a noun, which also signifies the name of something, which is why 'ism' is referred to as noun. However, this doesn't imply that it belongs to the noun parts of speech only.
 - In Arabic grammar, the term "harf " is often referred to as a "particle“. These particles serve to connect words, convey relationships, and provide additional information in a sentence. Arabic particles in english are typically prepositions, conjunctions and articles.
 
-**Example:**
+**Example:** Break down each word in the sentence, determine its part of speech in English, and then map it to the corresponding part of speech in Arabic.
 
-*Sentence:* I ate an apple yesterday.
+*Sentence:* I was eating an apple yesterday.
 - `I` : Pronoun (First Person Pronoun) - Ism
-- `ate` : Verb (Past Tense Verb) - Fi'l
+- `was eating` : Verb (Past Tense Verb) - Fi'l
 - `an` : Article (Indefinite Article) - Harf
 - `apple` : Noun (Thing) - Ism
 - `yesterday` :  Adverb (Adverbs of Time) - Ism
