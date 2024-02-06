@@ -9,7 +9,7 @@
   <img src="https://github.com/mdfnam/QnA/assets/156814846/21c0099f-3c9b-49b6-b648-dcb5fe6b12df" width="250">
 </p>
 
-- **Kalimah `كَلِمَة`:** A single meaningful word is referred to as ‘kalimah’. It can be further divided into three types also called ‘parts of speech’.
+- **Kalimah `كَلِمَة`:** A single meaningful word is referred to as ‘kalimah’, which constitutes the most fundamental component of any language. It serves as the basic building block that forms the foundation of the language. Kalimah can be further divided into three types, also known as ‘parts of speech’.
 
 ## Classification of Words
 While reading the Quran, we encounter numerous words (kalimah) on every page, which can be categorized into three parts of speech in the Arabic language:
