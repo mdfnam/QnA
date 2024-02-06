@@ -21,15 +21,14 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 ### Simplification of Words
 - Throughout the passage of time, languages have a tendency to undergo a process of simplification in terms of their grammar and vocabulary. This simplification involves the shedding of complex and advanced words, and the adaptation of more straightforward, simplified linguistic structures and terminology.
 - Therefore, in MSA we encounter simplified versions of certain words which were previously substituted with alternative words. Consequently, the language has undergone a process of lexical simplification, reflecting a conscious effort to adapt to contemporary linguistic needs. 
-- **Note:** This lexical simplification can be observed when languages are passed down from one generation to the next, they tend to gradually lose their essence. This is particularly noticeable when Arab people today read the Quran or any text from ancient times, it often becomes challenging to comprehend.
 
 ### Emergence of New Words
 - Societal advancements, including the introduction of new technologies, interactions with other languages through trade or conquest, and the emergence of cultural influences, contribute to the development of new words within languages.
-- Therefore, in MSA, we encounter many words that held no relevance in ancient times. Consequently, the language has undergone a process of linguistic expansion, reflecting the adaptability of language to the evolving needs of society.
-- **Note:** The growth of this linguistic expansion can be traced back to the widespread adoption of Arabic by diverse cultures upon embracing Islam. They adopted Arabic as a second language, infusing their own words and speaking styles into the language, thereby reflecting the cultures of their respective regions, which was not the case initially, as Arabic was confined solely within the borders of the Arabian Desert.
+- Therefore, in MSA we encounter many words that held no relevance in ancient times. Consequently, the language has undergone a process of linguistic expansion, reflecting the adaptability of language to the evolving needs of society.
 
 ### Contextual Evolution of Words
 - As languages evolve over time, the usage of words undergoes a significant transformation, resulting in shifts in their contextual meaning. This evolution is characterized by repurposing of old words, as they are applied in different contexts compared to their original usage.
+- Therfore, in MSA we encounter words that has 
 - Therefore, being proficient in MSA doesn't ensure a perfect understanding of ancient texts, as the meaning one attribute to word might differ from their historical usage (as shown below). Consequently, knowing the contemporary meaning of a word doesn't necessarily lead to an accurate interpretation of how that word was used in the past.
 
 <p align="center">
