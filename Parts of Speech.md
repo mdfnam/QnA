@@ -47,7 +47,7 @@ Parts of speech in English that correspond to parts of speech in Arabic are as f
 - **Harf:** Preposition, Conjunction and Article
 
 <p align="center">
-  <img src="https://github.com/mdfnam/QnA/assets/156814846/ab012743-e4fc-41eb-8a2e-3baf4c23910b" width="550">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/ecba23c0-1838-4387-9d72-0b773f3e21e1" width="550">
 </p>
 
 **Note:**
