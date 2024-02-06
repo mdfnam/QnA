@@ -27,17 +27,17 @@ While reading the Quran, we encounter numerous words (kalimah) on every page, wh
 **Example:** Break down each word in the English sentence, determine which definition it satisfies, and then map it to the corresponding part of speech in Arabic.
 
 *Sentence:* I was eating an apple yesterday.
-- `I` : It contains a meaning in itself, representing myself, and is not bound by time - Ism
-- `was eating` : It conveys meaning and is also linked with time since it is in the past tense - Fi'l
-- `an` : It conveys meaning only when followed by a word (noun) - Harf
-- `apple` : It contains a meaning in itself, representing an eating object, and is timeless - Ism
-- `yesterday` : It is an ism again.
+- `I` : It contains a meaning in itself, representing myself, and is not bound by time. Therefore, it an Ism.
+- `was eating` : It conveys meaning and is also linked with time since it is in the past tense. Therefore, it is a Fi'l.
+- `an` : It conveys meaning only when followed by a word (noun). Therefore, it is a Harf.
+- `apple` : It contains a meaning in itself, representing an eating object, and is timeless. Therefore, it is an Ism.
+- `yesterday` : It is an ism again. (Explained below)
 
 **Note:** In the English language, there are instances where a single verb is formed by combining more than one word.
 
-*Using Elimination Method:* 
+*Using Elimination Method: 'yesterday'* 
 - **Checking Fi'l:** It cannot be a fi'l since it does not have any present, future, and past tenses.
-- **Checking Harf:** It cannot be a harf since there is no word following it.
+- **Checking Harf:** It cannot be a harf since there is no word following it without which it won't make any sense.
 - **Checking Ism:** Thus, it is an ism as it is the name of the day, referring to the day that preceded today. It is not stuck in that time, rather, it is the name for a specific time.
 
 ## Mapping Parts of Speech
