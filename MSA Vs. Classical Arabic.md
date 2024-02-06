@@ -21,8 +21,8 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 
 ### Emergence of New Words
 - Societal advancements, including the introduction of new technologies, interactions with other languages through trade or conquest, and the emergence of cultural influences, contribute to the development of new words within languages.
-- Therefore, in MSA, we encounter many words that held no relevance in ancient times. Consequently, today's contemporary Arabic includes vocabulary and expressions relevant to modern society, technology, and various fields, thereby accommodating the demands of contemporary communication.
-- **Note:** This linguistic expansion occurred when diverse cultures embraced Islam and adopted Arabic as a second language, infusing their own words and speaking styles into the language, thereby reflecting the cultures of their respective regions, which was not the case initially, as Arabic was confined solely within the borders of the Arabian Desert.
+- Therefore, in MSA, we encounter many words that held no relevance in ancient times. Consequently, the language has undergone a process of linguistic expansion, reflecting the adaptability of language to the evolving needs of society.
+- **Note:** The growth of this linguistic expansion can be traced back to the widespread adoption of Arabic by diverse cultures upon embracing Islam. They adopted Arabic as a second language, infusing their own words and speaking styles into the language, thereby reflecting the cultures of their respective regions, which was not the case initially, as Arabic was confined solely within the borders of the Arabian Desert.
 
 ### Contextual Evolution of Words
 - As languages evolve over time, the usage of words undergoes a significant transformation, resulting in shifts in their contextual meaning. This evolution is characterized by repurposing of old words, as they are applied in different contexts compared to their original usage.
