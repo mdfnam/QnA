@@ -28,8 +28,7 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 
 ### Contextual Evolution of Words
 - As languages evolve over time, the usage of words undergoes a significant transformation, resulting in shifts in their contextual meaning. This evolution is characterized by repurposing of old words, as they are applied in different contexts compared to their original usage.
-- Therfore, in MSA we encounter words that has 
-- Therefore, being proficient in MSA doesn't ensure a perfect understanding of ancient texts, as the meaning one attribute to word might differ from their historical usage (as shown below). Consequently, knowing the contemporary meaning of a word doesn't necessarily lead to an accurate interpretation of how that word was used in the past.
+- Therefore, in Modern Standard Arabic (MSA), we encounter words that have contextually evolved since ancient times. Consequently, the language has undergone a process of semantic evolution, reflecting the accommodation of the demands of contemporary communication.
 
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/b285e8e1-76f3-4700-8d96-d38f4a589b67" width="550">
