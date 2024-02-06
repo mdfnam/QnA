@@ -15,7 +15,7 @@ Based on the goals of individuals, whether they aim for fluency in speaking Arab
 </p>
 
 ### Prerequisite: Reading Arabic
-- A fundamental prerequisite for undertaking this course is having the ability to read Arabic, particularly Quranic Script. Without this foundational skill, you cannot pursue this particular course.
+- A fundamental prerequisite for undertaking this course is having the ability to read Arabic, particularly Quranic Script (having tashkeel). Without this foundational skill, you cannot pursue this particular course.
 - If you already possess the capability to read Arabic, even if you encounter difficulties with certain words or are not proficient in tajweed (it is the set of rules and guidelines for the proper pronunciation and recitation of the Qur’an), you are still eligible to enroll in the course.
 - However, I want to emphasize that if you do not have a basic understanding of how to read Quranic Arabic, you must learn it before taking this course.
 - **Advise:** You can read the Quran for 10 minutes daily online, practice it on `quran.com`, select a reciter there, and try to synchronize your voice along with the reciter. This practice will enhance your pronunciation and reading of Quranic Arabic.
@@ -36,6 +36,8 @@ There are three fundamental sciences in the study of the Arabic language, partic
 
 ### Nahw
 Nahw `نَحْوُ`, also known as Arabic grammar, is the study of the structure and syntax of sentences. It focuses on the rules and principles governing how words are arranged to form meaningful sentences.
+
+**Note:** We will commence our journey by exploring grammar, and as the need arises, we will gradually incorporate vocabulary into our learning process.
 <!-- we are taking an english example to uderstand what nahw is : I am a teacher. MY name is furquan. They loved me. Here in this 3 sentence all the words I, my and me are referring to myself even though i can't use them interchangibly. 
 - It is a system by which we will be able to know to use what word where. When we use a wrong word in a sentence then it is a wrong nahw.-->
 
