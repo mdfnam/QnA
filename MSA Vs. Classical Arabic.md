@@ -1,8 +1,8 @@
 # MSA Vs. Classical Arabic
 
-## MSA - It is evolved.
+## MSA - It is evolved
 - MSA is the form of Arabic which has evolved over time, undergoing significant changes due to the evolution of language to meet the changing linguistic needs of the Arab world. It has developed from Classical Arabic and incorporates some simplifications in grammar and vocabulary as societies and communication methods have evolved. 
-- Therefore, we will study the evolution of language to better understand the changes that occur in today's contemporary Arabic, comparing it to language of the ancient arabs. This exploration is crucial as Modern Standard Arabic, though beneficial for understanding contemporary usage, may not be the most suitable for those aiming to study the Quran.
+- Therefore, we will study the evolution of language, examining the significant changes that have taken place in contemporary Arabic, which were absent in ancient times. This exploration is crucial as Modern Standard Arabic, though beneficial for understanding contemporary usage, may not be the most suitable for those aiming to study the Quran.
 
 ### Evolution of Language
 Over the course of time, languages undergo an evolutionary process, resulting in their classification into two distinct forms: Ancient and Modern variations; these two forms differ in several aspects. Below, we will explore three points related to the evolution of any language.
@@ -32,7 +32,7 @@ Over the course of time, languages undergo an evolutionary process, resulting in
   <img src="https://github.com/mdfnam/QnA/assets/156814846/b285e8e1-76f3-4700-8d96-d38f4a589b67" width="550">
 </p>
 
-## Classical Arabic - It is preserved.
+## Classical Arabic - It is preserved
 - Classical Arabic is considered dead today because it is no longer spoken. Nevertheless, religious scriptures such as the Quran and Hadith have played a crucial role in its preservation. Despite the influence of various cultures and languages on Arabic over time, classical Arabic has not been significantly impacted. It has remained largely preserved in its written form for religious and literary purposes. This preservation is attributed to its significance in religious and literary contexts, where precise interpretation and understanding are crucial.
 - The credit for this preservation goes to the Islamic scholars, who not only documented the ancient grammar and kept records of the meanings of words, along with how Arabic Bedouins used them but also passed this knowledge down from generation to generation. As a result, individuals studying anywhere in the world today can seamlessly refer to these sources, ensuring a profound understanding of the original meanings and contextual usage of words as they existed in times long past.
 
@@ -40,6 +40,6 @@ Over the course of time, languages undergo an evolutionary process, resulting in
   <img src="https://github.com/mdfnam/QnA/assets/156814846/1ea1ce7c-4898-4f3a-a0f7-9abb350794db" width="270">
 </p>
 
-**Next:** Now that we are certain, we will commence our journey with Classical Arabic. We will explore various approaches for learning a language, carefully selecting one while also considering the reasons behind our choice.
+- After observing the difference between the two, we are now certain that if we want to excel in the understanding of the Quran, then we need to commence our journey with Classical Arabic to better understand it.
 
 ---
