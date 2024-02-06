@@ -28,15 +28,17 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 
 ### Contextual Evolution of Words
 - As languages evolve over time, the usage of words undergoes a significant transformation, resulting in shifts in their contextual meaning. This evolution is characterized by repurposing of old words, as they are applied in different contexts compared to their original usage.
-- Therefore, in MSA, we encounter words that have contextually evolved since ancient times. Consequently, the language has undergone a process of semantic evolution, reflecting the accommodation of the demands of contemporary communication.
+- Therefore, in MSA, we encounter words that have contextually evolved since ancient times. Consequently, the language has undergone a process of semantic transformation, reflecting the accommodation of the demands of contemporary communication.
 
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/b285e8e1-76f3-4700-8d96-d38f4a589b67" width="550">
 </p>
 
 ## Classical Arabic - It is preserved
-- Classical Arabic is considered dead today because it is no longer spoken. Nevertheless, religious scriptures such as the Quran and Hadith have played a crucial role in its preservation. Despite the influence of various cultures and languages on Arabic over time, classical Arabic has not been significantly impacted. It has remained largely preserved in its written form for religious and literary purposes. This preservation is attributed to its significance in religious and literary contexts, where precise interpretation and understanding are crucial.
-- The credit for this preservation goes to the Islamic scholars, who not only documented the ancient grammar and kept records of the meanings of words, along with how Arabic Bedouins used them but also passed this knowledge down from generation to generation. As a result, individuals studying anywhere in the world today can seamlessly refer to these sources, ensuring a profound understanding of the original meanings and contextual usage of words as they existed in times long past.
+- Classical Arabic is considered dead today because it is no longer spoken. Nevertheless, religious scriptures such as the Quran and Hadith have played a crucial role in its preservation. Despite the influence of various cultures and languages on Arabic over time, classical Arabic has not been significantly impacted.
+- It has remained largely preserved in its written form for religious and literary purposes. This preservation is attributed to its significance in religious and literary contexts, where precise interpretation and understanding are crucial.
+- The credit for this preservation goes to the Islamic scholars, who not only documented the ancient grammar and kept records of the meanings of words, along with how Arabic Bedouins used them but also passed this knowledge down from generation to generation.
+- As a result, individuals studying anywhere in the world today can seamlessly refer to these sources, ensuring a profound understanding of the original meanings and contextual usage of words as they existed in times long past.
 
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/1ea1ce7c-4898-4f3a-a0f7-9abb350794db" width="270">
