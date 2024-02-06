@@ -42,7 +42,4 @@ Over the course of time, languages undergo an evolutionary process, resulting in
   <img src="https://github.com/mdfnam/QnA/assets/156814846/1ea1ce7c-4898-4f3a-a0f7-9abb350794db" width="270">
 </p>
 
-### What we are going to learn? 
-After observing the difference between the two, we are now certain that if we want to excel in the understanding of the Quran, then we need to commence our journey with Classical Arabic to better understand it.
-
 ---
