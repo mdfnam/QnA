@@ -29,6 +29,8 @@ While reading the Quran, we encounter numerous words (kalimah) on every page, wh
 - **Fi'l:** All words that are neither ism nor harf belong to the Arabic part of speech Harf.
 - **Harf:** All words that are neither fi'l nor ism belong to the Arabic part of speech Harf.
 
+**Note:** Now, we will practice identifying Ism, Fi'l and Harf in English sentences first and then in Arabic sentences.
+
 **Example:** Break down each word in the English sentence, determine which definition it satisfies, and then map it to the corresponding part of speech in Arabic.
 
 *Sentence:* I was eating an apple yesterday.
@@ -67,5 +69,17 @@ Parts of speech in English that correspond to parts of speech in Arabic are as f
 - `an` : Article (Indefinite Article) - Harf
 - `apple` : Noun (Thing) - Ism
 - `yesterday` :  Adverb (Adverbs of Time) - Ism
+
+**Summary:** If we have an English word and want to determine its corresponding part of speech in Arabic, we can either follow the definitions of ism, fi'l, and harf, or identify the parts of speech of the English word and finally map it to the corresponding Arabic parts of speech.
+
+## Identifying Parts of Speech In Arabic
+- To identify the parts of speech to which an Arabic word belongs, first, translate the Arabic word into English. Then, employ one of the two methods, as demonstrated above, to determine the corresponding part of speech in Arabic for the translated English word.
+
+**Example:** Break down each word in the sentence, determine its part of speech.
+
+*Sentence:* بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ
+- ` ` : (In Englsih: In or With) - Prepostion (Prepostions of Location). Therefore, it is Harf.
+- ` ` : (In English: Name) - Noun (Idea). Therefore , it is Ism.
+- ` ` : (In English: The Most Gracious) - Adjective (Descriptive Adjective)
 
 ---
