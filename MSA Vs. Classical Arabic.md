@@ -20,15 +20,15 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 
 ### Simplification of Words
 - Throughout the passage of time, languages have a tendency to undergo a process of simplification in terms of their grammar and vocabulary. This simplification involves the shedding of complex and advanced words, and the adaptation of more straightforward, simplified linguistic structures and terminology.
-- Therefore, in MSA we encounter simplified versions of certain words which were previously substituted with alternative words. Consequently, the language has undergone a process of lexical simplification, reflecting a conscious effort to adapt to contemporary linguistic needs. 
+- Therefore, in MSA, we encounter simplified versions of certain words which were previously substituted with alternative words. Consequently, the language has undergone a process of lexical simplification, reflecting a conscious effort to adapt to contemporary linguistic needs. 
 
 ### Emergence of New Words
 - Societal advancements, including the introduction of new technologies, interactions with other languages through trade or conquest, and the emergence of cultural influences, contribute to the development of new words within languages.
-- Therefore, in MSA we encounter many words that held no relevance in ancient times. Consequently, the language has undergone a process of linguistic expansion, reflecting the adaptability of language to the evolving needs of society.
+- Therefore, in MSA, we encounter many words that held no relevance in ancient times. Consequently, the language has undergone a process of linguistic expansion, reflecting the adaptability of language to the evolving needs of society.
 
 ### Contextual Evolution of Words
 - As languages evolve over time, the usage of words undergoes a significant transformation, resulting in shifts in their contextual meaning. This evolution is characterized by repurposing of old words, as they are applied in different contexts compared to their original usage.
-- Therefore, in Modern Standard Arabic (MSA), we encounter words that have contextually evolved since ancient times. Consequently, the language has undergone a process of semantic evolution, reflecting the accommodation of the demands of contemporary communication.
+- Therefore, in MSA, we encounter words that have contextually evolved since ancient times. Consequently, the language has undergone a process of semantic evolution, reflecting the accommodation of the demands of contemporary communication.
 
 <p align="center">
   <img src="https://github.com/mdfnam/QnA/assets/156814846/b285e8e1-76f3-4700-8d96-d38f4a589b67" width="550">
