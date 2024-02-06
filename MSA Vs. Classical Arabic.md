@@ -24,7 +24,7 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 
 ### Emergence of New Words
 - Societal advancements, including the introduction of new technologies, interactions with other languages through trade or conquest, and the emergence of cultural influences, contribute to the development of new words within languages.
-- Therefore, in MSA, we encounter many words that held no relevance in ancient times. Consequently, the language has undergone a process of linguistic expansion, reflecting the adaptability of language to the evolving needs of society.
+- Therefore, in MSA, we encounter some words that held no relevance in ancient times. Consequently, the language has undergone a process of linguistic expansion, reflecting the adaptability of language to the evolving needs of society.
 
 ### Contextual Evolution of Words
 - As languages evolve over time, the usage of words undergoes a significant transformation, resulting in shifts in their contextual meaning. This evolution is characterized by repurposing of old words, as they are applied in different contexts compared to their original usage.
