@@ -45,6 +45,6 @@ Over the course of time, languages undergo an evolutionary process, resulting in
 </p>
 
 ### What we are going to learn? 
-- After observing the difference between the two, we are now certain that if we want to excel in the understanding of the Quran, then we need to commence our journey with Classical Arabic to better understand it.
+After observing the difference between the two, we are now certain that if we want to excel in the understanding of the Quran, then we need to commence our journey with Classical Arabic to better understand it.
 
 ---
