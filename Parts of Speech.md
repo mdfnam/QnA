@@ -24,6 +24,11 @@ While reading the Quran, we encounter numerous words (kalimah) on every page, wh
 - **Fi'l:** Part of speech in Arabic that indicates a meaning in itself and is also linked to time.
 - **Harf:** Part of speech in Arabic that conveys meaning only when followed by another word.
 
+**Alternative definitions:** 
+- **Ism:** All words that are neither fi'l nor harf belong to the Arabic part of speech Ism.
+- **Fi'l:** All words that are neither ism nor harf belong to the Arabic part of speech Harf.
+- **Harf:** All words that are neither fi'l nor ism belong to the Arabic part of speech Harf.
+
 **Example:** Break down each word in the English sentence, determine which definition it satisfies, and then map it to the corresponding part of speech in Arabic.
 
 *Sentence:* I was eating an apple yesterday.
