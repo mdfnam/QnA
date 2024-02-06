@@ -4,6 +4,10 @@
 - MSA is the form of Arabic which has evolved over time, undergoing significant changes due to the evolution of language to meet the changing linguistic needs of the Arab world. It has developed from Classical Arabic and incorporates some simplifications in grammar and vocabulary as societies and communication methods have evolved. 
 - Therefore, we will study the evolution of language, examining the significant changes that have taken place in contemporary Arabic, which were absent in ancient times. This exploration is crucial as Modern Standard Arabic, though beneficial for understanding contemporary usage, may not be the most suitable for those aiming to study the Quran.
 
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/24df8a13-f565-40c0-a0ab-96539d1a998c" width="300">
+</p>
+
 ### Evolution of Language
 Over the course of time, languages undergo an evolutionary process, resulting in their classification into two distinct forms: Ancient and Modern variations; these two forms differ in several aspects. Below, we will explore three points related to the evolution of any language.
 - Simplification of Words
