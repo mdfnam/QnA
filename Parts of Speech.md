@@ -17,6 +17,10 @@ While reading the Quran, we encounter numerous words (kalimah) on every page, wh
 - Fi'l `فِعْلٌ` (Verb)
 - Harf `حَرْفٌ` (Particle)
 
+<p align="center">
+  <img src="https://github.com/mdfnam/QnA/assets/156814846/97beffdc-2903-4f3a-bf93-fbdf363586b3" width="300">
+</p>
+
 **Note:** In English, it sometimes happens that a word belongs to two different categories, but in Arabic, each word must unambiguously belong to one of these categories with no room for belonging to two of them or any fourth category.
 
 ### Definition:
@@ -41,7 +45,7 @@ Alternatively, we can also say that all words that are neither fi'l nor harf bel
 - **Checking Harf:** It cannot be a harf since there is no word following it without which it won't make any sense.
 
 ## Mapping Parts of Speech
-Parts of speech in English that correspond to parts of speech in Arabic are as follows:
+Parts of speech in Arabic that correspond to parts of speech in English are as follows:
 - **Ism:** Noun, Pronoun, Adjective, Adverb and Interjection
 - **Fi'l:** Verb
 - **Harf:** Preposition, Conjunction and Article
