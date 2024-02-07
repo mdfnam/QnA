@@ -17,20 +17,16 @@ While reading the Quran, we encounter numerous words (kalimah) on every page, wh
 - Fi'l `فِعْلٌ` (Verb)
 - Harf `حَرْفٌ` (Particle)
 
-**Note:** In English, it sometimes happens that a word belongs to two different categories, but in Arabic, each word must unambiguously belong to one of these categories with no room for belonging to two of them or any fourth category.
+**Note:** 
+- In English, it sometimes happens that a word belongs to two different categories, but in Arabic, each word must unambiguously belong to one of these categories with no room for belonging to two of them or any fourth category.
+- In the English language, there are instances where a single verb is formed by combining more than one word. *Example:* was eating, will eat, are eating etc.
 
 ### Definition:
 - **Ism:** Part of speech in Arabic that indicates a meaning in itself and is not linked to time.
 - **Fi'l:** Part of speech in Arabic that indicates a meaning in itself and is also linked to time.
 - **Harf:** Part of speech in Arabic that conveys meaning only when followed by another word.
 
-**Alternative definitions:** 
-- **Ism:** All words that are neither fi'l nor harf belong to the Arabic part of speech Ism.
-- **Fi'l:** All words that are neither ism nor harf belong to the Arabic part of speech Harf.
-- **Harf:** All words that are neither fi'l nor ism belong to the Arabic part of speech Harf.
-
-**Note:** Now, we will practice identifying Ism, Fi'l and Harf in English sentences first and then in Arabic sentences.
-
+### Identifying Ism, Fi'l and Harf in English sentences
 **Example:** Break down each word in the English sentence, determine which definition it satisfies, and then map it to the corresponding part of speech in Arabic.
 
 *Sentence:* I was eating an apple yesterday.
@@ -38,14 +34,12 @@ While reading the Quran, we encounter numerous words (kalimah) on every page, wh
 - `was eating` : It conveys meaning and is also linked with time since it is in the past tense. Therefore, it is a Fi'l.
 - `an` : It conveys meaning only when followed by a word (noun). Therefore, it is a Harf.
 - `apple` : It contains a meaning in itself, representing an eating object, and is timeless. Therefore, it is an Ism.
-- `yesterday` : It is an ism again. (Explained below)
+- `yesterday` : It conveys a meaning as it is the name of the day, referring to the day that preceded today. It is not stuck in that time, rather, it is the name for a specific time. Therefore, it is an ism again. (More explained below)
 
-**Note:** In the English language, there are instances where a single verb is formed by combining more than one word.
-
+Alternatively, we can also say that all words that are neither fi'l nor harf belong to the Arabic part of speech Ism.
 *Using Elimination Method: 'yesterday'* 
 - **Checking Fi'l:** It cannot be a fi'l since it does not have any present, future, and past tenses.
 - **Checking Harf:** It cannot be a harf since there is no word following it without which it won't make any sense.
-- **Checking Ism:** Thus, it is an ism as it is the name of the day, referring to the day that preceded today. It is not stuck in that time, rather, it is the name for a specific time.
 
 ## Mapping Parts of Speech
 Parts of speech in English that correspond to parts of speech in Arabic are as follows:
