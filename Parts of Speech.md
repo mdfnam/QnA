@@ -32,7 +32,7 @@ While reading the Quran, we encounter numerous words (kalimah) on every page, wh
 **Method 1:** Break down each word in the English sentence, determine which definition it satisfies, and then map it to the corresponding part of speech in Arabic.
 
 ### Grouping of words
-- In English, doer of the verb appears separate from the verb, whereas in Arabic, the subject (doer of the verb) and verb appear together in a single word. Therefore, when dealing with verbs in english sentences, we will combine them with the subject (the doer of the verb) preceding it, treating them as a single unit, the fi'l, rather than addressing them separately.
+- In English, doer of the verb appears separate from the verb, whereas in Arabic, the subject (doer of the verb) and verb appear together in a single word. Therefore, when dealing with verbs in english sentences, we will combine them with the subject preceding it, treating them as a single unit, the fi'l, rather than addressing them separately.
 - In English, articles appears separate from the noun, whereas in Arabic, the word itself contains the meaning of the article. Therefore, when dealing with nouns in sentences, we will combine them with any preceding articles, treating them as a single unit, the ism, rather than addressing them individually.
 
 *Sentence:* I ate an apple yesterday.
