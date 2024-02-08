@@ -72,12 +72,14 @@ Now, we will explore the parts of speech in English that align with the definiti
 ## Identifying Ism, Fi'l and Harf in *Arabic sentences*
 **Method:** Break down each word in the sentence, translate it into Englsih and then determine the corresponding part of speech in Arabic for the translated English word.
 
-*Sentence 1:* أَكَلْتُ تُفَّاحَةً أَمْسِ
+*Sentence:* أَكَلْتُ تُفَّاحَةً أَمْسِ
+- **(I ate)** `أَكَلْتُ` : Fi'l
+- **(an apple)** `تُفَّاحَةً` : Ism
+- **(yesterday)** `أَمْسِ` : Ism
+
+*Sentence 2:* أَعُوذُ بِاللَّهِ مِنَ الشَّيطَانِ الرَّجِيمِ
 - a. `أَكَلْتُ` : (In English: I ate) - Fi'l
 - b. `تُفَّاحَةً` : (In English: an apple) - Ism
 - c. `أَمْسِ` : (In English: yesterday) - Ism
-
-*Sentence 2:* أَعُوذُ بِاللَّهِ مِنَ الشَّيطَانِ الرَّجِيمِ
-
 
 ---
