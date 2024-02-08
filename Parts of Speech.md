@@ -64,7 +64,7 @@ Now, we will explore the parts of speech in English that align with the definiti
 ## Identifying Ism, Fi'l and Harf in *English sentences*
 **Method 2:** Break down each word in the sentence, determine its part of speech in English, and then map it to the corresponding part of speech in Arabic.
 
-*Sentence:* I was eating an apple yesterday.
+*Sentence:* I ate an apple yesterday.
 - `I ate` : Verb (Past Tense Verb) - Fi'l
 - `an apple` : Noun (Thing) - Ism
 - `yesterday` :  Adverb (Adverbs of Time) - Ism
@@ -72,7 +72,12 @@ Now, we will explore the parts of speech in English that align with the definiti
 ## Identifying Ism, Fi'l and Harf in *Arabic sentences*
 **Method:** Break down each word in the sentence, translate it into Englsih and then determine the corresponding part of speech in Arabic for the translated English word.
 
-*Sentence:* بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ
+*Sentence 1:* أَكَلْتُ تُفَّاحَةً أَمْسِ
+- a. `أَكَلْتُ` : (In English: I ate) - Fi'l
+- b. `تُفَّاحَةً` : (In English: an apple) - Ism
+- c. `أَمْسِ` : (In English: yesterday) - Ism
+
+*Sentence 2:* بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ
 - ` ` : (In Englsih: In or With) - Prepostion (Prepostions of Location). Therefore, it is Harf.
 - ` ` : (In English: Name) - Noun (Idea). Therefore , it is Ism.
 - ` ` : (In English: The Most Gracious) - Adjective (Descriptive Adjective)
