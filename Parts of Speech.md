@@ -47,7 +47,7 @@ Alternatively, we can also say that all words that are neither fi'l nor harf bel
 - **Checking Harf:** It cannot be a harf since there is no word following it without which it won't make any sense.
 
 ## Mapping Parts of Speech
-Now, we will explore the parts of speech in English that align with the definitions of ism, fi'l and harf in Arabic. Parts of speech in Arabic that correspond to parts of speech in English are as follows:
+Now, we will explore the parts of speech in English that align with the definitions of ism, fi'l and harf. The parts of speech in Arabic that correspond to parts of speech in English are as follows:
 - **Ism:** Noun, Pronoun, Adjective, Adverb, and Interjection
 - **Fi'l:** Verb
 - **Harf:** Preposition, and Conjunction
