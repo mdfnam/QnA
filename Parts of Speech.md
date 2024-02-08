@@ -73,8 +73,8 @@ Now, we will explore the parts of speech in English that align with the definiti
 **Method:** Break down each word in the sentence, translate it into Englsih and then determine the corresponding part of speech in Arabic for the translated English word.
 
 *Sentence:* أَكَلْتُ تُفَّاحَةً أَمْسِ
-- **I ate `أَكَلْتُ`** : Fi'l
-- **An apple `تُفَّاحَةً`** : Ism
-- **Yesterday `أَمْسِ`** : Ism
+- **I ate** `أَكَلْتُ` : Fi'l
+- **An apple** `تُفَّاحَةً` : Ism
+- **Yesterday** `أَمْسِ` : Ism
 
 ---
