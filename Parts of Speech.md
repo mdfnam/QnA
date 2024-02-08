@@ -28,7 +28,7 @@ While reading the Quran, we encounter numerous words (kalimah) on every page, wh
 - **Fi'l:** Part of speech in Arabic that indicates a meaning in itself and is also linked to time.
 - **Harf:** Part of speech in Arabic that conveys meaning only when followed by another word.
 
-## Identifying Ism, Fi'l and Harf in English sentences
+## Identifying Ism, Fi'l and Harf in *English sentences*
 **Method 1:** Break down each word in the English sentence, determine which definition it satisfies, and then map it to the corresponding part of speech in Arabic.
 
 *Sentence:* I was eating an apple yesterday.
@@ -44,7 +44,7 @@ Alternatively, we can also say that all words that are neither fi'l nor harf bel
 - **Checking Harf:** It cannot be a harf since there is no word following it without which it won't make any sense.
 
 ## Mapping Parts of Speech
-Parts of speech in Arabic that correspond to parts of speech in English are as follows:
+Now, we will explore the parts of speech in English that align with the definitions of ism, fi'l and harf in Arabic. Parts of speech in Arabic that correspond to parts of speech in English are as follows:
 - **Ism:** Noun, Pronoun, Adjective, Adverb, and Interjection
 - **Fi'l:** Verb
 - **Harf:** Preposition, and Conjunction
@@ -58,7 +58,7 @@ Parts of speech in Arabic that correspond to parts of speech in English are as f
 - In Arabic grammar, the term "harf " is often referred to as a "particle“. These particles serve to connect words, convey relationships, and provide additional information in a sentence. Arabic particles in english are typically prepositions and conjunctions.
 - We have not treated ‘Article’ as a separate part of speech because an article is nothing but a word that modifies a noun by indicating whether it is specific or general. We'll address this topic after discussing noun.
 
-## Identifying Ism, Fi'l and Harf in English sentences
+## Identifying Ism, Fi'l and Harf in *English sentences*
 **Method 2:** Break down each word in the sentence, determine its part of speech in English, and then map it to the corresponding part of speech in Arabic.
 
 *Sentence:* I was eating an apple yesterday.
@@ -67,10 +67,8 @@ Parts of speech in Arabic that correspond to parts of speech in English are as f
 - `an apple` : Noun (Thing) - Ism
 - `yesterday` :  Adverb (Adverbs of Time) - Ism
 
-**Summary:** If we have an English word and want to determine its corresponding part of speech in Arabic, whether it is an ism, fi'l, or harf, we can do so either by its definitions or by referring to the English word's part of speech.
-
-## Identifying Ism, Fi'l and Harf in Arabic sentences
-**Method:** Break down each word in the sentence, translate it into Englsih and employ one of the two methods, as demonstrated above, to determine the corresponding part of speech in Arabic for the translated English word.
+## Identifying Ism, Fi'l and Harf in *Arabic sentences*
+**Method:** Break down each word in the sentence, translate it into Englsih and then determine the corresponding part of speech in Arabic for the translated English word.
 
 *Sentence:* بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ
 - ` ` : (In Englsih: In or With) - Prepostion (Prepostions of Location). Therefore, it is Harf.
