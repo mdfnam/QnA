@@ -77,9 +77,4 @@ Now, we will explore the parts of speech in English that align with the definiti
 - **An apple `تُفَّاحَةً`** : Ism
 - **Yesterday `أَمْسِ`** : Ism
 
-*Sentence 2:* أَعُوذُ بِاللَّهِ مِنَ الشَّيطَانِ الرَّجِيمِ
-- a. `أَكَلْتُ` : (In English: I ate) - Fi'l
-- b. `تُفَّاحَةً` : (In English: an apple) - Ism
-- c. `أَمْسِ` : (In English: yesterday) - Ism
-
 ---
