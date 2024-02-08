@@ -77,9 +77,7 @@ Now, we will explore the parts of speech in English that align with the definiti
 - b. `تُفَّاحَةً` : (In English: an apple) - Ism
 - c. `أَمْسِ` : (In English: yesterday) - Ism
 
-*Sentence 2:* بِسْمِ ٱللَّهِ ٱلرَّحْمَـٰنِ ٱلرَّحِيمِ
-- ` ` : (In Englsih: In or With) - Prepostion (Prepostions of Location). Therefore, it is Harf.
-- ` ` : (In English: Name) - Noun (Idea). Therefore , it is Ism.
-- ` ` : (In English: The Most Gracious) - Adjective (Descriptive Adjective)
+*Sentence 2:* أَعُوذُ بِاللَّهِ مِنَ الشَّيطَانِ الرَّجِيمِ
+
 
 ---
